@@ -1,0 +1,4955 @@
+Entity,Code,Year,Eggs (from other birds) - Production (tonnes)
+Africa,OWID_AFR,1961,3430.46
+Africa,OWID_AFR,1962,3521.02
+Africa,OWID_AFR,1963,3593.58
+Africa,OWID_AFR,1964,3685.14
+Africa,OWID_AFR,1965,3779.2
+Africa,OWID_AFR,1966,3873
+Africa,OWID_AFR,1967,4391.1
+Africa,OWID_AFR,1968,4420.7
+Africa,OWID_AFR,1969,4595.9
+Africa,OWID_AFR,1970,4786.5
+Africa,OWID_AFR,1971,4888.7
+Africa,OWID_AFR,1972,4915
+Africa,OWID_AFR,1973,4940.4
+Africa,OWID_AFR,1974,4571.4
+Africa,OWID_AFR,1975,4726.8
+Africa,OWID_AFR,1976,4467
+Africa,OWID_AFR,1977,4422.76
+Africa,OWID_AFR,1978,4699
+Africa,OWID_AFR,1979,4673
+Africa,OWID_AFR,1980,3870
+Africa,OWID_AFR,1981,3823.36
+Africa,OWID_AFR,1982,3562.72
+Africa,OWID_AFR,1983,3324
+Africa,OWID_AFR,1984,3296
+Africa,OWID_AFR,1985,3993
+Africa,OWID_AFR,1986,4262
+Africa,OWID_AFR,1987,3687
+Africa,OWID_AFR,1988,4152
+Africa,OWID_AFR,1989,4095
+Africa,OWID_AFR,1990,4570
+Africa,OWID_AFR,1991,4857
+Africa,OWID_AFR,1992,5114
+Africa,OWID_AFR,1993,5269
+Africa,OWID_AFR,1994,5458
+Africa,OWID_AFR,1995,5633
+Africa,OWID_AFR,1996,6149
+Africa,OWID_AFR,1997,6560
+Africa,OWID_AFR,1998,6913
+Africa,OWID_AFR,1999,6781
+Africa,OWID_AFR,2000,7038
+Africa,OWID_AFR,2001,7556.7
+Africa,OWID_AFR,2002,7123
+Africa,OWID_AFR,2003,7083.5
+Africa,OWID_AFR,2004,7203
+Africa,OWID_AFR,2005,7243
+Africa,OWID_AFR,2006,7306
+Africa,OWID_AFR,2007,7658
+Africa,OWID_AFR,2008,7498
+Africa,OWID_AFR,2009,7538
+Africa,OWID_AFR,2010,7548
+Africa,OWID_AFR,2011,7572
+Africa,OWID_AFR,2012,7572
+Africa,OWID_AFR,2013,7554
+Africa,OWID_AFR,2014,7789.54
+Africa,OWID_AFR,2015,7777
+Africa,OWID_AFR,2016,7712
+Africa,OWID_AFR,2017,8006
+Africa,OWID_AFR,2018,7996
+Africa,OWID_AFR,2019,7996
+Africa,OWID_AFR,2020,7996
+Africa,OWID_AFR,2021,8216
+Africa,OWID_AFR,2022,8216
+Africa,OWID_AFR,2023,8216
+Africa,OWID_AFR,2024,8216
+Africa (FAO),,1961,3430.46
+Africa (FAO),,1962,3521.02
+Africa (FAO),,1963,3593.58
+Africa (FAO),,1964,3685.14
+Africa (FAO),,1965,3779.2
+Africa (FAO),,1966,3873
+Africa (FAO),,1967,4391.1
+Africa (FAO),,1968,4420.7
+Africa (FAO),,1969,4595.9
+Africa (FAO),,1970,4786.5
+Africa (FAO),,1971,4888.7
+Africa (FAO),,1972,4915
+Africa (FAO),,1973,4940.4
+Africa (FAO),,1974,4571.4
+Africa (FAO),,1975,4726.8
+Africa (FAO),,1976,4467
+Africa (FAO),,1977,4422.76
+Africa (FAO),,1978,4699
+Africa (FAO),,1979,4673
+Africa (FAO),,1980,3870
+Africa (FAO),,1981,3823.36
+Africa (FAO),,1982,3562.72
+Africa (FAO),,1983,3324
+Africa (FAO),,1984,3296
+Africa (FAO),,1985,3993
+Africa (FAO),,1986,4262
+Africa (FAO),,1987,3687
+Africa (FAO),,1988,4152
+Africa (FAO),,1989,4095
+Africa (FAO),,1990,4570
+Africa (FAO),,1991,4857
+Africa (FAO),,1992,5114
+Africa (FAO),,1993,5269
+Africa (FAO),,1994,5458
+Africa (FAO),,1995,5633
+Africa (FAO),,1996,6149
+Africa (FAO),,1997,6560
+Africa (FAO),,1998,6913
+Africa (FAO),,1999,6781
+Africa (FAO),,2000,7038
+Africa (FAO),,2001,7556.7
+Africa (FAO),,2002,7123
+Africa (FAO),,2003,7083.5
+Africa (FAO),,2004,7203
+Africa (FAO),,2005,7243
+Africa (FAO),,2006,7306
+Africa (FAO),,2007,7658
+Africa (FAO),,2008,7498
+Africa (FAO),,2009,7538
+Africa (FAO),,2010,7548
+Africa (FAO),,2011,7572
+Africa (FAO),,2012,7572
+Africa (FAO),,2013,7554
+Africa (FAO),,2014,7789.55
+Africa (FAO),,2015,7777
+Africa (FAO),,2016,7712
+Africa (FAO),,2017,8006
+Africa (FAO),,2018,7996
+Africa (FAO),,2019,7996
+Africa (FAO),,2020,7996
+Africa (FAO),,2021,8216
+Africa (FAO),,2022,8216
+Africa (FAO),,2023,8216
+Africa (FAO),,2024,8216
+Albania,ALB,2000,490
+Albania,ALB,2001,550
+Albania,ALB,2002,650
+Albania,ALB,2003,600
+Albania,ALB,2004,500
+Albania,ALB,2005,450
+Albania,ALB,2006,350
+Albania,ALB,2007,300
+Albania,ALB,2008,270
+Albania,ALB,2009,250
+Albania,ALB,2010,200
+Albania,ALB,2011,200
+Albania,ALB,2012,200
+Albania,ALB,2013,200
+Albania,ALB,2014,200
+Albania,ALB,2015,197.45
+Albania,ALB,2016,200
+Albania,ALB,2017,200
+Albania,ALB,2018,200
+Albania,ALB,2019,200
+Albania,ALB,2020,200
+Albania,ALB,2021,200
+Albania,ALB,2022,200
+Albania,ALB,2023,200
+Albania,ALB,2024,200
+Americas (FAO),,1961,4072
+Americas (FAO),,1962,4217
+Americas (FAO),,1963,4267
+Americas (FAO),,1964,4317
+Americas (FAO),,1965,4396
+Americas (FAO),,1966,4482
+Americas (FAO),,1967,4529
+Americas (FAO),,1968,4540
+Americas (FAO),,1969,4526
+Americas (FAO),,1970,4548
+Americas (FAO),,1971,4583
+Americas (FAO),,1972,4654
+Americas (FAO),,1973,4730
+Americas (FAO),,1974,4890
+Americas (FAO),,1975,4784
+Americas (FAO),,1976,4762
+Americas (FAO),,1977,6995
+Americas (FAO),,1978,7111
+Americas (FAO),,1979,9476
+Americas (FAO),,1980,11157
+Americas (FAO),,1981,13185
+Americas (FAO),,1982,15210
+Americas (FAO),,1983,17245
+Americas (FAO),,1984,19245
+Americas (FAO),,1985,21245
+Americas (FAO),,1986,22655
+Americas (FAO),,1987,22490
+Americas (FAO),,1988,24790
+Americas (FAO),,1989,24300
+Americas (FAO),,1990,27243
+Americas (FAO),,1991,5946.58
+Americas (FAO),,1992,5258.32
+Americas (FAO),,1993,5565.41
+Americas (FAO),,1994,5479.11
+Americas (FAO),,1995,7091.7
+Americas (FAO),,1996,7606.46
+Americas (FAO),,1997,8913.61
+Americas (FAO),,1998,9225.73
+Americas (FAO),,1999,9837.34
+Americas (FAO),,2000,13043.01
+Americas (FAO),,2001,13975
+Americas (FAO),,2002,13883.02
+Americas (FAO),,2003,14320
+Americas (FAO),,2004,15410
+Americas (FAO),,2005,17245
+Americas (FAO),,2006,18160
+Americas (FAO),,2007,19077.57
+Americas (FAO),,2008,22700
+Americas (FAO),,2009,27421.15
+Americas (FAO),,2010,32882.23
+Americas (FAO),,2011,36720
+Americas (FAO),,2012,40042
+Americas (FAO),,2013,47745
+Americas (FAO),,2014,54558.23
+Americas (FAO),,2015,53291.71
+Americas (FAO),,2016,38245
+Americas (FAO),,2017,42560
+Americas (FAO),,2018,41660
+Americas (FAO),,2019,44060
+Americas (FAO),,2020,41060
+Americas (FAO),,2021,38260
+Americas (FAO),,2022,32460
+Americas (FAO),,2023,34260
+Americas (FAO),,2024,36360
+Armenia,ARM,1992,260
+Armenia,ARM,1993,190
+Armenia,ARM,1994,130
+Armenia,ARM,1995,190
+Armenia,ARM,1996,143
+Armenia,ARM,1997,117
+Armenia,ARM,1998,156
+Armenia,ARM,1999,189
+Armenia,ARM,2000,200
+Armenia,ARM,2001,214
+Armenia,ARM,2002,214.5
+Armenia,ARM,2003,266.5
+Armenia,ARM,2004,332
+Armenia,ARM,2005,269
+Armenia,ARM,2006,240
+Armenia,ARM,2007,272
+Armenia,ARM,2008,300
+Armenia,ARM,2009,325
+Armenia,ARM,2010,455
+Armenia,ARM,2011,416
+Armenia,ARM,2012,429
+Armenia,ARM,2013,403
+Armenia,ARM,2014,420
+Armenia,ARM,2015,416
+Armenia,ARM,2016,420
+Armenia,ARM,2017,420
+Asia,OWID_ASI,1961,623455.3
+Asia,OWID_ASI,1962,632875.4
+Asia,OWID_ASI,1963,644552.06
+Asia,OWID_ASI,1964,655429.4
+Asia,OWID_ASI,1965,673900.75
+Asia,OWID_ASI,1966,689928.94
+Asia,OWID_ASI,1967,706965.3
+Asia,OWID_ASI,1968,724213.25
+Asia,OWID_ASI,1969,738564.56
+Asia,OWID_ASI,1970,757020
+Asia,OWID_ASI,1971,783188.7
+Asia,OWID_ASI,1972,797403.4
+Asia,OWID_ASI,1973,818599.4
+Asia,OWID_ASI,1974,827130.2
+Asia,OWID_ASI,1975,885188
+Asia,OWID_ASI,1976,906575
+Asia,OWID_ASI,1977,957366.4
+Asia,OWID_ASI,1978,1004577.4
+Asia,OWID_ASI,1979,1000185.8
+Asia,OWID_ASI,1980,1048493.2
+Asia,OWID_ASI,1981,1052490.8
+Asia,OWID_ASI,1982,1089715.6
+Asia,OWID_ASI,1983,1170677
+Asia,OWID_ASI,1984,1373853.8
+Asia,OWID_ASI,1985,1573961.4
+Asia,OWID_ASI,1986,1660915.6
+Asia,OWID_ASI,1987,1737973.8
+Asia,OWID_ASI,1988,1891624.4
+Asia,OWID_ASI,1989,1951464.4
+Asia,OWID_ASI,1990,2105902.5
+Asia,OWID_ASI,1991,2385523.5
+Asia,OWID_ASI,1992,2597906.2
+Asia,OWID_ASI,1993,2919855
+Asia,OWID_ASI,1994,3531931.8
+Asia,OWID_ASI,1995,3925383.2
+Asia,OWID_ASI,1996,4616582
+Asia,OWID_ASI,1997,3456646.8
+Asia,OWID_ASI,1998,3623388.8
+Asia,OWID_ASI,1999,3791204.5
+Asia,OWID_ASI,2000,3898243
+Asia,OWID_ASI,2001,3969257.2
+Asia,OWID_ASI,2002,4032437.5
+Asia,OWID_ASI,2003,4209325
+Asia,OWID_ASI,2004,4253520
+Asia,OWID_ASI,2005,4398469.5
+Asia,OWID_ASI,2006,4385362
+Asia,OWID_ASI,2007,4578710.5
+Asia,OWID_ASI,2008,4854839.5
+Asia,OWID_ASI,2009,4958217
+Asia,OWID_ASI,2010,5032412
+Asia,OWID_ASI,2011,5128530.5
+Asia,OWID_ASI,2012,5240843
+Asia,OWID_ASI,2013,5288581.5
+Asia,OWID_ASI,2014,5387282
+Asia,OWID_ASI,2015,5655358.5
+Asia,OWID_ASI,2016,5843032
+Asia,OWID_ASI,2017,5553150.5
+Asia,OWID_ASI,2018,5570945
+Asia,OWID_ASI,2019,5770764
+Asia,OWID_ASI,2020,6021901
+Asia,OWID_ASI,2021,6003834
+Asia,OWID_ASI,2022,6128734.5
+Asia,OWID_ASI,2023,6130151.5
+Asia,OWID_ASI,2024,6209254
+Asia (FAO),,1961,623455.3
+Asia (FAO),,1962,632875.4
+Asia (FAO),,1963,644552.06
+Asia (FAO),,1964,655429.4
+Asia (FAO),,1965,673900.75
+Asia (FAO),,1966,689928.94
+Asia (FAO),,1967,706965.3
+Asia (FAO),,1968,724213.25
+Asia (FAO),,1969,738564.56
+Asia (FAO),,1970,757020
+Asia (FAO),,1971,783188.7
+Asia (FAO),,1972,797403.4
+Asia (FAO),,1973,818599.4
+Asia (FAO),,1974,827130.2
+Asia (FAO),,1975,885188
+Asia (FAO),,1976,906575
+Asia (FAO),,1977,957366.4
+Asia (FAO),,1978,1004577.4
+Asia (FAO),,1979,1000185.8
+Asia (FAO),,1980,1048493.2
+Asia (FAO),,1981,1052490.8
+Asia (FAO),,1982,1089715.6
+Asia (FAO),,1983,1170677
+Asia (FAO),,1984,1373853.8
+Asia (FAO),,1985,1573961.4
+Asia (FAO),,1986,1660915.6
+Asia (FAO),,1987,1737973.8
+Asia (FAO),,1988,1891624.4
+Asia (FAO),,1989,1951464.4
+Asia (FAO),,1990,2105902.5
+Asia (FAO),,1991,2385523.5
+Asia (FAO),,1992,2597906.2
+Asia (FAO),,1993,2919855
+Asia (FAO),,1994,3531931.8
+Asia (FAO),,1995,3925383.2
+Asia (FAO),,1996,4616582
+Asia (FAO),,1997,3456646.8
+Asia (FAO),,1998,3623388.8
+Asia (FAO),,1999,3791204.5
+Asia (FAO),,2000,3898243
+Asia (FAO),,2001,3969257.2
+Asia (FAO),,2002,4032437.5
+Asia (FAO),,2003,4209325
+Asia (FAO),,2004,4253520
+Asia (FAO),,2005,4398469.5
+Asia (FAO),,2006,4385362
+Asia (FAO),,2007,4578710.5
+Asia (FAO),,2008,4854839.5
+Asia (FAO),,2009,4958217
+Asia (FAO),,2010,5032412
+Asia (FAO),,2011,5128530.5
+Asia (FAO),,2012,5240843
+Asia (FAO),,2013,5288581.5
+Asia (FAO),,2014,5387282
+Asia (FAO),,2015,5655358.5
+Asia (FAO),,2016,5843032
+Asia (FAO),,2017,5553150.5
+Asia (FAO),,2018,5570945
+Asia (FAO),,2019,5770764
+Asia (FAO),,2020,6021901
+Asia (FAO),,2021,6003834
+Asia (FAO),,2022,6128734.5
+Asia (FAO),,2023,6130151.5
+Asia (FAO),,2024,6209254
+Australia and New Zealand (FAO),,1961,1340
+Australia and New Zealand (FAO),,1962,1340
+Australia and New Zealand (FAO),,1963,1340
+Australia and New Zealand (FAO),,1964,1330
+Australia and New Zealand (FAO),,1965,1330
+Australia and New Zealand (FAO),,1966,1370
+Australia and New Zealand (FAO),,1967,1370
+Australia and New Zealand (FAO),,1968,1380
+Australia and New Zealand (FAO),,1969,1390
+Australia and New Zealand (FAO),,1970,1375
+Australia and New Zealand (FAO),,1971,1390
+Australia and New Zealand (FAO),,1972,1390
+Australia and New Zealand (FAO),,1973,1360
+Australia and New Zealand (FAO),,1974,1390
+Australia and New Zealand (FAO),,1975,1400
+Australia and New Zealand (FAO),,1976,1400
+Australia and New Zealand (FAO),,1977,1400
+Australia and New Zealand (FAO),,1978,1400
+Australia and New Zealand (FAO),,1979,1400
+Australia and New Zealand (FAO),,1980,1420
+Australia and New Zealand (FAO),,1981,1420
+Australia and New Zealand (FAO),,1982,1440
+Australia and New Zealand (FAO),,1983,1440
+Australia and New Zealand (FAO),,1984,1440
+Australia and New Zealand (FAO),,1985,1440
+Australia and New Zealand (FAO),,1986,1450
+Australia and New Zealand (FAO),,1987,1450
+Australia and New Zealand (FAO),,1988,1800
+Australia and New Zealand (FAO),,1989,1800
+Australia and New Zealand (FAO),,1990,24000
+Australia and New Zealand (FAO),,1991,24600
+Australia and New Zealand (FAO),,1992,25500
+Australia and New Zealand (FAO),,1993,26600
+Australia and New Zealand (FAO),,1994,2350
+Australia and New Zealand (FAO),,1995,6521.85
+Australia and New Zealand (FAO),,1996,2400
+Australia and New Zealand (FAO),,1997,4857.19
+Australia and New Zealand (FAO),,1998,2400
+Australia and New Zealand (FAO),,1999,2400
+Australia and New Zealand (FAO),,2000,2400
+Australia and New Zealand (FAO),,2001,2400
+Australia and New Zealand (FAO),,2002,2400
+Australia and New Zealand (FAO),,2003,2366.33
+Australia and New Zealand (FAO),,2004,2262.67
+Australia and New Zealand (FAO),,2005,2500
+Australia and New Zealand (FAO),,2006,2053.89
+Australia and New Zealand (FAO),,2007,1861.51
+Australia and New Zealand (FAO),,2008,1993.49
+Australia and New Zealand (FAO),,2009,2175.99
+Australia and New Zealand (FAO),,2010,1773.27
+Australia and New Zealand (FAO),,2011,1713.22
+Australia and New Zealand (FAO),,2012,1797.55
+Australia and New Zealand (FAO),,2013,1802.13
+Australia and New Zealand (FAO),,2014,1806.72
+Australia and New Zealand (FAO),,2015,1811.3
+Australia and New Zealand (FAO),,2016,1800
+Australia and New Zealand (FAO),,2017,1800
+Australia and New Zealand (FAO),,2018,1880
+Australia and New Zealand (FAO),,2019,1880
+Australia and New Zealand (FAO),,2020,1880
+Australia and New Zealand (FAO),,2021,1880
+Australia and New Zealand (FAO),,2022,1880
+Australia and New Zealand (FAO),,2023,1880
+Australia and New Zealand (FAO),,2024,1880
+Azerbaijan,AZE,1992,325
+Azerbaijan,AZE,1993,260
+Azerbaijan,AZE,1994,260
+Azerbaijan,AZE,1995,195
+Azerbaijan,AZE,1996,141
+Azerbaijan,AZE,1997,130
+Azerbaijan,AZE,1998,130
+Azerbaijan,AZE,1999,135
+Azerbaijan,AZE,2000,169
+Azerbaijan,AZE,2001,153
+Azerbaijan,AZE,2002,144
+Azerbaijan,AZE,2003,183
+Azerbaijan,AZE,2004,194
+Azerbaijan,AZE,2005,190
+Azerbaijan,AZE,2006,177
+Azerbaijan,AZE,2007,200
+Azerbaijan,AZE,2008,162
+Azerbaijan,AZE,2009,195
+Azerbaijan,AZE,2010,189
+Azerbaijan,AZE,2011,188.86
+Azerbaijan,AZE,2012,196.42
+Azerbaijan,AZE,2013,203.46
+Azerbaijan,AZE,2014,205.86
+Azerbaijan,AZE,2015,208.27
+Azerbaijan,AZE,2016,200
+Azerbaijan,AZE,2017,200
+Azerbaijan,AZE,2018,200
+Azerbaijan,AZE,2019,200
+Azerbaijan,AZE,2020,200
+Azerbaijan,AZE,2021,200
+Azerbaijan,AZE,2022,200
+Azerbaijan,AZE,2023,200
+Azerbaijan,AZE,2024,200
+Bangladesh,BGD,1961,12400
+Bangladesh,BGD,1962,15900
+Bangladesh,BGD,1963,17000
+Bangladesh,BGD,1964,17700
+Bangladesh,BGD,1965,18800
+Bangladesh,BGD,1966,20500
+Bangladesh,BGD,1967,21300
+Bangladesh,BGD,1968,22300
+Bangladesh,BGD,1969,23000
+Bangladesh,BGD,1970,23400
+Bangladesh,BGD,1971,23400
+Bangladesh,BGD,1972,23000
+Bangladesh,BGD,1973,22700
+Bangladesh,BGD,1974,22400
+Bangladesh,BGD,1975,22200
+Bangladesh,BGD,1976,22000
+Bangladesh,BGD,1977,22000
+Bangladesh,BGD,1978,32383
+Bangladesh,BGD,1979,34756
+Bangladesh,BGD,1980,27229
+Bangladesh,BGD,1981,28860
+Bangladesh,BGD,1982,30592
+Bangladesh,BGD,1983,32429
+Bangladesh,BGD,1984,27000
+Bangladesh,BGD,1985,23200
+Bangladesh,BGD,1986,23400
+Bangladesh,BGD,1987,23700
+Bangladesh,BGD,1988,23900
+Bangladesh,BGD,1989,19400
+Bangladesh,BGD,1990,24454
+Bangladesh,BGD,1991,24178
+Bangladesh,BGD,1992,24444
+Bangladesh,BGD,1993,25269
+Bangladesh,BGD,1994,33600
+Bangladesh,BGD,1995,36700
+Bangladesh,BGD,1996,39800
+Bangladesh,BGD,1997,43000
+Bangladesh,BGD,1998,46000
+Bangladesh,BGD,1999,49000
+Bangladesh,BGD,2000,53100
+Bangladesh,BGD,2001,57300
+Bangladesh,BGD,2002,61900
+Bangladesh,BGD,2003,67000
+Bangladesh,BGD,2004,66900
+Bangladesh,BGD,2005,78700
+Bangladesh,BGD,2006,75900
+Bangladesh,BGD,2007,75200
+Bangladesh,BGD,2008,79200
+Bangladesh,BGD,2009,65700
+Bangladesh,BGD,2010,80300
+Bangladesh,BGD,2011,85000
+Bangladesh,BGD,2012,102000
+Bangladesh,BGD,2013,105000
+Bangladesh,BGD,2014,137200
+Bangladesh,BGD,2015,148430
+Bangladesh,BGD,2016,161000
+Bangladesh,BGD,2017,201600
+Bangladesh,BGD,2018,209500
+Bangladesh,BGD,2019,236100
+Bangladesh,BGD,2020,239600
+Bangladesh,BGD,2021,283900
+Bangladesh,BGD,2022,322300
+Bangladesh,BGD,2023,322600
+Bangladesh,BGD,2024,327700
+Belarus,BLR,1992,2275
+Belarus,BLR,1993,2200
+Belarus,BLR,1994,1950
+Belarus,BLR,1995,2119
+Belarus,BLR,1996,2665
+Belarus,BLR,1997,2530
+Belarus,BLR,1998,2002
+Belarus,BLR,1999,2150
+Belarus,BLR,2000,2145
+Belarus,BLR,2001,2190.5
+Belarus,BLR,2002,1460
+Belarus,BLR,2003,1350
+Belarus,BLR,2004,1540
+Belarus,BLR,2005,1550
+Belarus,BLR,2006,2180
+Belarus,BLR,2007,2100
+Belarus,BLR,2008,2080
+Belarus,BLR,2009,2015
+Belarus,BLR,2010,2370
+Belarus,BLR,2011,2405
+Belarus,BLR,2012,2535
+Belarus,BLR,2013,2665
+Belarus,BLR,2014,2650
+Belarus,BLR,2015,2650
+Belarus,BLR,2016,2270
+Belarus,BLR,2017,2300
+Belarus,BLR,2018,2300
+Belarus,BLR,2019,2300
+Belarus,BLR,2020,2300
+Belarus,BLR,2021,2300
+Belarus,BLR,2022,2300
+Belarus,BLR,2023,2300
+Belarus,BLR,2024,2300
+Brazil,BRA,1961,3300
+Brazil,BRA,1962,3360
+Brazil,BRA,1963,3390
+Brazil,BRA,1964,3420
+Brazil,BRA,1965,3480
+Brazil,BRA,1966,3520
+Brazil,BRA,1967,3540
+Brazil,BRA,1968,3595
+Brazil,BRA,1969,3640
+Brazil,BRA,1970,3690
+Brazil,BRA,1971,3720
+Brazil,BRA,1972,3750
+Brazil,BRA,1973,3790
+Brazil,BRA,1974,3905
+Brazil,BRA,1975,3755
+Brazil,BRA,1976,3715
+Brazil,BRA,1977,5928
+Brazil,BRA,1978,6009
+Brazil,BRA,1979,8343
+Brazil,BRA,1980,10000
+Brazil,BRA,1981,12000
+Brazil,BRA,1982,14000
+Brazil,BRA,1983,16000
+Brazil,BRA,1984,18000
+Brazil,BRA,1985,20000
+Brazil,BRA,1986,21400
+Brazil,BRA,1987,21200
+Brazil,BRA,1988,23500
+Brazil,BRA,1989,23000
+Brazil,BRA,1990,25900
+Brazil,BRA,1991,4700
+Brazil,BRA,1992,4000
+Brazil,BRA,1993,4300
+Brazil,BRA,1994,4200
+Brazil,BRA,1995,5800
+Brazil,BRA,1996,6300
+Brazil,BRA,1997,7600
+Brazil,BRA,1998,7900
+Brazil,BRA,1999,8500
+Brazil,BRA,2000,11700
+Brazil,BRA,2001,12600
+Brazil,BRA,2002,12500
+Brazil,BRA,2003,12900
+Brazil,BRA,2004,14000
+Brazil,BRA,2005,15800
+Brazil,BRA,2006,16700
+Brazil,BRA,2007,17600
+Brazil,BRA,2008,21200
+Brazil,BRA,2009,25900
+Brazil,BRA,2010,31300
+Brazil,BRA,2011,35100
+Brazil,BRA,2012,38400
+Brazil,BRA,2013,46100
+Brazil,BRA,2014,52900
+Brazil,BRA,2015,51600
+Brazil,BRA,2016,36600
+Brazil,BRA,2017,40900
+Brazil,BRA,2018,40100
+Brazil,BRA,2019,42500
+Brazil,BRA,2020,39500
+Brazil,BRA,2021,36700
+Brazil,BRA,2022,30900
+Brazil,BRA,2023,32700
+Brazil,BRA,2024,34800
+Bulgaria,BGR,1961,2000
+Bulgaria,BGR,1962,2500
+Bulgaria,BGR,1963,3000
+Bulgaria,BGR,1964,3500
+Bulgaria,BGR,1965,4000
+Bulgaria,BGR,1966,4000
+Bulgaria,BGR,1967,4195
+Bulgaria,BGR,1968,4298
+Bulgaria,BGR,1969,3265
+Bulgaria,BGR,1970,2469
+Bulgaria,BGR,1971,2751
+Bulgaria,BGR,1972,2683
+Bulgaria,BGR,1973,2501
+Bulgaria,BGR,1974,2524
+Bulgaria,BGR,1975,2409
+Bulgaria,BGR,1976,2233
+Bulgaria,BGR,1977,2347
+Bulgaria,BGR,1978,3256
+Bulgaria,BGR,1979,2337
+Bulgaria,BGR,1980,2060
+Bulgaria,BGR,1981,2449
+Bulgaria,BGR,1982,2503
+Bulgaria,BGR,1983,2268
+Bulgaria,BGR,1984,2313
+Bulgaria,BGR,1985,2767
+Bulgaria,BGR,1986,2433
+Bulgaria,BGR,1987,2696
+Bulgaria,BGR,1988,1156
+Bulgaria,BGR,1989,3811
+Bulgaria,BGR,1990,3192
+Bulgaria,BGR,1991,2378
+Bulgaria,BGR,1992,2320
+Bulgaria,BGR,1993,2689
+Bulgaria,BGR,1994,2044
+Bulgaria,BGR,1995,2075
+Bulgaria,BGR,1996,1711
+Bulgaria,BGR,1997,2419
+Bulgaria,BGR,1998,5123
+Bulgaria,BGR,1999,5178
+Bulgaria,BGR,2000,1625
+Bulgaria,BGR,2001,1616
+Bulgaria,BGR,2002,2310
+Bulgaria,BGR,2003,155
+Bulgaria,BGR,2004,85
+Bulgaria,BGR,2005,534
+Bulgaria,BGR,2006,1369.9
+Bulgaria,BGR,2007,1440
+Bulgaria,BGR,2008,532
+Bulgaria,BGR,2009,158
+Bulgaria,BGR,2010,434
+Bulgaria,BGR,2011,423
+Bulgaria,BGR,2012,352
+Bulgaria,BGR,2013,334
+Bulgaria,BGR,2014,328
+Bulgaria,BGR,2015,483
+Bulgaria,BGR,2016,808
+Bulgaria,BGR,2017,1311
+Cambodia,KHM,1961,650
+Cambodia,KHM,1962,750
+Cambodia,KHM,1963,860
+Cambodia,KHM,1964,995
+Cambodia,KHM,1965,1000
+Cambodia,KHM,1966,1120
+Cambodia,KHM,1967,1840
+Cambodia,KHM,1968,2005
+Cambodia,KHM,1969,2160
+Cambodia,KHM,1970,2200
+Cambodia,KHM,1971,2250
+Cambodia,KHM,1972,2350
+Cambodia,KHM,1973,2250
+Cambodia,KHM,1974,2200
+Cambodia,KHM,1975,2100
+Cambodia,KHM,1976,2350
+Cambodia,KHM,1977,2400
+Cambodia,KHM,1978,2200
+Cambodia,KHM,1979,2000
+Cambodia,KHM,1980,2100
+Cambodia,KHM,1981,2200
+Cambodia,KHM,1982,2300
+Cambodia,KHM,1983,2350
+Cambodia,KHM,1984,2400
+Cambodia,KHM,1985,2450
+Cambodia,KHM,1986,2500
+Cambodia,KHM,1987,2525
+Cambodia,KHM,1988,2550
+Cambodia,KHM,1989,2575
+Cambodia,KHM,1990,2600
+Cambodia,KHM,1991,2840
+Cambodia,KHM,1992,2750
+Cambodia,KHM,1993,2800
+Cambodia,KHM,1994,2850
+Cambodia,KHM,1995,3090
+Cambodia,KHM,1996,3000
+Cambodia,KHM,1997,3100
+Cambodia,KHM,1998,3150
+Cambodia,KHM,1999,3250
+Cambodia,KHM,2000,3250
+Cambodia,KHM,2001,3250
+Cambodia,KHM,2002,3500
+Cambodia,KHM,2003,3500
+Cambodia,KHM,2004,3750
+Cambodia,KHM,2005,3750
+Cambodia,KHM,2006,3750
+Cambodia,KHM,2007,3750
+Cambodia,KHM,2008,3750
+Cambodia,KHM,2009,3750
+Cambodia,KHM,2010,4100
+Cambodia,KHM,2011,4175
+Cambodia,KHM,2012,4000
+Cambodia,KHM,2013,4000
+Cambodia,KHM,2014,4198.58
+Cambodia,KHM,2015,4000
+Cambodia,KHM,2016,4000
+Cambodia,KHM,2017,4000
+Cambodia,KHM,2018,4000
+Cambodia,KHM,2019,4000
+Cambodia,KHM,2020,4000
+Cambodia,KHM,2021,4000
+Cambodia,KHM,2022,4000
+Cambodia,KHM,2023,4000
+Cambodia,KHM,2024,4000
+Caribbean (FAO),,1961,340
+Caribbean (FAO),,1962,347
+Caribbean (FAO),,1963,354
+Caribbean (FAO),,1964,361
+Caribbean (FAO),,1965,368
+Caribbean (FAO),,1966,376
+Caribbean (FAO),,1967,383
+Caribbean (FAO),,1968,391
+Caribbean (FAO),,1969,399
+Caribbean (FAO),,1970,407
+Caribbean (FAO),,1971,415
+Caribbean (FAO),,1972,423
+Caribbean (FAO),,1973,431
+Caribbean (FAO),,1974,440
+Caribbean (FAO),,1975,450
+Caribbean (FAO),,1976,460
+Caribbean (FAO),,1977,470
+Caribbean (FAO),,1978,475
+Caribbean (FAO),,1979,480
+Caribbean (FAO),,1980,490
+Caribbean (FAO),,1981,500
+Caribbean (FAO),,1982,510
+Caribbean (FAO),,1983,525
+Caribbean (FAO),,1984,525
+Caribbean (FAO),,1985,525
+Caribbean (FAO),,1986,525
+Caribbean (FAO),,1987,550
+Caribbean (FAO),,1988,550
+Caribbean (FAO),,1989,550
+Caribbean (FAO),,1990,625
+Caribbean (FAO),,1991,491.58
+Caribbean (FAO),,1992,500
+Caribbean (FAO),,1993,505.41
+Caribbean (FAO),,1994,512.4
+Caribbean (FAO),,1995,519.42
+Caribbean (FAO),,1996,526.46
+Caribbean (FAO),,1997,531.87
+Caribbean (FAO),,1998,539.97
+Caribbean (FAO),,1999,547.45
+Caribbean (FAO),,2000,550
+Caribbean (FAO),,2001,575
+Caribbean (FAO),,2002,575
+Caribbean (FAO),,2003,600
+Caribbean (FAO),,2004,600
+Caribbean (FAO),,2005,625
+Caribbean (FAO),,2006,600
+Caribbean (FAO),,2007,600
+Caribbean (FAO),,2008,600
+Caribbean (FAO),,2009,600
+Caribbean (FAO),,2010,632.23
+Caribbean (FAO),,2011,670
+Caribbean (FAO),,2012,672
+Caribbean (FAO),,2013,675
+Caribbean (FAO),,2014,674.99
+Caribbean (FAO),,2015,681.69
+Caribbean (FAO),,2016,675
+Caribbean (FAO),,2017,670
+Caribbean (FAO),,2018,550
+Caribbean (FAO),,2019,550
+Caribbean (FAO),,2020,550
+Caribbean (FAO),,2021,550
+Caribbean (FAO),,2022,550
+Caribbean (FAO),,2023,550
+Caribbean (FAO),,2024,550
+Central Asia (FAO),,1992,4166
+Central Asia (FAO),,1993,2959
+Central Asia (FAO),,1994,3204
+Central Asia (FAO),,1995,2368
+Central Asia (FAO),,1996,1772
+Central Asia (FAO),,1997,1759
+Central Asia (FAO),,1998,2307
+Central Asia (FAO),,1999,1691
+Central Asia (FAO),,2000,2142
+Central Asia (FAO),,2001,2149
+Central Asia (FAO),,2002,2386
+Central Asia (FAO),,2003,2886
+Central Asia (FAO),,2004,3087
+Central Asia (FAO),,2005,3000
+Central Asia (FAO),,2006,2550
+Central Asia (FAO),,2007,2855
+Central Asia (FAO),,2008,3095
+Central Asia (FAO),,2009,3724
+Central Asia (FAO),,2010,3788.84
+Central Asia (FAO),,2011,5035
+Central Asia (FAO),,2012,3590
+Central Asia (FAO),,2013,5490
+Central Asia (FAO),,2014,2900
+Central Asia (FAO),,2015,3063
+Central Asia (FAO),,2016,3498
+Central Asia (FAO),,2017,3917
+Central Asia (FAO),,2018,3859
+Central Asia (FAO),,2019,4875
+Central Asia (FAO),,2020,4327
+Central Asia (FAO),,2021,4662
+Central Asia (FAO),,2022,4747
+Central Asia (FAO),,2023,4404
+Central Asia (FAO),,2024,5276
+China,CHN,1961,300000
+China,CHN,1962,304000
+China,CHN,1963,308000
+China,CHN,1964,316000
+China,CHN,1965,320000
+China,CHN,1966,330000
+China,CHN,1967,345000
+China,CHN,1968,350000
+China,CHN,1969,360000
+China,CHN,1970,370000
+China,CHN,1971,390000
+China,CHN,1972,400000
+China,CHN,1973,420000
+China,CHN,1974,430000
+China,CHN,1975,450000
+China,CHN,1976,470000
+China,CHN,1977,480000
+China,CHN,1978,520000
+China,CHN,1979,530000
+China,CHN,1980,560000
+China,CHN,1981,580000
+China,CHN,1982,620000
+China,CHN,1983,665000
+China,CHN,1984,863000
+China,CHN,1985,1069000
+China,CHN,1986,1110000
+China,CHN,1987,1180000
+China,CHN,1988,1391000
+China,CHN,1989,1440000
+China,CHN,1990,1589000
+China,CHN,1991,1848000
+China,CHN,1992,2040000
+China,CHN,1993,2360000
+China,CHN,1994,2958000
+China,CHN,1995,3353000
+China,CHN,1996,4020000
+China,CHN,1997,2846000
+China,CHN,1998,3030000
+China,CHN,1999,3202000
+China,CHN,2000,3273000
+China,CHN,2001,3315000
+China,CHN,2002,3353000
+China,CHN,2003,3500000
+China,CHN,2004,3556000
+China,CHN,2005,3657000
+China,CHN,2006,3636000
+China,CHN,2007,3793000
+China,CHN,2008,4054000
+China,CHN,2009,4113750
+China,CHN,2010,4144000
+China,CHN,2011,4217100
+China,CHN,2012,4292000
+China,CHN,2013,4314000
+China,CHN,2014,4340900
+China,CHN,2015,4571000
+China,CHN,2016,4741000
+China,CHN,2017,4397638.5
+China,CHN,2018,4433863.5
+China,CHN,2019,4635900
+China,CHN,2020,4855200
+China,CHN,2021,4772334
+China,CHN,2022,4838932
+China,CHN,2023,4988186
+China,CHN,2024,5023200
+China (FAO),,1961,311807
+China (FAO),,1962,315947
+China (FAO),,1963,320221
+China (FAO),,1964,329295
+China (FAO),,1965,342078
+China (FAO),,1966,352438
+China (FAO),,1967,367252
+China (FAO),,1968,374409
+China (FAO),,1969,386299
+China (FAO),,1970,398661
+China (FAO),,1971,418026
+China (FAO),,1972,430390
+China (FAO),,1973,451760
+China (FAO),,1974,457091
+China (FAO),,1975,480295
+China (FAO),,1976,500011
+China (FAO),,1977,509645
+China (FAO),,1978,552835
+China (FAO),,1979,563769
+China (FAO),,1980,590531
+China (FAO),,1981,609250
+China (FAO),,1982,648850
+China (FAO),,1983,694790
+China (FAO),,1984,892340
+China (FAO),,1985,1097240
+China (FAO),,1986,1136950
+China (FAO),,1987,1208090
+China (FAO),,1988,1416226
+China (FAO),,1989,1464426
+China (FAO),,1990,1614530
+China (FAO),,1991,1871570
+China (FAO),,1992,2063170
+China (FAO),,1993,2386660
+China (FAO),,1994,2985520
+China (FAO),,1995,3383120
+China (FAO),,1996,4051315
+China (FAO),,1997,2876920
+China (FAO),,1998,3060210
+China (FAO),,1999,3230210
+China (FAO),,2000,3300790
+China (FAO),,2001,3342938
+China (FAO),,2002,3380437.5
+China (FAO),,2003,3527738
+China (FAO),,2004,3580240
+China (FAO),,2005,3685341.8
+China (FAO),,2006,3663095
+China (FAO),,2007,3822475
+China (FAO),,2008,4082110
+China (FAO),,2009,4139449
+China (FAO),,2010,4172060
+China (FAO),,2011,4244360
+China (FAO),,2012,4319071
+China (FAO),,2013,4340053
+China (FAO),,2014,4366070
+China (FAO),,2015,4596338
+China (FAO),,2016,4766980
+China (FAO),,2017,4423211.5
+China (FAO),,2018,4461118.5
+China (FAO),,2019,4661261
+China (FAO),,2020,4880410
+China (FAO),,2021,4796434
+China (FAO),,2022,4863032
+China (FAO),,2023,5011986
+China (FAO),,2024,5047100
+Croatia,HRV,2008,220
+Croatia,HRV,2009,234
+Croatia,HRV,2010,291
+Croatia,HRV,2011,285
+Croatia,HRV,2012,279
+Croatia,HRV,2013,211
+Croatia,HRV,2014,181
+Croatia,HRV,2015,176
+Croatia,HRV,2016,140
+Croatia,HRV,2017,150
+Czechoslovakia,OWID_CZS,1961,25950
+Czechoslovakia,OWID_CZS,1962,22200
+Czechoslovakia,OWID_CZS,1963,24000
+Czechoslovakia,OWID_CZS,1964,23700
+Czechoslovakia,OWID_CZS,1965,29500
+Czechoslovakia,OWID_CZS,1966,28900
+Czechoslovakia,OWID_CZS,1967,32800
+Czechoslovakia,OWID_CZS,1968,34000
+Czechoslovakia,OWID_CZS,1969,33500
+Czechoslovakia,OWID_CZS,1970,34600
+Czechoslovakia,OWID_CZS,1971,35300
+Czechoslovakia,OWID_CZS,1972,36300
+Czechoslovakia,OWID_CZS,1973,29200
+Czechoslovakia,OWID_CZS,1974,24200
+Czechoslovakia,OWID_CZS,1975,28500
+Czechoslovakia,OWID_CZS,1976,29700
+Czechoslovakia,OWID_CZS,1977,33000
+Czechoslovakia,OWID_CZS,1978,31700
+Czechoslovakia,OWID_CZS,1979,32300
+Czechoslovakia,OWID_CZS,1980,35000
+Czechoslovakia,OWID_CZS,1981,34100
+Czechoslovakia,OWID_CZS,1982,27000
+Czechoslovakia,OWID_CZS,1983,27000
+Czechoslovakia,OWID_CZS,1984,24600
+Czechoslovakia,OWID_CZS,1985,32900
+Czechoslovakia,OWID_CZS,1986,30100
+Czechoslovakia,OWID_CZS,1987,35300
+Czechoslovakia,OWID_CZS,1988,32600
+Czechoslovakia,OWID_CZS,1989,30000
+Czechoslovakia,OWID_CZS,1990,30197
+Czechoslovakia,OWID_CZS,1991,29000
+Czechoslovakia,OWID_CZS,1992,29600
+Eastern Africa (FAO),,1961,3366.3
+Eastern Africa (FAO),,1962,3452.7
+Eastern Africa (FAO),,1963,3521.1
+Eastern Africa (FAO),,1964,3604.5
+Eastern Africa (FAO),,1965,3690.4
+Eastern Africa (FAO),,1966,3776.8
+Eastern Africa (FAO),,1967,4286.7
+Eastern Africa (FAO),,1968,4308.1
+Eastern Africa (FAO),,1969,4475.1
+Eastern Africa (FAO),,1970,4661.5
+Eastern Africa (FAO),,1971,4759.5
+Eastern Africa (FAO),,1972,4781.4
+Eastern Africa (FAO),,1973,4802.4
+Eastern Africa (FAO),,1974,4425
+Eastern Africa (FAO),,1975,4572
+Eastern Africa (FAO),,1976,4303.8
+Eastern Africa (FAO),,1977,4250.76
+Eastern Africa (FAO),,1978,4521
+Eastern Africa (FAO),,1979,4491
+Eastern Africa (FAO),,1980,3684
+Eastern Africa (FAO),,1981,3633.36
+Eastern Africa (FAO),,1982,3366.72
+Eastern Africa (FAO),,1983,3120
+Eastern Africa (FAO),,1984,3092
+Eastern Africa (FAO),,1985,3789
+Eastern Africa (FAO),,1986,4054
+Eastern Africa (FAO),,1987,3477
+Eastern Africa (FAO),,1988,3942
+Eastern Africa (FAO),,1989,3885
+Eastern Africa (FAO),,1990,4296
+Eastern Africa (FAO),,1991,4509
+Eastern Africa (FAO),,1992,4614
+Eastern Africa (FAO),,1993,4739
+Eastern Africa (FAO),,1994,4758
+Eastern Africa (FAO),,1995,4973
+Eastern Africa (FAO),,1996,5119
+Eastern Africa (FAO),,1997,5370
+Eastern Africa (FAO),,1998,5603
+Eastern Africa (FAO),,1999,5871
+Eastern Africa (FAO),,2000,6158
+Eastern Africa (FAO),,2001,6656.7
+Eastern Africa (FAO),,2002,6193
+Eastern Africa (FAO),,2003,6133.5
+Eastern Africa (FAO),,2004,6193
+Eastern Africa (FAO),,2005,6193
+Eastern Africa (FAO),,2006,6228
+Eastern Africa (FAO),,2007,6508
+Eastern Africa (FAO),,2008,6298
+Eastern Africa (FAO),,2009,6298
+Eastern Africa (FAO),,2010,6298
+Eastern Africa (FAO),,2011,6316
+Eastern Africa (FAO),,2012,6316
+Eastern Africa (FAO),,2013,6298
+Eastern Africa (FAO),,2014,6539.57
+Eastern Africa (FAO),,2015,6527
+Eastern Africa (FAO),,2016,6462
+Eastern Africa (FAO),,2017,6654
+Eastern Africa (FAO),,2018,6664
+Eastern Africa (FAO),,2019,6664
+Eastern Africa (FAO),,2020,6664
+Eastern Africa (FAO),,2021,6664
+Eastern Africa (FAO),,2022,6664
+Eastern Africa (FAO),,2023,6664
+Eastern Africa (FAO),,2024,6664
+Eastern Asia (FAO),,1961,312467
+Eastern Asia (FAO),,1962,316447
+Eastern Asia (FAO),,1963,320978
+Eastern Asia (FAO),,1964,329892
+Eastern Asia (FAO),,1965,342851
+Eastern Asia (FAO),,1966,353250
+Eastern Asia (FAO),,1967,368165
+Eastern Asia (FAO),,1968,375236
+Eastern Asia (FAO),,1969,387503
+Eastern Asia (FAO),,1970,399461
+Eastern Asia (FAO),,1971,419026
+Eastern Asia (FAO),,1972,431590
+Eastern Asia (FAO),,1973,452860
+Eastern Asia (FAO),,1974,459491
+Eastern Asia (FAO),,1975,482695
+Eastern Asia (FAO),,1976,502827
+Eastern Asia (FAO),,1977,512795
+Eastern Asia (FAO),,1978,554699
+Eastern Asia (FAO),,1979,565415
+Eastern Asia (FAO),,1980,591983
+Eastern Asia (FAO),,1981,611189
+Eastern Asia (FAO),,1982,650370
+Eastern Asia (FAO),,1983,696330
+Eastern Asia (FAO),,1984,893950
+Eastern Asia (FAO),,1985,1098920
+Eastern Asia (FAO),,1986,1138650
+Eastern Asia (FAO),,1987,1209805
+Eastern Asia (FAO),,1988,1417941
+Eastern Asia (FAO),,1989,1466426
+Eastern Asia (FAO),,1990,1617730
+Eastern Asia (FAO),,1991,1875570
+Eastern Asia (FAO),,1992,2066970
+Eastern Asia (FAO),,1993,2391260
+Eastern Asia (FAO),,1994,2990120
+Eastern Asia (FAO),,1995,3389320
+Eastern Asia (FAO),,1996,4059435
+Eastern Asia (FAO),,1997,2885928
+Eastern Asia (FAO),,1998,3069710
+Eastern Asia (FAO),,1999,3250366
+Eastern Asia (FAO),,2000,3322118
+Eastern Asia (FAO),,2001,3366438
+Eastern Asia (FAO),,2002,3405437.5
+Eastern Asia (FAO),,2003,3555738
+Eastern Asia (FAO),,2004,3606240
+Eastern Asia (FAO),,2005,3713341.8
+Eastern Asia (FAO),,2006,3692095
+Eastern Asia (FAO),,2007,3852475
+Eastern Asia (FAO),,2008,4113110
+Eastern Asia (FAO),,2009,4170949
+Eastern Asia (FAO),,2010,4202350.5
+Eastern Asia (FAO),,2011,4275518.5
+Eastern Asia (FAO),,2012,4348344
+Eastern Asia (FAO),,2013,4369439
+Eastern Asia (FAO),,2014,4398349.5
+Eastern Asia (FAO),,2015,4628901.5
+Eastern Asia (FAO),,2016,4798980
+Eastern Asia (FAO),,2017,4455211.5
+Eastern Asia (FAO),,2018,4493118.5
+Eastern Asia (FAO),,2019,4693261
+Eastern Asia (FAO),,2020,4912410
+Eastern Asia (FAO),,2021,4828434
+Eastern Asia (FAO),,2022,4895032
+Eastern Asia (FAO),,2023,5043986
+Eastern Asia (FAO),,2024,5079100
+Eastern Europe (FAO),,1961,80338
+Eastern Europe (FAO),,1962,77560
+Eastern Europe (FAO),,1963,78299
+Eastern Europe (FAO),,1964,79322
+Eastern Europe (FAO),,1965,86180
+Eastern Europe (FAO),,1966,87153
+Eastern Europe (FAO),,1967,79893
+Eastern Europe (FAO),,1968,91769
+Eastern Europe (FAO),,1969,128823
+Eastern Europe (FAO),,1970,99241
+Eastern Europe (FAO),,1971,105332
+Eastern Europe (FAO),,1972,112386
+Eastern Europe (FAO),,1973,128934
+Eastern Europe (FAO),,1974,117353
+Eastern Europe (FAO),,1975,111111
+Eastern Europe (FAO),,1976,128652
+Eastern Europe (FAO),,1977,134176
+Eastern Europe (FAO),,1978,124573
+Eastern Europe (FAO),,1979,123773
+Eastern Europe (FAO),,1980,128226
+Eastern Europe (FAO),,1981,137660
+Eastern Europe (FAO),,1982,118309
+Eastern Europe (FAO),,1983,123306
+Eastern Europe (FAO),,1984,117053
+Eastern Europe (FAO),,1985,142798
+Eastern Europe (FAO),,1986,141430
+Eastern Europe (FAO),,1987,153797
+Eastern Europe (FAO),,1988,131456
+Eastern Europe (FAO),,1989,126711
+Eastern Europe (FAO),,1990,123877
+Eastern Europe (FAO),,1991,107752
+Eastern Europe (FAO),,1992,101113
+Eastern Europe (FAO),,1993,65067
+Eastern Europe (FAO),,1994,62478.35
+Eastern Europe (FAO),,1995,59514.12
+Eastern Europe (FAO),,1996,58026.53
+Eastern Europe (FAO),,1997,46351
+Eastern Europe (FAO),,1998,44335
+Eastern Europe (FAO),,1999,53365.23
+Eastern Europe (FAO),,2000,48663
+Eastern Europe (FAO),,2001,52800.39
+Eastern Europe (FAO),,2002,62639
+Eastern Europe (FAO),,2003,60318
+Eastern Europe (FAO),,2004,63836
+Eastern Europe (FAO),,2005,44784
+Eastern Europe (FAO),,2006,56384.9
+Eastern Europe (FAO),,2007,55663.93
+Eastern Europe (FAO),,2008,52490.74
+Eastern Europe (FAO),,2009,93858.98
+Eastern Europe (FAO),,2010,80502.17
+Eastern Europe (FAO),,2011,70789.62
+Eastern Europe (FAO),,2012,64097.81
+Eastern Europe (FAO),,2013,69433.89
+Eastern Europe (FAO),,2014,69988.97
+Eastern Europe (FAO),,2015,62468.04
+Eastern Europe (FAO),,2016,71466
+Eastern Europe (FAO),,2017,62970
+Eastern Europe (FAO),,2018,50058
+Eastern Europe (FAO),,2019,41135
+Eastern Europe (FAO),,2020,43205
+Eastern Europe (FAO),,2021,35424
+Eastern Europe (FAO),,2022,38618
+Eastern Europe (FAO),,2023,38436
+Eastern Europe (FAO),,2024,36810
+Europe,OWID_EUR,1961,93308
+Europe,OWID_EUR,1962,90108
+Europe,OWID_EUR,1963,89833
+Europe,OWID_EUR,1964,89308
+Europe,OWID_EUR,1965,95965
+Europe,OWID_EUR,1966,94677
+Europe,OWID_EUR,1967,87651
+Europe,OWID_EUR,1968,99449
+Europe,OWID_EUR,1969,136425
+Europe,OWID_EUR,1970,106531
+Europe,OWID_EUR,1971,112232
+Europe,OWID_EUR,1972,119598
+Europe,OWID_EUR,1973,136458
+Europe,OWID_EUR,1974,125735
+Europe,OWID_EUR,1975,119239
+Europe,OWID_EUR,1976,137739
+Europe,OWID_EUR,1977,142616
+Europe,OWID_EUR,1978,132911
+Europe,OWID_EUR,1979,129818
+Europe,OWID_EUR,1980,134279
+Europe,OWID_EUR,1981,143541
+Europe,OWID_EUR,1982,124073
+Europe,OWID_EUR,1983,129042
+Europe,OWID_EUR,1984,122499
+Europe,OWID_EUR,1985,148268
+Europe,OWID_EUR,1986,147155
+Europe,OWID_EUR,1987,159467
+Europe,OWID_EUR,1988,137126
+Europe,OWID_EUR,1989,134013
+Europe,OWID_EUR,1990,130941
+Europe,OWID_EUR,1991,114695
+Europe,OWID_EUR,1992,108891
+Europe,OWID_EUR,1993,73210
+Europe,OWID_EUR,1994,70881.35
+Europe,OWID_EUR,1995,69218.12
+Europe,OWID_EUR,1996,68625.53
+Europe,OWID_EUR,1997,57591
+Europe,OWID_EUR,1998,62445
+Europe,OWID_EUR,1999,71204.23
+Europe,OWID_EUR,2000,68383
+Europe,OWID_EUR,2001,74519.39
+Europe,OWID_EUR,2002,84664
+Europe,OWID_EUR,2003,84482
+Europe,OWID_EUR,2004,85685.23
+Europe,OWID_EUR,2005,65111.33
+Europe,OWID_EUR,2006,79446.79
+Europe,OWID_EUR,2007,76060.9
+Europe,OWID_EUR,2008,72152.18
+Europe,OWID_EUR,2009,114755.98
+Europe,OWID_EUR,2010,100743.17
+Europe,OWID_EUR,2011,92943.62
+Europe,OWID_EUR,2012,85120.81
+Europe,OWID_EUR,2013,90043.89
+Europe,OWID_EUR,2014,89516.81
+Europe,OWID_EUR,2015,80356.41
+Europe,OWID_EUR,2016,91286
+Europe,OWID_EUR,2017,81801
+Europe,OWID_EUR,2018,64258
+Europe,OWID_EUR,2019,55335
+Europe,OWID_EUR,2020,54405
+Europe,OWID_EUR,2021,46624
+Europe,OWID_EUR,2022,46818
+Europe,OWID_EUR,2023,46636
+Europe,OWID_EUR,2024,45010
+Europe (FAO),,1961,93308
+Europe (FAO),,1962,90108
+Europe (FAO),,1963,89833
+Europe (FAO),,1964,89308
+Europe (FAO),,1965,95965
+Europe (FAO),,1966,94677
+Europe (FAO),,1967,87651
+Europe (FAO),,1968,99449
+Europe (FAO),,1969,136425
+Europe (FAO),,1970,106531
+Europe (FAO),,1971,112232
+Europe (FAO),,1972,119598
+Europe (FAO),,1973,136458
+Europe (FAO),,1974,125735
+Europe (FAO),,1975,119239
+Europe (FAO),,1976,137739
+Europe (FAO),,1977,142616
+Europe (FAO),,1978,132911
+Europe (FAO),,1979,129818
+Europe (FAO),,1980,134279
+Europe (FAO),,1981,143541
+Europe (FAO),,1982,124073
+Europe (FAO),,1983,129042
+Europe (FAO),,1984,122499
+Europe (FAO),,1985,148268
+Europe (FAO),,1986,147155
+Europe (FAO),,1987,159467
+Europe (FAO),,1988,137126
+Europe (FAO),,1989,134013
+Europe (FAO),,1990,130941
+Europe (FAO),,1991,114695
+Europe (FAO),,1992,108891
+Europe (FAO),,1993,73210
+Europe (FAO),,1994,70881.35
+Europe (FAO),,1995,69218.12
+Europe (FAO),,1996,68625.53
+Europe (FAO),,1997,57591
+Europe (FAO),,1998,62445
+Europe (FAO),,1999,71204.23
+Europe (FAO),,2000,68383
+Europe (FAO),,2001,74519.39
+Europe (FAO),,2002,84664
+Europe (FAO),,2003,84482
+Europe (FAO),,2004,85685.23
+Europe (FAO),,2005,65111.33
+Europe (FAO),,2006,79446.79
+Europe (FAO),,2007,76060.9
+Europe (FAO),,2008,72152.18
+Europe (FAO),,2009,114755.98
+Europe (FAO),,2010,100743.17
+Europe (FAO),,2011,92943.62
+Europe (FAO),,2012,85120.81
+Europe (FAO),,2013,90043.89
+Europe (FAO),,2014,89516.81
+Europe (FAO),,2015,80356.41
+Europe (FAO),,2016,91286
+Europe (FAO),,2017,81801
+Europe (FAO),,2018,64258
+Europe (FAO),,2019,55335
+Europe (FAO),,2020,54405
+Europe (FAO),,2021,46624
+Europe (FAO),,2022,46818
+Europe (FAO),,2023,46636
+Europe (FAO),,2024,45010
+European Union (27),OWID_EU27,1961,24358
+European Union (27),OWID_EU27,1962,25408
+European Union (27),OWID_EU27,1963,23333
+European Union (27),OWID_EU27,1964,23408
+European Union (27),OWID_EU27,1965,24465
+European Union (27),OWID_EU27,1966,23777
+European Union (27),OWID_EU27,1967,25851
+European Union (27),OWID_EU27,1968,29949
+European Union (27),OWID_EU27,1969,28425
+European Union (27),OWID_EU27,1970,29931
+European Union (27),OWID_EU27,1971,28432
+European Union (27),OWID_EU27,1972,34798
+European Union (27),OWID_EU27,1973,33928
+European Union (27),OWID_EU27,1974,36200
+European Union (27),OWID_EU27,1975,36513
+European Union (27),OWID_EU27,1976,39568
+European Union (27),OWID_EU27,1977,41246
+European Union (27),OWID_EU27,1978,32553
+European Union (27),OWID_EU27,1979,27113
+European Union (27),OWID_EU27,1980,24744
+European Union (27),OWID_EU27,1981,28944
+European Union (27),OWID_EU27,1982,29025
+European Union (27),OWID_EU27,1983,26144
+European Union (27),OWID_EU27,1984,29013
+European Union (27),OWID_EU27,1985,29702
+European Union (27),OWID_EU27,1986,28156
+European Union (27),OWID_EU27,1987,28667
+European Union (27),OWID_EU27,1988,34046
+European Union (27),OWID_EU27,1989,33037
+European Union (27),OWID_EU27,1990,34022
+European Union (27),OWID_EU27,1991,22934
+European Union (27),OWID_EU27,1992,23904
+European Union (27),OWID_EU27,1993,23825
+European Union (27),OWID_EU27,1994,29549.35
+European Union (27),OWID_EU27,1995,28355.12
+European Union (27),OWID_EU27,1996,28879.53
+European Union (27),OWID_EU27,1997,25143
+European Union (27),OWID_EU27,1998,30455
+European Union (27),OWID_EU27,1999,32504.23
+European Union (27),OWID_EU27,2000,33303
+European Union (27),OWID_EU27,2001,36180.89
+European Union (27),OWID_EU27,2002,44715
+European Union (27),OWID_EU27,2003,43498
+European Union (27),OWID_EU27,2004,47390.23
+European Union (27),OWID_EU27,2005,23261.33
+European Union (27),OWID_EU27,2006,32233.79
+European Union (27),OWID_EU27,2007,31199.9
+European Union (27),OWID_EU27,2008,26507.18
+European Union (27),OWID_EU27,2009,29308.98
+European Union (27),OWID_EU27,2010,27775.17
+European Union (27),OWID_EU27,2011,26992.62
+European Union (27),OWID_EU27,2012,18646.81
+European Union (27),OWID_EU27,2013,22573.89
+European Union (27),OWID_EU27,2014,18474.81
+European Union (27),OWID_EU27,2015,17249.97
+European Union (27),OWID_EU27,2016,16899
+European Union (27),OWID_EU27,2017,16173
+French Polynesia,PYF,1961,20
+French Polynesia,PYF,1962,22.5
+French Polynesia,PYF,1963,25
+French Polynesia,PYF,1964,27.5
+French Polynesia,PYF,1965,30
+French Polynesia,PYF,1966,32.5
+French Polynesia,PYF,1967,35
+French Polynesia,PYF,1968,40
+French Polynesia,PYF,1969,45
+French Polynesia,PYF,1970,50
+French Polynesia,PYF,1971,52.5
+French Polynesia,PYF,1972,57.5
+French Polynesia,PYF,1973,60
+French Polynesia,PYF,1974,65
+French Polynesia,PYF,1975,70
+French Polynesia,PYF,1976,72.5
+French Polynesia,PYF,1977,75
+French Polynesia,PYF,1978,80
+French Polynesia,PYF,1979,85
+French Polynesia,PYF,1980,87.5
+French Polynesia,PYF,1981,90
+French Polynesia,PYF,1982,92.5
+French Polynesia,PYF,1983,87.5
+French Polynesia,PYF,1984,80
+French Polynesia,PYF,1985,82.5
+French Polynesia,PYF,1986,85
+French Polynesia,PYF,1987,85
+French Polynesia,PYF,1988,85
+French Polynesia,PYF,1989,85
+French Polynesia,PYF,1990,82.5
+French Polynesia,PYF,1991,85.32
+French Polynesia,PYF,1992,85.28
+French Polynesia,PYF,1993,85.24
+French Polynesia,PYF,1994,85.2
+French Polynesia,PYF,1995,84.94
+French Polynesia,PYF,1996,85.09
+French Polynesia,PYF,1997,85.49
+French Polynesia,PYF,1998,85.49
+French Polynesia,PYF,1999,84.87
+French Polynesia,PYF,2000,84.61
+French Polynesia,PYF,2001,84.33
+French Polynesia,PYF,2002,84.08
+French Polynesia,PYF,2003,82.97
+French Polynesia,PYF,2004,82.97
+French Polynesia,PYF,2005,83.68
+French Polynesia,PYF,2006,83.5
+French Polynesia,PYF,2007,83.45
+French Polynesia,PYF,2008,83.13
+French Polynesia,PYF,2009,82.97
+French Polynesia,PYF,2010,88
+French Polynesia,PYF,2011,88
+French Polynesia,PYF,2012,88
+French Polynesia,PYF,2013,88
+French Polynesia,PYF,2014,88
+French Polynesia,PYF,2015,88.31
+French Polynesia,PYF,2016,88
+French Polynesia,PYF,2017,88
+French Polynesia,PYF,2018,88
+French Polynesia,PYF,2019,88
+French Polynesia,PYF,2020,88
+French Polynesia,PYF,2021,88
+French Polynesia,PYF,2022,88
+French Polynesia,PYF,2023,88
+French Polynesia,PYF,2024,88
+Georgia,GEO,1992,200
+Georgia,GEO,1993,169
+Georgia,GEO,1994,163
+Georgia,GEO,1995,195
+Georgia,GEO,1996,130
+Georgia,GEO,1997,130
+Georgia,GEO,1998,157
+Georgia,GEO,1999,195
+Georgia,GEO,2000,195
+Georgia,GEO,2001,235.3
+Georgia,GEO,2002,260
+Georgia,GEO,2003,300
+Georgia,GEO,2004,300
+Georgia,GEO,2005,300
+Georgia,GEO,2006,160
+Georgia,GEO,2007,280
+Georgia,GEO,2008,280
+Georgia,GEO,2009,280
+Georgia,GEO,2010,290
+Georgia,GEO,2011,318.5
+Georgia,GEO,2012,306
+Georgia,GEO,2013,340
+Georgia,GEO,2014,390
+Georgia,GEO,2015,440
+Georgia,GEO,2016,440
+Georgia,GEO,2017,441
+Georgia,GEO,2018,441
+Georgia,GEO,2019,441
+Georgia,GEO,2020,441
+Georgia,GEO,2021,441
+Georgia,GEO,2022,441
+Georgia,GEO,2023,441
+Georgia,GEO,2024,441
+Haiti,HTI,1961,340
+Haiti,HTI,1962,347
+Haiti,HTI,1963,354
+Haiti,HTI,1964,361
+Haiti,HTI,1965,368
+Haiti,HTI,1966,376
+Haiti,HTI,1967,383
+Haiti,HTI,1968,391
+Haiti,HTI,1969,399
+Haiti,HTI,1970,407
+Haiti,HTI,1971,415
+Haiti,HTI,1972,423
+Haiti,HTI,1973,431
+Haiti,HTI,1974,440
+Haiti,HTI,1975,450
+Haiti,HTI,1976,460
+Haiti,HTI,1977,470
+Haiti,HTI,1978,475
+Haiti,HTI,1979,480
+Haiti,HTI,1980,490
+Haiti,HTI,1981,500
+Haiti,HTI,1982,510
+Haiti,HTI,1983,525
+Haiti,HTI,1984,525
+Haiti,HTI,1985,525
+Haiti,HTI,1986,525
+Haiti,HTI,1987,550
+Haiti,HTI,1988,550
+Haiti,HTI,1989,550
+Haiti,HTI,1990,625
+Haiti,HTI,1991,491.58
+Haiti,HTI,1992,500
+Haiti,HTI,1993,505.41
+Haiti,HTI,1994,512.4
+Haiti,HTI,1995,519.42
+Haiti,HTI,1996,526.46
+Haiti,HTI,1997,531.87
+Haiti,HTI,1998,539.97
+Haiti,HTI,1999,547.45
+Haiti,HTI,2000,550
+Haiti,HTI,2001,575
+Haiti,HTI,2002,575
+Haiti,HTI,2003,600
+Haiti,HTI,2004,600
+Haiti,HTI,2005,625
+Haiti,HTI,2006,600
+Haiti,HTI,2007,600
+Haiti,HTI,2008,600
+Haiti,HTI,2009,600
+Haiti,HTI,2010,632.23
+Haiti,HTI,2011,670
+Haiti,HTI,2012,672
+Haiti,HTI,2013,675
+Haiti,HTI,2014,674.99
+Haiti,HTI,2015,681.69
+Haiti,HTI,2016,675
+Haiti,HTI,2017,670
+Haiti,HTI,2018,550
+Haiti,HTI,2019,550
+Haiti,HTI,2020,550
+Haiti,HTI,2021,550
+Haiti,HTI,2022,550
+Haiti,HTI,2023,550
+Haiti,HTI,2024,550
+High-income countries,OWID_HIC,1961,42816.3
+High-income countries,OWID_HIC,1962,43349.7
+High-income countries,OWID_HIC,1963,41809.1
+High-income countries,OWID_HIC,1964,42488.5
+High-income countries,OWID_HIC,1965,52335.9
+High-income countries,OWID_HIC,1966,52090.3
+High-income countries,OWID_HIC,1967,54082.7
+High-income countries,OWID_HIC,1968,60267.6
+High-income countries,OWID_HIC,1969,61025.6
+High-income countries,OWID_HIC,1970,64530.5
+High-income countries,OWID_HIC,1971,62614
+High-income countries,OWID_HIC,1972,71539.9
+High-income countries,OWID_HIC,1973,72092.4
+High-income countries,OWID_HIC,1974,70998
+High-income countries,OWID_HIC,1975,74876
+High-income countries,OWID_HIC,1976,78404.3
+High-income countries,OWID_HIC,1977,80104.76
+High-income countries,OWID_HIC,1978,73836
+High-income countries,OWID_HIC,1979,68947
+High-income countries,OWID_HIC,1980,63228.5
+High-income countries,OWID_HIC,1981,66341.36
+High-income countries,OWID_HIC,1982,65867.22
+High-income countries,OWID_HIC,1983,64017.5
+High-income countries,OWID_HIC,1984,66229
+High-income countries,OWID_HIC,1985,65934.5
+High-income countries,OWID_HIC,1986,63517
+High-income countries,OWID_HIC,1987,65115
+High-income countries,OWID_HIC,1988,67752
+High-income countries,OWID_HIC,1989,67943
+High-income countries,OWID_HIC,1990,93527.5
+High-income countries,OWID_HIC,1991,81949.32
+High-income countries,OWID_HIC,1992,110820.28
+High-income countries,OWID_HIC,1993,115390.24
+High-income countries,OWID_HIC,1994,96000.55
+High-income countries,OWID_HIC,1995,101793.914
+High-income countries,OWID_HIC,1996,100511.62
+High-income countries,OWID_HIC,1997,93625.68
+High-income countries,OWID_HIC,1998,96514.49
+High-income countries,OWID_HIC,1999,110480.1
+High-income countries,OWID_HIC,2000,109717.61
+High-income countries,OWID_HIC,2001,119304.13
+High-income countries,OWID_HIC,2002,128783.47
+High-income countries,OWID_HIC,2003,133007.3
+High-income countries,OWID_HIC,2004,131012.87
+High-income countries,OWID_HIC,2005,114898.69
+High-income countries,OWID_HIC,2006,126126.18
+High-income countries,OWID_HIC,2007,128557.86
+High-income countries,OWID_HIC,2008,118790.8
+High-income countries,OWID_HIC,2009,118663.01
+High-income countries,OWID_HIC,2010,115598.82
+High-income countries,OWID_HIC,2011,126124.51
+High-income countries,OWID_HIC,2012,124588.23
+High-income countries,OWID_HIC,2013,128075.18
+High-income countries,OWID_HIC,2014,129590.914
+High-income countries,OWID_HIC,2015,123383.2
+High-income countries,OWID_HIC,2016,122676
+High-income countries,OWID_HIC,2017,125936
+High-income countries,OWID_HIC,2018,109155
+High-income countries,OWID_HIC,2019,98338
+High-income countries,OWID_HIC,2020,97757
+High-income countries,OWID_HIC,2021,90766
+High-income countries,OWID_HIC,2022,92830
+High-income countries,OWID_HIC,2023,92837
+High-income countries,OWID_HIC,2024,91052
+Hong Kong,HKG,1961,75
+Hong Kong,HKG,1962,74
+Hong Kong,HKG,1963,65
+Hong Kong,HKG,1964,55
+Hong Kong,HKG,1965,55
+Hong Kong,HKG,1966,70
+Hong Kong,HKG,1967,190
+Hong Kong,HKG,1968,560
+Hong Kong,HKG,1969,885
+Hong Kong,HKG,1970,850
+Hong Kong,HKG,1971,720
+Hong Kong,HKG,1972,700
+Hong Kong,HKG,1973,830
+Hong Kong,HKG,1974,870
+Hong Kong,HKG,1975,1570
+Hong Kong,HKG,1976,1280
+Hong Kong,HKG,1977,1490
+Hong Kong,HKG,1978,1775
+Hong Kong,HKG,1979,2300
+Hong Kong,HKG,1980,2000
+Hong Kong,HKG,1981,1630
+Hong Kong,HKG,1982,1630
+Hong Kong,HKG,1983,1650
+Hong Kong,HKG,1984,1710
+Hong Kong,HKG,1985,1940
+Hong Kong,HKG,1986,2050
+Hong Kong,HKG,1987,1950
+Hong Kong,HKG,1988,1780
+Hong Kong,HKG,1989,1580
+Hong Kong,HKG,1990,1030
+Hong Kong,HKG,1991,720
+Hong Kong,HKG,1992,450
+Hong Kong,HKG,1993,250
+Hong Kong,HKG,1994,110
+Hong Kong,HKG,1995,80
+Hong Kong,HKG,1996,65
+Hong Kong,HKG,1997,80
+Hong Kong,HKG,1998,40
+Hong Kong,HKG,1999,40
+Hong Kong,HKG,2000,40
+Hong Kong,HKG,2001,37.91
+Hong Kong,HKG,2002,37.39
+Hong Kong,HKG,2003,38
+Hong Kong,HKG,2004,40
+Hong Kong,HKG,2005,41.68
+Hong Kong,HKG,2006,45
+Hong Kong,HKG,2007,50
+Hong Kong,HKG,2008,45
+Hong Kong,HKG,2009,39.07
+Hungary,HUN,1961,1868
+Hungary,HUN,1962,2460
+Hungary,HUN,1963,2279
+Hungary,HUN,1964,2202
+Hungary,HUN,1965,2100
+Hungary,HUN,1966,1693
+Hungary,HUN,1967,1898
+Hungary,HUN,1968,1711
+Hungary,HUN,1969,1898
+Hungary,HUN,1970,2892
+Hungary,HUN,1971,3061
+Hungary,HUN,1972,2343
+Hungary,HUN,1973,2423
+Hungary,HUN,1974,2314
+Hungary,HUN,1975,2772
+Hungary,HUN,1976,2739
+Hungary,HUN,1977,3529
+Hungary,HUN,1978,3137
+Hungary,HUN,1979,3326
+Hungary,HUN,1980,3166
+Hungary,HUN,1981,3311
+Hungary,HUN,1982,3906
+Hungary,HUN,1983,3538
+Hungary,HUN,1984,3540
+Hungary,HUN,1985,3411
+Hungary,HUN,1986,3457
+Hungary,HUN,1987,3551
+Hungary,HUN,1988,4100
+Hungary,HUN,1989,4600
+Hungary,HUN,1990,3788
+Hungary,HUN,1991,3174
+Hungary,HUN,1992,2775
+Hungary,HUN,1993,2395
+Hungary,HUN,1994,2200
+Hungary,HUN,1995,2100
+Hungary,HUN,1996,2826
+Hungary,HUN,1997,2984
+Hungary,HUN,1998,2824
+Hungary,HUN,1999,3401
+Hungary,HUN,2000,3248
+Hungary,HUN,2001,3448
+Hungary,HUN,2002,3972
+Hungary,HUN,2003,4122
+Hungary,HUN,2004,4000
+Hungary,HUN,2005,4200
+Hungary,HUN,2006,4200
+Hungary,HUN,2007,4300
+Hungary,HUN,2008,4400
+Hungary,HUN,2009,4000
+Hungary,HUN,2010,3765.95
+Hungary,HUN,2011,4318.62
+Hungary,HUN,2012,4334.81
+Hungary,HUN,2013,4378.89
+Hungary,HUN,2014,4422.97
+Hungary,HUN,2015,4467.04
+Hungary,HUN,2016,4450
+Hungary,HUN,2017,4460
+Indonesia,IDN,1961,33000
+Indonesia,IDN,1962,34300
+Indonesia,IDN,1963,35000
+Indonesia,IDN,1964,36000
+Indonesia,IDN,1965,35000
+Indonesia,IDN,1966,33000
+Indonesia,IDN,1967,34700
+Indonesia,IDN,1968,40000
+Indonesia,IDN,1969,40000
+Indonesia,IDN,1970,40000
+Indonesia,IDN,1971,41000
+Indonesia,IDN,1972,42000
+Indonesia,IDN,1973,40000
+Indonesia,IDN,1974,37200
+Indonesia,IDN,1975,43000
+Indonesia,IDN,1976,43200
+Indonesia,IDN,1977,48600
+Indonesia,IDN,1978,61600
+Indonesia,IDN,1979,65600
+Indonesia,IDN,1980,67400
+Indonesia,IDN,1981,70500
+Indonesia,IDN,1982,76300
+Indonesia,IDN,1983,81400
+Indonesia,IDN,1984,82100
+Indonesia,IDN,1985,77300
+Indonesia,IDN,1986,117000
+Indonesia,IDN,1987,121800
+Indonesia,IDN,1988,117400
+Indonesia,IDN,1989,113800
+Indonesia,IDN,1990,119600
+Indonesia,IDN,1991,118800
+Indonesia,IDN,1992,128000
+Indonesia,IDN,1993,124600
+Indonesia,IDN,1994,145600
+Indonesia,IDN,1995,153800
+Indonesia,IDN,1996,150405
+Indonesia,IDN,1997,158223
+Indonesia,IDN,1998,136677
+Indonesia,IDN,1999,115869
+Indonesia,IDN,2000,141000
+Indonesia,IDN,2001,157580
+Indonesia,IDN,2002,169650
+Indonesia,IDN,2003,185040
+Indonesia,IDN,2004,173220
+Indonesia,IDN,2005,194960
+Indonesia,IDN,2006,193630
+Indonesia,IDN,2007,207534
+Indonesia,IDN,2008,200980
+Indonesia,IDN,2009,236400
+Indonesia,IDN,2010,245688.95
+Indonesia,IDN,2011,256198
+Indonesia,IDN,2012,276218
+Indonesia,IDN,2013,290369
+Indonesia,IDN,2014,323762
+Indonesia,IDN,2015,332050
+Indonesia,IDN,2016,348826
+Indonesia,IDN,2017,362805
+Indonesia,IDN,2018,367465
+Indonesia,IDN,2019,328687
+Indonesia,IDN,2020,349298
+Indonesia,IDN,2021,368739
+Indonesia,IDN,2022,380954
+Indonesia,IDN,2023,228516.75
+Indonesia,IDN,2024,269310.97
+Kazakhstan,KAZ,1992,2550
+Kazakhstan,KAZ,1993,2350
+Kazakhstan,KAZ,1994,1900
+Kazakhstan,KAZ,1995,1300
+Kazakhstan,KAZ,1996,900
+Kazakhstan,KAZ,1997,890
+Kazakhstan,KAZ,1998,1386
+Kazakhstan,KAZ,1999,665
+Kazakhstan,KAZ,2000,950
+Kazakhstan,KAZ,2001,1060
+Kazakhstan,KAZ,2002,1160
+Kazakhstan,KAZ,2003,1459
+Kazakhstan,KAZ,2004,1547
+Kazakhstan,KAZ,2005,1170
+Kazakhstan,KAZ,2006,813
+Kazakhstan,KAZ,2007,940
+Kazakhstan,KAZ,2008,1105
+Kazakhstan,KAZ,2009,1300
+Kazakhstan,KAZ,2010,1210
+Kazakhstan,KAZ,2011,1300
+Kazakhstan,KAZ,2012,1220
+Kazakhstan,KAZ,2013,1080
+Kazakhstan,KAZ,2014,989
+Kazakhstan,KAZ,2015,1075
+Kazakhstan,KAZ,2016,1159
+Kazakhstan,KAZ,2017,1072
+Kazakhstan,KAZ,2018,1043
+Kazakhstan,KAZ,2019,1172
+Kazakhstan,KAZ,2020,1208
+Kazakhstan,KAZ,2021,1498
+Kazakhstan,KAZ,2022,1518
+Kazakhstan,KAZ,2023,900
+Kazakhstan,KAZ,2024,1100
+Kyrgyzstan,KGZ,1992,196
+Kyrgyzstan,KGZ,1993,189
+Kyrgyzstan,KGZ,1994,104
+Kyrgyzstan,KGZ,1995,78
+Kyrgyzstan,KGZ,1996,65
+Kyrgyzstan,KGZ,1997,32
+Kyrgyzstan,KGZ,1998,28
+Kyrgyzstan,KGZ,1999,51
+Kyrgyzstan,KGZ,2000,197
+Kyrgyzstan,KGZ,2001,89
+Kyrgyzstan,KGZ,2002,106
+Kyrgyzstan,KGZ,2003,107
+Kyrgyzstan,KGZ,2004,100
+Kyrgyzstan,KGZ,2005,100
+Kyrgyzstan,KGZ,2006,102
+Kyrgyzstan,KGZ,2007,135
+Kyrgyzstan,KGZ,2008,100
+Kyrgyzstan,KGZ,2009,94
+Kyrgyzstan,KGZ,2010,60
+Kyrgyzstan,KGZ,2011,65
+Kyrgyzstan,KGZ,2012,100
+Kyrgyzstan,KGZ,2013,110
+Kyrgyzstan,KGZ,2014,115
+Kyrgyzstan,KGZ,2015,124
+Kyrgyzstan,KGZ,2016,125
+Kyrgyzstan,KGZ,2017,125
+Kyrgyzstan,KGZ,2018,125
+Kyrgyzstan,KGZ,2019,125
+Kyrgyzstan,KGZ,2020,125
+Kyrgyzstan,KGZ,2021,125
+Kyrgyzstan,KGZ,2022,125
+Kyrgyzstan,KGZ,2023,125
+Kyrgyzstan,KGZ,2024,125
+Land Locked Developing Countries (FAO),,1961,648
+Land Locked Developing Countries (FAO),,1962,744
+Land Locked Developing Countries (FAO),,1963,757
+Land Locked Developing Countries (FAO),,1964,784.22
+Land Locked Developing Countries (FAO),,1965,831.1
+Land Locked Developing Countries (FAO),,1966,873.71
+Land Locked Developing Countries (FAO),,1967,894
+Land Locked Developing Countries (FAO),,1968,842
+Land Locked Developing Countries (FAO),,1969,775
+Land Locked Developing Countries (FAO),,1970,736.12
+Land Locked Developing Countries (FAO),,1971,721.6
+Land Locked Developing Countries (FAO),,1972,754.6
+Land Locked Developing Countries (FAO),,1973,782.6
+Land Locked Developing Countries (FAO),,1974,818.6
+Land Locked Developing Countries (FAO),,1975,852.6
+Land Locked Developing Countries (FAO),,1976,860.6
+Land Locked Developing Countries (FAO),,1977,859.8
+Land Locked Developing Countries (FAO),,1978,875.4
+Land Locked Developing Countries (FAO),,1979,919.4
+Land Locked Developing Countries (FAO),,1980,940.6
+Land Locked Developing Countries (FAO),,1981,965.8
+Land Locked Developing Countries (FAO),,1982,988
+Land Locked Developing Countries (FAO),,1983,1008
+Land Locked Developing Countries (FAO),,1984,1018.8
+Land Locked Developing Countries (FAO),,1985,1756
+Land Locked Developing Countries (FAO),,1986,1796.8
+Land Locked Developing Countries (FAO),,1987,1874
+Land Locked Developing Countries (FAO),,1988,1971.2
+Land Locked Developing Countries (FAO),,1989,2031.2
+Land Locked Developing Countries (FAO),,1990,2102.8
+Land Locked Developing Countries (FAO),,1991,2162
+Land Locked Developing Countries (FAO),,1992,7451.32
+Land Locked Developing Countries (FAO),,1993,6028.6
+Land Locked Developing Countries (FAO),,1994,6087.71
+Land Locked Developing Countries (FAO),,1995,5426.88
+Land Locked Developing Countries (FAO),,1996,4332
+Land Locked Developing Countries (FAO),,1997,4205.74
+Land Locked Developing Countries (FAO),,1998,4805.76
+Land Locked Developing Countries (FAO),,1999,4280.75
+Land Locked Developing Countries (FAO),,2000,4820.81
+Land Locked Developing Countries (FAO),,2001,4834
+Land Locked Developing Countries (FAO),,2002,5033.54
+Land Locked Developing Countries (FAO),,2003,5598.3
+Land Locked Developing Countries (FAO),,2004,5909
+Land Locked Developing Countries (FAO),,2005,5703
+Land Locked Developing Countries (FAO),,2006,5218
+Land Locked Developing Countries (FAO),,2007,5645.57
+Land Locked Developing Countries (FAO),,2008,5873
+Land Locked Developing Countries (FAO),,2009,6569.15
+Land Locked Developing Countries (FAO),,2010,6861.08
+Land Locked Developing Countries (FAO),,2011,7978.98
+Land Locked Developing Countries (FAO),,2012,6575.24
+Land Locked Developing Countries (FAO),,2013,8459.88
+Land Locked Developing Countries (FAO),,2014,5924.78
+Land Locked Developing Countries (FAO),,2015,6126.22
+Land Locked Developing Countries (FAO),,2016,6498
+Land Locked Developing Countries (FAO),,2017,6946
+Land Locked Developing Countries (FAO),,2018,6505
+Land Locked Developing Countries (FAO),,2019,7561
+Land Locked Developing Countries (FAO),,2020,7045
+Land Locked Developing Countries (FAO),,2021,7549
+Land Locked Developing Countries (FAO),,2022,8068
+Land Locked Developing Countries (FAO),,2023,10214
+Land Locked Developing Countries (FAO),,2024,9726
+Laos,LAO,1961,216
+Laos,LAO,1962,234
+Laos,LAO,1963,234
+Laos,LAO,1964,248.22
+Laos,LAO,1965,283.1
+Laos,LAO,1966,287.71
+Laos,LAO,1967,288
+Laos,LAO,1968,288
+Laos,LAO,1969,288
+Laos,LAO,1970,285.12
+Laos,LAO,1971,273.6
+Laos,LAO,1972,273.6
+Laos,LAO,1973,273.6
+Laos,LAO,1974,273.6
+Laos,LAO,1975,273.6
+Laos,LAO,1976,273.6
+Laos,LAO,1977,262.8
+Laos,LAO,1978,248.4
+Laos,LAO,1979,266.4
+Laos,LAO,1980,273.6
+Laos,LAO,1981,280.8
+Laos,LAO,1982,288
+Laos,LAO,1983,288
+Laos,LAO,1984,298.8
+Laos,LAO,1985,306
+Laos,LAO,1986,316.8
+Laos,LAO,1987,324
+Laos,LAO,1988,331.2
+Laos,LAO,1989,331.2
+Laos,LAO,1990,334.8
+Laos,LAO,1991,342
+Laos,LAO,1992,288
+Laos,LAO,1993,399.6
+Laos,LAO,1994,252
+Laos,LAO,1995,273.6
+Laos,LAO,1996,216
+Laos,LAO,1997,198
+Laos,LAO,1998,216
+Laos,LAO,1999,252
+Laos,LAO,2000,262.8
+Laos,LAO,2001,288
+Laos,LAO,2002,288
+Laos,LAO,2003,298.8
+Laos,LAO,2004,306
+Laos,LAO,2005,324
+Laos,LAO,2006,306
+Laos,LAO,2007,306
+Laos,LAO,2008,306
+Laos,LAO,2009,306
+Laos,LAO,2010,396
+Laos,LAO,2011,396
+Laos,LAO,2012,396
+Laos,LAO,2013,396
+Laos,LAO,2014,400.28
+Laos,LAO,2015,400
+Laos,LAO,2016,400
+Laos,LAO,2017,400
+Laos,LAO,2018,400
+Laos,LAO,2019,400
+Laos,LAO,2020,400
+Laos,LAO,2021,400
+Laos,LAO,2022,400
+Laos,LAO,2023,400
+Laos,LAO,2024,400
+Latvia,LVA,1992,65
+Latvia,LVA,1993,65
+Latvia,LVA,1994,59
+Latvia,LVA,1995,66
+Latvia,LVA,1996,117
+Latvia,LVA,1997,98
+Latvia,LVA,1998,111
+Latvia,LVA,1999,116
+Latvia,LVA,2000,107
+Latvia,LVA,2001,105
+Latvia,LVA,2002,43
+Latvia,LVA,2003,56
+Latvia,LVA,2004,43
+Latvia,LVA,2005,45
+Latvia,LVA,2006,90
+Latvia,LVA,2007,136
+Latvia,LVA,2008,39
+Latvia,LVA,2009,18
+Latvia,LVA,2010,46
+Latvia,LVA,2011,33
+Latvia,LVA,2012,17
+Latvia,LVA,2013,18
+Latvia,LVA,2014,48
+Latvia,LVA,2015,46
+Latvia,LVA,2016,1
+Latvia,LVA,2017,1
+Least Developed Countries (FAO),,1961,21183.16
+Least Developed Countries (FAO),,1962,24594.82
+Least Developed Countries (FAO),,1963,25608.48
+Least Developed Countries (FAO),,1964,26355.36
+Least Developed Countries (FAO),,1965,28510.4
+Least Developed Countries (FAO),,1966,31935.91
+Least Developed Countries (FAO),,1967,31493.4
+Least Developed Countries (FAO),,1968,32795.1
+Least Developed Countries (FAO),,1969,34910.3
+Least Developed Countries (FAO),,1970,36067.12
+Least Developed Countries (FAO),,1971,36405.8
+Least Developed Countries (FAO),,1972,36052.2
+Least Developed Countries (FAO),,1973,36457.6
+Least Developed Countries (FAO),,1974,34240
+Least Developed Countries (FAO),,1975,34229.4
+Least Developed Countries (FAO),,1976,34431.8
+Least Developed Countries (FAO),,1977,34801.8
+Least Developed Countries (FAO),,1978,45608.4
+Least Developed Countries (FAO),,1979,47877.4
+Least Developed Countries (FAO),,1980,40396.6
+Least Developed Countries (FAO),,1981,43205.8
+Least Developed Countries (FAO),,1982,45901
+Least Developed Countries (FAO),,1983,48644
+Least Developed Countries (FAO),,1984,43609.8
+Least Developed Countries (FAO),,1985,41623
+Least Developed Countries (FAO),,1986,41599.8
+Least Developed Countries (FAO),,1987,41845
+Least Developed Countries (FAO),,1988,42928.2
+Least Developed Countries (FAO),,1989,33807.2
+Least Developed Countries (FAO),,1990,38904.8
+Least Developed Countries (FAO),,1991,39651.58
+Least Developed Countries (FAO),,1992,41404
+Least Developed Countries (FAO),,1993,42000.01
+Least Developed Countries (FAO),,1994,50231.4
+Least Developed Countries (FAO),,1995,55123.02
+Least Developed Countries (FAO),,1996,58633.46
+Least Developed Countries (FAO),,1997,62381.87
+Least Developed Countries (FAO),,1998,66047.97
+Least Developed Countries (FAO),,1999,69880.32
+Least Developed Countries (FAO),,2000,74717.8
+Least Developed Countries (FAO),,2001,79889.7
+Least Developed Countries (FAO),,2002,84712.03
+Least Developed Countries (FAO),,2003,93650.3
+Least Developed Countries (FAO),,2004,96097
+Least Developed Countries (FAO),,2005,110740
+Least Developed Countries (FAO),,2006,109420
+Least Developed Countries (FAO),,2007,112382
+Least Developed Countries (FAO),,2008,121382
+Least Developed Countries (FAO),,2009,112382
+Least Developed Countries (FAO),,2010,131548.47
+Least Developed Countries (FAO),,2011,140611.94
+Least Developed Countries (FAO),,2012,158689.03
+Least Developed Countries (FAO),,2013,165561.48
+Least Developed Countries (FAO),,2014,199033.81
+Least Developed Countries (FAO),,2015,213286.62
+Least Developed Countries (FAO),,2016,226938
+Least Developed Countries (FAO),,2017,270391
+Least Developed Countries (FAO),,2018,232857
+Least Developed Countries (FAO),,2019,265338
+Least Developed Countries (FAO),,2020,273348.1
+Least Developed Countries (FAO),,2021,319514.88
+Least Developed Countries (FAO),,2022,360332.7
+Least Developed Countries (FAO),,2023,366692
+Least Developed Countries (FAO),,2024,370652
+Liberia,LBR,1961,56
+Liberia,LBR,1962,60
+Liberia,LBR,1963,64
+Liberia,LBR,1964,72
+Liberia,LBR,1965,80
+Liberia,LBR,1966,88
+Liberia,LBR,1967,96
+Liberia,LBR,1968,104
+Liberia,LBR,1969,112
+Liberia,LBR,1970,116
+Liberia,LBR,1971,120
+Liberia,LBR,1972,124
+Liberia,LBR,1973,128
+Liberia,LBR,1974,136
+Liberia,LBR,1975,144
+Liberia,LBR,1976,152
+Liberia,LBR,1977,160
+Liberia,LBR,1978,168
+Liberia,LBR,1979,172
+Liberia,LBR,1980,176
+Liberia,LBR,1981,180
+Liberia,LBR,1982,186
+Liberia,LBR,1983,194
+Liberia,LBR,1984,194
+Liberia,LBR,1985,194
+Liberia,LBR,1986,198
+Liberia,LBR,1987,200
+Liberia,LBR,1988,200
+Liberia,LBR,1989,200
+Liberia,LBR,1990,184
+Liberia,LBR,1991,198
+Liberia,LBR,1992,200
+Liberia,LBR,1993,200
+Liberia,LBR,1994,200
+Liberia,LBR,1995,200
+Liberia,LBR,1996,200
+Liberia,LBR,1997,200
+Liberia,LBR,1998,200
+Liberia,LBR,1999,200
+Liberia,LBR,2000,200
+Liberia,LBR,2001,200
+Liberia,LBR,2002,200
+Liberia,LBR,2003,200
+Liberia,LBR,2004,200
+Liberia,LBR,2005,200
+Liberia,LBR,2006,188
+Liberia,LBR,2007,220
+Liberia,LBR,2008,230
+Liberia,LBR,2009,230
+Liberia,LBR,2010,240
+Liberia,LBR,2011,246
+Liberia,LBR,2012,246
+Liberia,LBR,2013,246
+Liberia,LBR,2014,239.99
+Liberia,LBR,2015,240
+Liberia,LBR,2016,240
+Liberia,LBR,2017,242
+Liberia,LBR,2018,242
+Liberia,LBR,2019,242
+Liberia,LBR,2020,242
+Liberia,LBR,2021,242
+Liberia,LBR,2022,242
+Liberia,LBR,2023,242
+Liberia,LBR,2024,242
+Lithuania,LTU,2003,900
+Lithuania,LTU,2004,1400
+Lithuania,LTU,2005,1300
+Lithuania,LTU,2006,3421
+Lithuania,LTU,2007,3600
+Lithuania,LTU,2008,3300
+Lithuania,LTU,2009,4863
+Lithuania,LTU,2010,4800
+Lithuania,LTU,2011,3830
+Lithuania,LTU,2012,3900
+Lithuania,LTU,2013,4800
+Lithuania,LTU,2014,2800
+Lithuania,LTU,2015,2100
+Lithuania,LTU,2016,4100
+Lithuania,LTU,2017,3040
+Low Income Food Deficit Countries (FAO),,1961,3764.16
+Low Income Food Deficit Countries (FAO),,1962,3860.82
+Low Income Food Deficit Countries (FAO),,1963,3939.48
+Low Income Food Deficit Countries (FAO),,1964,4040.14
+Low Income Food Deficit Countries (FAO),,1965,4137.3
+Low Income Food Deficit Countries (FAO),,1966,4238.2
+Low Income Food Deficit Countries (FAO),,1967,4762.4
+Low Income Food Deficit Countries (FAO),,1968,4799.1
+Low Income Food Deficit Countries (FAO),,1969,4982.3
+Low Income Food Deficit Countries (FAO),,1970,5180
+Low Income Food Deficit Countries (FAO),,1971,5290.2
+Low Income Food Deficit Countries (FAO),,1972,5323.6
+Low Income Food Deficit Countries (FAO),,1973,5357
+Low Income Food Deficit Countries (FAO),,1974,4999.4
+Low Income Food Deficit Countries (FAO),,1975,5164.8
+Low Income Food Deficit Countries (FAO),,1976,4916.2
+Low Income Food Deficit Countries (FAO),,1977,4884
+Low Income Food Deficit Countries (FAO),,1978,5168
+Low Income Food Deficit Countries (FAO),,1979,5144
+Low Income Food Deficit Countries (FAO),,1980,4351
+Low Income Food Deficit Countries (FAO),,1981,4314
+Low Income Food Deficit Countries (FAO),,1982,4063
+Low Income Food Deficit Countries (FAO),,1983,3837
+Low Income Food Deficit Countries (FAO),,1984,3809
+Low Income Food Deficit Countries (FAO),,1985,5236
+Low Income Food Deficit Countries (FAO),,1986,5525
+Low Income Food Deficit Countries (FAO),,1987,5035
+Low Income Food Deficit Countries (FAO),,1988,5590
+Low Income Food Deficit Countries (FAO),,1989,5583
+Low Income Food Deficit Countries (FAO),,1990,6153
+Low Income Food Deficit Countries (FAO),,1991,6261.58
+Low Income Food Deficit Countries (FAO),,1992,7788
+Low Income Food Deficit Countries (FAO),,1993,6931.41
+Low Income Food Deficit Countries (FAO),,1994,7657.4
+Low Income Food Deficit Countries (FAO),,1995,7658.42
+Low Income Food Deficit Countries (FAO),,1996,7698.46
+Low Income Food Deficit Countries (FAO),,1997,7951.87
+Low Income Food Deficit Countries (FAO),,1998,8238.97
+Low Income Food Deficit Countries (FAO),,1999,8593.32
+Low Income Food Deficit Countries (FAO),,2000,9033
+Low Income Food Deficit Countries (FAO),,2001,9388.7
+Low Income Food Deficit Countries (FAO),,2002,9025.03
+Low Income Food Deficit Countries (FAO),,2003,9118.5
+Low Income Food Deficit Countries (FAO),,2004,9321
+Low Income Food Deficit Countries (FAO),,2005,9466
+Low Income Food Deficit Countries (FAO),,2006,9436
+Low Income Food Deficit Countries (FAO),,2007,9881
+Low Income Food Deficit Countries (FAO),,2008,9756
+Low Income Food Deficit Countries (FAO),,2009,9970
+Low Income Food Deficit Countries (FAO),,2010,10212.47
+Low Income Food Deficit Countries (FAO),,2011,11392.12
+Low Income Food Deficit Countries (FAO),,2012,10036.82
+Low Income Food Deficit Countries (FAO),,2013,12059.42
+Low Income Food Deficit Countries (FAO),,2014,9824.95
+Low Income Food Deficit Countries (FAO),,2015,9900.62
+Low Income Food Deficit Countries (FAO),,2016,10150
+Low Income Food Deficit Countries (FAO),,2017,10849
+Low Income Food Deficit Countries (FAO),,2018,10725
+Low Income Food Deficit Countries (FAO),,2019,11652
+Low Income Food Deficit Countries (FAO),,2020,11100
+Low Income Food Deficit Countries (FAO),,2021,11314
+Low Income Food Deficit Countries (FAO),,2022,11813
+Low Income Food Deficit Countries (FAO),,2023,14577
+Low Income Food Deficit Countries (FAO),,2024,13889
+Low-income countries,OWID_LIC,1961,1954.16
+Low-income countries,OWID_LIC,1962,2012.32
+Low-income countries,OWID_LIC,1963,2052.48
+Low-income countries,OWID_LIC,1964,2114.64
+Low-income countries,OWID_LIC,1965,2176.8
+Low-income countries,OWID_LIC,1966,2238.2
+Low-income countries,OWID_LIC,1967,2300.4
+Low-income countries,OWID_LIC,1968,2416.6
+Low-income countries,OWID_LIC,1969,2514.8
+Low-income countries,OWID_LIC,1970,2645
+Low-income countries,OWID_LIC,1971,2775.2
+Low-income countries,OWID_LIC,1972,2905.6
+Low-income countries,OWID_LIC,1973,3036
+Low-income countries,OWID_LIC,1974,2774.4
+Low-income countries,OWID_LIC,1975,3034.8
+Low-income countries,OWID_LIC,1976,2881.2
+Low-income countries,OWID_LIC,1977,2944
+Low-income countries,OWID_LIC,1978,3328
+Low-income countries,OWID_LIC,1979,3404
+Low-income countries,OWID_LIC,1980,2706
+Low-income countries,OWID_LIC,1981,2764
+Low-income countries,OWID_LIC,1982,2608
+Low-income countries,OWID_LIC,1983,2472
+Low-income countries,OWID_LIC,1984,2472
+Low-income countries,OWID_LIC,1985,3120
+Low-income countries,OWID_LIC,1986,3340
+Low-income countries,OWID_LIC,1987,2730
+Low-income countries,OWID_LIC,1988,3090
+Low-income countries,OWID_LIC,1989,2928
+Low-income countries,OWID_LIC,1990,3218
+Low-income countries,OWID_LIC,1991,3340
+Low-income countries,OWID_LIC,1992,3342
+Low-income countries,OWID_LIC,1993,3432
+Low-income countries,OWID_LIC,1994,3486
+Low-income countries,OWID_LIC,1995,3666
+Low-income countries,OWID_LIC,1996,3882
+Low-income countries,OWID_LIC,1997,4098
+Low-income countries,OWID_LIC,1998,4296
+Low-income countries,OWID_LIC,1999,4494
+Low-income countries,OWID_LIC,2000,4746
+Low-income countries,OWID_LIC,2001,4744.2
+Low-income countries,OWID_LIC,2002,4746
+Low-income countries,OWID_LIC,2003,4746
+Low-income countries,OWID_LIC,2004,4746
+Low-income countries,OWID_LIC,2005,4746
+Low-income countries,OWID_LIC,2006,4734
+Low-income countries,OWID_LIC,2007,4766
+Low-income countries,OWID_LIC,2008,4776
+Low-income countries,OWID_LIC,2009,4776
+Low-income countries,OWID_LIC,2010,4786
+Low-income countries,OWID_LIC,2011,4810
+Low-income countries,OWID_LIC,2012,4810
+Low-income countries,OWID_LIC,2013,4792
+Low-income countries,OWID_LIC,2014,5017.56
+Low-income countries,OWID_LIC,2015,4950
+Low-income countries,OWID_LIC,2016,4950
+Low-income countries,OWID_LIC,2017,5052
+Low-income countries,OWID_LIC,2018,5052
+Low-income countries,OWID_LIC,2019,5052
+Low-income countries,OWID_LIC,2020,5052
+Low-income countries,OWID_LIC,2021,5052
+Low-income countries,OWID_LIC,2022,5052
+Low-income countries,OWID_LIC,2023,5052
+Low-income countries,OWID_LIC,2024,5052
+Lower-middle-income countries,OWID_LMC,1961,19749
+Lower-middle-income countries,OWID_LMC,1962,23142.5
+Lower-middle-income countries,OWID_LMC,1963,24111
+Lower-middle-income countries,OWID_LMC,1964,24795.72
+Lower-middle-income countries,OWID_LMC,1965,26888.6
+Lower-middle-income countries,OWID_LMC,1966,30282.71
+Lower-middle-income countries,OWID_LMC,1967,29778
+Lower-middle-income countries,OWID_LMC,1968,31000.5
+Lower-middle-income countries,OWID_LMC,1969,33060.5
+Lower-middle-income countries,OWID_LMC,1970,34117.12
+Lower-middle-income countries,OWID_LMC,1971,34355.6
+Lower-middle-income countries,OWID_LMC,1972,33911.6
+Lower-middle-income countries,OWID_LMC,1973,34331.6
+Lower-middle-income countries,OWID_LMC,1974,32570.6
+Lower-middle-income countries,OWID_LMC,1975,32404.6
+Lower-middle-income countries,OWID_LMC,1976,33060.6
+Lower-middle-income countries,OWID_LMC,1977,33567.8
+Lower-middle-income countries,OWID_LMC,1978,44210.4
+Lower-middle-income countries,OWID_LMC,1979,46693.4
+Lower-middle-income countries,OWID_LMC,1980,40320.6
+Lower-middle-income countries,OWID_LMC,1981,43456.8
+Lower-middle-income countries,OWID_LMC,1982,45329
+Lower-middle-income countries,OWID_LMC,1983,48326
+Lower-middle-income countries,OWID_LMC,1984,43409.8
+Lower-middle-income countries,OWID_LMC,1985,40952
+Lower-middle-income countries,OWID_LMC,1986,40839.8
+Lower-middle-income countries,OWID_LMC,1987,41750
+Lower-middle-income countries,OWID_LMC,1988,44373.2
+Lower-middle-income countries,OWID_LMC,1989,35719.2
+Lower-middle-income countries,OWID_LMC,1990,40906.8
+Lower-middle-income countries,OWID_LMC,1991,42046.58
+Lower-middle-income countries,OWID_LMC,1992,45818
+Lower-middle-income countries,OWID_LMC,1993,45552.01
+Lower-middle-income countries,OWID_LMC,1994,54699.4
+Lower-middle-income countries,OWID_LMC,1995,59275.02
+Lower-middle-income countries,OWID_LMC,1996,62981.46
+Lower-middle-income countries,OWID_LMC,1997,66775.87
+Lower-middle-income countries,OWID_LMC,1998,70614.97
+Lower-middle-income countries,OWID_LMC,1999,74077.32
+Lower-middle-income countries,OWID_LMC,2000,78938.8
+Lower-middle-income countries,OWID_LMC,2001,84004.5
+Lower-middle-income countries,OWID_LMC,2002,88992.03
+Lower-middle-income countries,OWID_LMC,2003,98121.3
+Lower-middle-income countries,OWID_LMC,2004,100741
+Lower-middle-income countries,OWID_LMC,2005,115644
+Lower-middle-income countries,OWID_LMC,2006,114348
+Lower-middle-income countries,OWID_LMC,2007,117401
+Lower-middle-income countries,OWID_LMC,2008,126506
+Lower-middle-income countries,OWID_LMC,2009,117760
+Lower-middle-income countries,OWID_LMC,2010,137922.47
+Lower-middle-income countries,OWID_LMC,2011,148116.94
+Lower-middle-income countries,OWID_LMC,2012,165829.03
+Lower-middle-income countries,OWID_LMC,2013,177759.48
+Lower-middle-income countries,OWID_LMC,2014,211006.55
+Lower-middle-income countries,OWID_LMC,2015,225910.62
+Lower-middle-income countries,OWID_LMC,2016,239903
+Lower-middle-income countries,OWID_LMC,2017,283862
+Lower-middle-income countries,OWID_LMC,2018,248277
+Lower-middle-income countries,OWID_LMC,2019,283645
+Lower-middle-income countries,OWID_LMC,2020,294071.1
+Lower-middle-income countries,OWID_LMC,2021,340502.88
+Lower-middle-income countries,OWID_LMC,2022,381385.7
+Lower-middle-income countries,OWID_LMC,2023,388020
+Lower-middle-income countries,OWID_LMC,2024,392652
+Madagascar,MDG,1961,1890
+Madagascar,MDG,1962,1944
+Madagascar,MDG,1963,1980
+Madagascar,MDG,1964,2034
+Madagascar,MDG,1965,2088
+Madagascar,MDG,1966,2142
+Madagascar,MDG,1967,2196
+Madagascar,MDG,1968,2304
+Madagascar,MDG,1969,2394
+Madagascar,MDG,1970,2520
+Madagascar,MDG,1971,2646
+Madagascar,MDG,1972,2772
+Madagascar,MDG,1973,2898
+Madagascar,MDG,1974,2628
+Madagascar,MDG,1975,2880
+Madagascar,MDG,1976,2718
+Madagascar,MDG,1977,2772
+Madagascar,MDG,1978,3150
+Madagascar,MDG,1979,3222
+Madagascar,MDG,1980,2520
+Madagascar,MDG,1981,2574
+Madagascar,MDG,1982,2412
+Madagascar,MDG,1983,2268
+Madagascar,MDG,1984,2268
+Madagascar,MDG,1985,2916
+Madagascar,MDG,1986,3132
+Madagascar,MDG,1987,2520
+Madagascar,MDG,1988,2880
+Madagascar,MDG,1989,2718
+Madagascar,MDG,1990,3024
+Madagascar,MDG,1991,3132
+Madagascar,MDG,1992,3132
+Madagascar,MDG,1993,3222
+Madagascar,MDG,1994,3276
+Madagascar,MDG,1995,3456
+Madagascar,MDG,1996,3672
+Madagascar,MDG,1997,3888
+Madagascar,MDG,1998,4086
+Madagascar,MDG,1999,4284
+Madagascar,MDG,2000,4536
+Madagascar,MDG,2001,4534.2
+Madagascar,MDG,2002,4536
+Madagascar,MDG,2003,4536
+Madagascar,MDG,2004,4536
+Madagascar,MDG,2005,4536
+Madagascar,MDG,2006,4536
+Madagascar,MDG,2007,4536
+Madagascar,MDG,2008,4536
+Madagascar,MDG,2009,4536
+Madagascar,MDG,2010,4536
+Madagascar,MDG,2011,4554
+Madagascar,MDG,2012,4554
+Madagascar,MDG,2013,4536
+Madagascar,MDG,2014,4767.58
+Madagascar,MDG,2015,4700
+Madagascar,MDG,2016,4700
+Madagascar,MDG,2017,4800
+Madagascar,MDG,2018,4800
+Madagascar,MDG,2019,4800
+Madagascar,MDG,2020,4800
+Madagascar,MDG,2021,4800
+Madagascar,MDG,2022,4800
+Madagascar,MDG,2023,4800
+Madagascar,MDG,2024,4800
+Malaysia,MYS,1961,400
+Malaysia,MYS,1962,700
+Malaysia,MYS,1963,900
+Malaysia,MYS,1964,1100
+Malaysia,MYS,1965,1300
+Malaysia,MYS,1966,1600
+Malaysia,MYS,1967,1800
+Malaysia,MYS,1968,2000
+Malaysia,MYS,1969,2200
+Malaysia,MYS,1970,2500
+Malaysia,MYS,1971,2700
+Malaysia,MYS,1972,2900
+Malaysia,MYS,1973,3100
+Malaysia,MYS,1974,3300
+Malaysia,MYS,1975,3600
+Malaysia,MYS,1976,3800
+Malaysia,MYS,1977,4000
+Malaysia,MYS,1978,4200
+Malaysia,MYS,1979,4500
+Malaysia,MYS,1980,4700
+Malaysia,MYS,1981,4600
+Malaysia,MYS,1982,4800
+Malaysia,MYS,1983,5500
+Malaysia,MYS,1984,5900
+Malaysia,MYS,1985,6300
+Malaysia,MYS,1986,6600
+Malaysia,MYS,1987,7000
+Malaysia,MYS,1988,7500
+Malaysia,MYS,1989,8800
+Malaysia,MYS,1990,9500
+Malaysia,MYS,1991,10000
+Malaysia,MYS,1992,9897.3
+Malaysia,MYS,1993,9932.92
+Malaysia,MYS,1994,9950.74
+Malaysia,MYS,1995,9962.33
+Malaysia,MYS,1996,9986.92
+Malaysia,MYS,1997,9777.25
+Malaysia,MYS,1998,9856.82
+Malaysia,MYS,1999,9939.13
+Malaysia,MYS,2000,9963
+Malaysia,MYS,2001,10149
+Malaysia,MYS,2002,10505
+Malaysia,MYS,2003,10748
+Malaysia,MYS,2004,10995
+Malaysia,MYS,2005,11000
+Malaysia,MYS,2006,11000
+Malaysia,MYS,2007,11000
+Malaysia,MYS,2008,11400
+Malaysia,MYS,2009,13900
+Malaysia,MYS,2010,14340.59
+Malaysia,MYS,2011,15542.65
+Malaysia,MYS,2012,15575.69
+Malaysia,MYS,2013,14668.65
+Malaysia,MYS,2014,15344.88
+Malaysia,MYS,2015,15790.61
+Malaysia,MYS,2016,15700
+Malaysia,MYS,2017,15650
+Malaysia,MYS,2018,15600
+Malaysia,MYS,2019,15600
+Malaysia,MYS,2020,15600
+Malaysia,MYS,2021,15600
+Malaysia,MYS,2022,15600
+Malaysia,MYS,2023,15600
+Malaysia,MYS,2024,15600
+Melanesia (FAO),,1961,20
+Melanesia (FAO),,1962,30
+Melanesia (FAO),,1963,25
+Melanesia (FAO),,1964,25
+Melanesia (FAO),,1965,25
+Melanesia (FAO),,1966,25
+Melanesia (FAO),,1967,25
+Melanesia (FAO),,1968,12
+Melanesia (FAO),,1969,15
+Melanesia (FAO),,1970,15
+Melanesia (FAO),,1971,25
+Melanesia (FAO),,1972,15
+Melanesia (FAO),,1973,10
+Melanesia (FAO),,1974,5
+Melanesia (FAO),,1975,10
+Melanesia (FAO),,1976,10
+Melanesia (FAO),,1977,10
+Melanesia (FAO),,1978,30
+Melanesia (FAO),,1979,20
+Melanesia (FAO),,1980,30
+Melanesia (FAO),,1981,15
+Melanesia (FAO),,1982,30
+Melanesia (FAO),,1983,30
+Melanesia (FAO),,1984,30
+Melanesia (FAO),,1985,30
+Melanesia (FAO),,1986,30
+Melanesia (FAO),,1987,35
+Melanesia (FAO),,1988,35
+Melanesia (FAO),,1989,40
+Melanesia (FAO),,1990,40
+Melanesia (FAO),,1991,45
+Melanesia (FAO),,1992,50
+Melanesia (FAO),,1993,55
+Melanesia (FAO),,1994,60
+Melanesia (FAO),,1995,50
+Melanesia (FAO),,1996,75
+Melanesia (FAO),,1997,80
+Melanesia (FAO),,1998,85
+Melanesia (FAO),,1999,90
+Melanesia (FAO),,2000,100
+Melanesia (FAO),,2001,110
+Melanesia (FAO),,2002,110
+Melanesia (FAO),,2003,110
+Melanesia (FAO),,2004,110
+Melanesia (FAO),,2005,110
+Melanesia (FAO),,2006,110
+Melanesia (FAO),,2007,110
+Melanesia (FAO),,2008,110
+Melanesia (FAO),,2009,110
+Melanesia (FAO),,2010,100
+Melanesia (FAO),,2011,100
+Melanesia (FAO),,2012,100
+Melanesia (FAO),,2013,100
+Melanesia (FAO),,2014,113.29
+Melanesia (FAO),,2015,110
+Melanesia (FAO),,2016,110
+Melanesia (FAO),,2017,115
+Melanesia (FAO),,2018,115
+Melanesia (FAO),,2019,115
+Melanesia (FAO),,2020,115
+Melanesia (FAO),,2021,115
+Melanesia (FAO),,2022,115
+Melanesia (FAO),,2023,115
+Melanesia (FAO),,2024,115
+Moldova,MDA,1992,594
+Moldova,MDA,1993,380
+Moldova,MDA,1994,390
+Moldova,MDA,1995,528
+Moldova,MDA,1996,160
+Moldova,MDA,1997,100
+Moldova,MDA,1998,91
+Moldova,MDA,1999,98
+Moldova,MDA,2000,124
+Moldova,MDA,2001,130
+Moldova,MDA,2002,130
+Moldova,MDA,2003,124
+Moldova,MDA,2004,130
+Moldova,MDA,2005,150
+Moldova,MDA,2006,135
+Moldova,MDA,2007,135
+Moldova,MDA,2008,110
+Moldova,MDA,2009,98
+Moldova,MDA,2010,98
+Moldova,MDA,2011,46
+Moldova,MDA,2012,39
+Moldova,MDA,2013,45
+Moldova,MDA,2014,32
+Moldova,MDA,2015,39
+Moldova,MDA,2016,40
+Moldova,MDA,2017,40
+Moldova,MDA,2018,40
+Moldova,MDA,2019,40
+Moldova,MDA,2020,40
+Moldova,MDA,2021,40
+Moldova,MDA,2022,40
+Moldova,MDA,2023,40
+Moldova,MDA,2024,40
+Myanmar,MMR,1961,4153
+Myanmar,MMR,1962,3850
+Myanmar,MMR,1963,3575
+Myanmar,MMR,1964,3372
+Myanmar,MMR,1965,4290
+Myanmar,MMR,1966,5790
+Myanmar,MMR,1967,3303
+Myanmar,MMR,1968,3403
+Myanmar,MMR,1969,4480
+Myanmar,MMR,1970,5002
+Myanmar,MMR,1971,5192
+Myanmar,MMR,1972,5105
+Myanmar,MMR,1973,5877
+Myanmar,MMR,1974,4367
+Myanmar,MMR,1975,4491
+Myanmar,MMR,1976,4892
+Myanmar,MMR,1977,5255
+Myanmar,MMR,1978,5609
+Myanmar,MMR,1979,5711
+Myanmar,MMR,1980,6443
+Myanmar,MMR,1981,7551
+Myanmar,MMR,1982,8658
+Myanmar,MMR,1983,9740
+Myanmar,MMR,1984,10102
+Myanmar,MMR,1985,10431
+Myanmar,MMR,1986,9858
+Myanmar,MMR,1987,10261
+Myanmar,MMR,1988,10557
+Myanmar,MMR,1989,5918
+Myanmar,MMR,1990,5363
+Myanmar,MMR,1991,6030
+Myanmar,MMR,1992,7550
+Myanmar,MMR,1993,7009
+Myanmar,MMR,1994,6976
+Myanmar,MMR,1995,8269
+Myanmar,MMR,1996,8654
+Myanmar,MMR,1997,8864
+Myanmar,MMR,1998,9221
+Myanmar,MMR,1999,9636
+Myanmar,MMR,2000,10069
+Myanmar,MMR,2001,10522
+Myanmar,MMR,2002,10995
+Myanmar,MMR,2003,14900
+Myanmar,MMR,2004,17100
+Myanmar,MMR,2005,20000
+Myanmar,MMR,2006,21500
+Myanmar,MMR,2007,24800
+Myanmar,MMR,2008,30000
+Myanmar,MMR,2009,34500
+Myanmar,MMR,2010,38600
+Myanmar,MMR,2011,42863.82
+Myanmar,MMR,2012,44106.21
+Myanmar,MMR,2013,47996.06
+Myanmar,MMR,2014,48799
+Myanmar,MMR,2015,52020
+Myanmar,MMR,2016,53193
+Myanmar,MMR,2017,55850
+Myanmar,MMR,2018,10509
+Myanmar,MMR,2019,16350
+Myanmar,MMR,2020,20828.08
+Myanmar,MMR,2021,22525.88
+Myanmar,MMR,2022,24509.68
+Myanmar,MMR,2023,28080
+Myanmar,MMR,2024,28300
+Namibia,NAM,1990,80
+Namibia,NAM,1991,140
+Namibia,NAM,1992,290
+Namibia,NAM,1993,320
+Namibia,NAM,1994,490
+Namibia,NAM,1995,450
+Namibia,NAM,1996,820
+Namibia,NAM,1997,980
+Namibia,NAM,1998,1100
+Namibia,NAM,1999,700
+Namibia,NAM,2000,670
+Namibia,NAM,2001,690
+Namibia,NAM,2002,720
+Namibia,NAM,2003,740
+Namibia,NAM,2004,800
+Namibia,NAM,2005,840
+Namibia,NAM,2006,880
+Namibia,NAM,2007,920
+Namibia,NAM,2008,960
+Namibia,NAM,2009,1000
+Namibia,NAM,2010,1000
+Namibia,NAM,2011,1000
+Namibia,NAM,2012,1000
+Namibia,NAM,2013,1000
+Namibia,NAM,2014,1000
+Namibia,NAM,2015,1000
+Namibia,NAM,2016,1000
+Namibia,NAM,2017,1100
+Namibia,NAM,2018,1080
+Namibia,NAM,2019,1080
+Namibia,NAM,2020,1080
+Namibia,NAM,2021,1300
+Namibia,NAM,2022,1300
+Namibia,NAM,2023,1300
+Namibia,NAM,2024,1300
+Nepal,NPL,1985,730
+Nepal,NPL,1986,750
+Nepal,NPL,1987,810
+Nepal,NPL,1988,900
+Nepal,NPL,1989,950
+Nepal,NPL,1990,1050
+Nepal,NPL,1991,1065
+Nepal,NPL,1992,1060
+Nepal,NPL,1993,1080
+Nepal,NPL,1994,1085
+Nepal,NPL,1995,1100
+Nepal,NPL,1996,1120
+Nepal,NPL,1997,1120
+Nepal,NPL,1998,1120
+Nepal,NPL,1999,1125.87
+Nepal,NPL,2000,1130
+Nepal,NPL,2001,1100
+Nepal,NPL,2002,1063.03
+Nepal,NPL,2003,1020
+Nepal,NPL,2004,1050
+Nepal,NPL,2005,950
+Nepal,NPL,2006,950
+Nepal,NPL,2007,1000
+Nepal,NPL,2008,1000
+Nepal,NPL,2009,1000
+Nepal,NPL,2010,984.24
+Nepal,NPL,2011,947.12
+Nepal,NPL,2012,954.82
+Nepal,NPL,2013,952.42
+Nepal,NPL,2014,983.4
+Nepal,NPL,2015,989.93
+Nepal,NPL,2016,970
+Nepal,NPL,2017,979
+Nepal,NPL,2018,996
+Nepal,NPL,2019,1036
+Nepal,NPL,2020,1068
+Nepal,NPL,2021,1237
+Nepal,NPL,2022,1671
+Nepal,NPL,2023,4160
+Nepal,NPL,2024,2800
+Net Food Importing Developing Countries (FAO),,1961,21727.47
+Net Food Importing Developing Countries (FAO),,1962,25164.2
+Net Food Importing Developing Countries (FAO),,1963,26209.54
+Net Food Importing Developing Countries (FAO),,1964,26959.54
+Net Food Importing Developing Countries (FAO),,1965,29116.08
+Net Food Importing Developing Countries (FAO),,1966,32573.13
+Net Food Importing Developing Countries (FAO),,1967,32145.71
+Net Food Importing Developing Countries (FAO),,1968,33475.32
+Net Food Importing Developing Countries (FAO),,1969,35602.85
+Net Food Importing Developing Countries (FAO),,1970,36790.99
+Net Food Importing Developing Countries (FAO),,1971,37144.87
+Net Food Importing Developing Countries (FAO),,1972,36847.96
+Net Food Importing Developing Countries (FAO),,1973,37403.36
+Net Food Importing Developing Countries (FAO),,1974,35379.6
+Net Food Importing Developing Countries (FAO),,1975,35455.8
+Net Food Importing Developing Countries (FAO),,1976,35958.2
+Net Food Importing Developing Countries (FAO),,1977,36519.4
+Net Food Importing Developing Countries (FAO),,1978,47530.4
+Net Food Importing Developing Countries (FAO),,1979,50103.8
+Net Food Importing Developing Countries (FAO),,1980,43036.2
+Net Food Importing Developing Countries (FAO),,1981,46249.8
+Net Food Importing Developing Countries (FAO),,1982,47946.6
+Net Food Importing Developing Countries (FAO),,1983,50812
+Net Food Importing Developing Countries (FAO),,1984,45895.8
+Net Food Importing Developing Countries (FAO),,1985,44090.4
+Net Food Importing Developing Countries (FAO),,1986,44202.6
+Net Food Importing Developing Countries (FAO),,1987,44497.8
+Net Food Importing Developing Countries (FAO),,1988,47485.4
+Net Food Importing Developing Countries (FAO),,1989,38664.4
+Net Food Importing Developing Countries (FAO),,1990,44146.4
+Net Food Importing Developing Countries (FAO),,1991,45403.18
+Net Food Importing Developing Countries (FAO),,1992,47760
+Net Food Importing Developing Countries (FAO),,1993,48590.41
+Net Food Importing Developing Countries (FAO),,1994,57091.8
+Net Food Importing Developing Countries (FAO),,1995,62093.42
+Net Food Importing Developing Countries (FAO),,1996,66132.66
+Net Food Importing Developing Countries (FAO),,1997,70145.47
+Net Food Importing Developing Countries (FAO),,1998,74135.97
+Net Food Importing Developing Countries (FAO),,1999,77722.72
+Net Food Importing Developing Countries (FAO),,2000,82667
+Net Food Importing Developing Countries (FAO),,2001,87845.7
+Net Food Importing Developing Countries (FAO),,2002,92693.63
+Net Food Importing Developing Countries (FAO),,2003,101643.1
+Net Food Importing Developing Countries (FAO),,2004,104149.8
+Net Food Importing Developing Countries (FAO),,2005,118832.8
+Net Food Importing Developing Countries (FAO),,2006,117552.8
+Net Food Importing Developing Countries (FAO),,2007,120554.8
+Net Food Importing Developing Countries (FAO),,2008,129594.8
+Net Food Importing Developing Countries (FAO),,2009,120634.8
+Net Food Importing Developing Countries (FAO),,2010,140601.27
+Net Food Importing Developing Countries (FAO),,2011,149664.73
+Net Food Importing Developing Countries (FAO),,2012,168741.83
+Net Food Importing Developing Countries (FAO),,2013,178614.28
+Net Food Importing Developing Countries (FAO),,2014,214566.81
+Net Food Importing Developing Countries (FAO),,2015,229331.62
+Net Food Importing Developing Countries (FAO),,2016,242983
+Net Food Importing Developing Countries (FAO),,2017,286536
+Net Food Importing Developing Countries (FAO),,2018,250982
+Net Food Importing Developing Countries (FAO),,2019,285463
+Net Food Importing Developing Countries (FAO),,2020,296473.1
+Net Food Importing Developing Countries (FAO),,2021,342859.88
+Net Food Importing Developing Countries (FAO),,2022,383677.7
+Net Food Importing Developing Countries (FAO),,2023,390037
+Net Food Importing Developing Countries (FAO),,2024,393997
+New Zealand,NZL,1961,1340
+New Zealand,NZL,1962,1340
+New Zealand,NZL,1963,1340
+New Zealand,NZL,1964,1330
+New Zealand,NZL,1965,1330
+New Zealand,NZL,1966,1370
+New Zealand,NZL,1967,1370
+New Zealand,NZL,1968,1380
+New Zealand,NZL,1969,1390
+New Zealand,NZL,1970,1375
+New Zealand,NZL,1971,1390
+New Zealand,NZL,1972,1390
+New Zealand,NZL,1973,1360
+New Zealand,NZL,1974,1390
+New Zealand,NZL,1975,1400
+New Zealand,NZL,1976,1400
+New Zealand,NZL,1977,1400
+New Zealand,NZL,1978,1400
+New Zealand,NZL,1979,1400
+New Zealand,NZL,1980,1420
+New Zealand,NZL,1981,1420
+New Zealand,NZL,1982,1440
+New Zealand,NZL,1983,1440
+New Zealand,NZL,1984,1440
+New Zealand,NZL,1985,1440
+New Zealand,NZL,1986,1450
+New Zealand,NZL,1987,1450
+New Zealand,NZL,1988,1800
+New Zealand,NZL,1989,1800
+New Zealand,NZL,1990,24000
+New Zealand,NZL,1991,24600
+New Zealand,NZL,1992,25500
+New Zealand,NZL,1993,26600
+New Zealand,NZL,1994,2350
+New Zealand,NZL,1995,6521.85
+New Zealand,NZL,1996,2400
+New Zealand,NZL,1997,4857.19
+New Zealand,NZL,1998,2400
+New Zealand,NZL,1999,2400
+New Zealand,NZL,2000,2400
+New Zealand,NZL,2001,2400
+New Zealand,NZL,2002,2400
+New Zealand,NZL,2003,2366.33
+New Zealand,NZL,2004,2262.67
+New Zealand,NZL,2005,2500
+New Zealand,NZL,2006,2053.89
+New Zealand,NZL,2007,1861.51
+New Zealand,NZL,2008,1993.49
+New Zealand,NZL,2009,2175.99
+New Zealand,NZL,2010,1773.27
+New Zealand,NZL,2011,1713.22
+New Zealand,NZL,2012,1797.55
+New Zealand,NZL,2013,1802.13
+New Zealand,NZL,2014,1806.72
+New Zealand,NZL,2015,1811.3
+New Zealand,NZL,2016,1800
+New Zealand,NZL,2017,1800
+New Zealand,NZL,2018,1880
+New Zealand,NZL,2019,1880
+New Zealand,NZL,2020,1880
+New Zealand,NZL,2021,1880
+New Zealand,NZL,2022,1880
+New Zealand,NZL,2023,1880
+New Zealand,NZL,2024,1880
+North America,OWID_NAM,1961,340
+North America,OWID_NAM,1962,347
+North America,OWID_NAM,1963,354
+North America,OWID_NAM,1964,361
+North America,OWID_NAM,1965,368
+North America,OWID_NAM,1966,376
+North America,OWID_NAM,1967,383
+North America,OWID_NAM,1968,391
+North America,OWID_NAM,1969,399
+North America,OWID_NAM,1970,407
+North America,OWID_NAM,1971,415
+North America,OWID_NAM,1972,423
+North America,OWID_NAM,1973,431
+North America,OWID_NAM,1974,440
+North America,OWID_NAM,1975,450
+North America,OWID_NAM,1976,460
+North America,OWID_NAM,1977,470
+North America,OWID_NAM,1978,475
+North America,OWID_NAM,1979,480
+North America,OWID_NAM,1980,490
+North America,OWID_NAM,1981,500
+North America,OWID_NAM,1982,510
+North America,OWID_NAM,1983,525
+North America,OWID_NAM,1984,525
+North America,OWID_NAM,1985,525
+North America,OWID_NAM,1986,525
+North America,OWID_NAM,1987,550
+North America,OWID_NAM,1988,550
+North America,OWID_NAM,1989,550
+North America,OWID_NAM,1990,625
+North America,OWID_NAM,1991,491.58
+North America,OWID_NAM,1992,500
+North America,OWID_NAM,1993,505.41
+North America,OWID_NAM,1994,512.4
+North America,OWID_NAM,1995,519.42
+North America,OWID_NAM,1996,526.46
+North America,OWID_NAM,1997,531.87
+North America,OWID_NAM,1998,539.97
+North America,OWID_NAM,1999,547.45
+North America,OWID_NAM,2000,550
+North America,OWID_NAM,2001,575
+North America,OWID_NAM,2002,575
+North America,OWID_NAM,2003,600
+North America,OWID_NAM,2004,600
+North America,OWID_NAM,2005,625
+North America,OWID_NAM,2006,600
+North America,OWID_NAM,2007,600
+North America,OWID_NAM,2008,600
+North America,OWID_NAM,2009,600
+North America,OWID_NAM,2010,632.23
+North America,OWID_NAM,2011,670
+North America,OWID_NAM,2012,672
+North America,OWID_NAM,2013,675
+North America,OWID_NAM,2014,674.99
+North America,OWID_NAM,2015,681.69
+North America,OWID_NAM,2016,675
+North America,OWID_NAM,2017,670
+North America,OWID_NAM,2018,550
+North America,OWID_NAM,2019,550
+North America,OWID_NAM,2020,550
+North America,OWID_NAM,2021,550
+North America,OWID_NAM,2022,550
+North America,OWID_NAM,2023,550
+North America,OWID_NAM,2024,550
+Northern Europe (FAO),,1961,4000
+Northern Europe (FAO),,1962,3500
+Northern Europe (FAO),,1963,3500
+Northern Europe (FAO),,1964,3200
+Northern Europe (FAO),,1965,3000
+Northern Europe (FAO),,1966,3000
+Northern Europe (FAO),,1967,3000
+Northern Europe (FAO),,1968,3000
+Northern Europe (FAO),,1969,3000
+Northern Europe (FAO),,1970,3000
+Northern Europe (FAO),,1971,3000
+Northern Europe (FAO),,1972,3000
+Northern Europe (FAO),,1973,3000
+Northern Europe (FAO),,1974,3000
+Northern Europe (FAO),,1975,3136
+Northern Europe (FAO),,1976,3471
+Northern Europe (FAO),,1977,3370
+Northern Europe (FAO),,1978,3658
+Northern Europe (FAO),,1979,3705
+Northern Europe (FAO),,1980,3635
+Northern Europe (FAO),,1981,3697
+Northern Europe (FAO),,1982,4048
+Northern Europe (FAO),,1983,4098
+Northern Europe (FAO),,1984,3886
+Northern Europe (FAO),,1985,4066
+Northern Europe (FAO),,1986,4399
+Northern Europe (FAO),,1987,4500
+Northern Europe (FAO),,1988,4480
+Northern Europe (FAO),,1989,5976
+Northern Europe (FAO),,1990,5972
+Northern Europe (FAO),,1991,5461
+Northern Europe (FAO),,1992,5984
+Northern Europe (FAO),,1993,6817
+Northern Europe (FAO),,1994,6843
+Northern Europe (FAO),,1995,8066
+Northern Europe (FAO),,1996,9117
+Northern Europe (FAO),,1997,9098
+Northern Europe (FAO),,1998,16163
+Northern Europe (FAO),,1999,15379
+Northern Europe (FAO),,2000,15407
+Northern Europe (FAO),,2001,17294
+Northern Europe (FAO),,2002,17978
+Northern Europe (FAO),,2003,19066
+Northern Europe (FAO),,2004,17768
+Northern Europe (FAO),,2005,17345
+Northern Europe (FAO),,2006,20159
+Northern Europe (FAO),,2007,17662
+Northern Europe (FAO),,2008,16717
+Northern Europe (FAO),,2009,17881
+Northern Europe (FAO),,2010,17846
+Northern Europe (FAO),,2011,19863
+Northern Europe (FAO),,2012,18917
+Northern Europe (FAO),,2013,18818
+Northern Europe (FAO),,2014,17848
+Northern Europe (FAO),,2015,16146
+Northern Europe (FAO),,2016,18101
+Northern Europe (FAO),,2017,17041
+Northern Europe (FAO),,2018,14000
+Northern Europe (FAO),,2019,14000
+Northern Europe (FAO),,2020,11000
+Northern Europe (FAO),,2021,11000
+Northern Europe (FAO),,2022,8000
+Northern Europe (FAO),,2023,8000
+Northern Europe (FAO),,2024,8000
+Oceania,OWID_OCE,1961,1380
+Oceania,OWID_OCE,1962,1392.5
+Oceania,OWID_OCE,1963,1390
+Oceania,OWID_OCE,1964,1382.5
+Oceania,OWID_OCE,1965,1385
+Oceania,OWID_OCE,1966,1427.5
+Oceania,OWID_OCE,1967,1430
+Oceania,OWID_OCE,1968,1432
+Oceania,OWID_OCE,1969,1450
+Oceania,OWID_OCE,1970,1440
+Oceania,OWID_OCE,1971,1467.5
+Oceania,OWID_OCE,1972,1462.5
+Oceania,OWID_OCE,1973,1430
+Oceania,OWID_OCE,1974,1460
+Oceania,OWID_OCE,1975,1480
+Oceania,OWID_OCE,1976,1482.5
+Oceania,OWID_OCE,1977,1485
+Oceania,OWID_OCE,1978,1510
+Oceania,OWID_OCE,1979,1505
+Oceania,OWID_OCE,1980,1537.5
+Oceania,OWID_OCE,1981,1525
+Oceania,OWID_OCE,1982,1562.5
+Oceania,OWID_OCE,1983,1557.5
+Oceania,OWID_OCE,1984,1550
+Oceania,OWID_OCE,1985,1552.5
+Oceania,OWID_OCE,1986,1565
+Oceania,OWID_OCE,1987,1570
+Oceania,OWID_OCE,1988,1920
+Oceania,OWID_OCE,1989,1925
+Oceania,OWID_OCE,1990,24122.5
+Oceania,OWID_OCE,1991,24730.32
+Oceania,OWID_OCE,1992,25635.28
+Oceania,OWID_OCE,1993,26740.24
+Oceania,OWID_OCE,1994,2495.2
+Oceania,OWID_OCE,1995,6656.79
+Oceania,OWID_OCE,1996,2560.09
+Oceania,OWID_OCE,1997,5022.68
+Oceania,OWID_OCE,1998,2570.49
+Oceania,OWID_OCE,1999,2574.87
+Oceania,OWID_OCE,2000,2584.61
+Oceania,OWID_OCE,2001,2594.33
+Oceania,OWID_OCE,2002,2594.08
+Oceania,OWID_OCE,2003,2559.3
+Oceania,OWID_OCE,2004,2455.64
+Oceania,OWID_OCE,2005,2693.68
+Oceania,OWID_OCE,2006,2247.39
+Oceania,OWID_OCE,2007,2054.96
+Oceania,OWID_OCE,2008,2186.6199
+Oceania,OWID_OCE,2009,2368.96
+Oceania,OWID_OCE,2010,1961.27
+Oceania,OWID_OCE,2011,1901.22
+Oceania,OWID_OCE,2012,1985.55
+Oceania,OWID_OCE,2013,1990.13
+Oceania,OWID_OCE,2014,2008.01
+Oceania,OWID_OCE,2015,2009.6101
+Oceania,OWID_OCE,2016,1998
+Oceania,OWID_OCE,2017,2003
+Oceania,OWID_OCE,2018,2083
+Oceania,OWID_OCE,2019,2083
+Oceania,OWID_OCE,2020,2083
+Oceania,OWID_OCE,2021,2083
+Oceania,OWID_OCE,2022,2083
+Oceania,OWID_OCE,2023,2083
+Oceania,OWID_OCE,2024,2083
+Oceania (FAO),,1961,1380
+Oceania (FAO),,1962,1392.5
+Oceania (FAO),,1963,1390
+Oceania (FAO),,1964,1382.5
+Oceania (FAO),,1965,1385
+Oceania (FAO),,1966,1427.5
+Oceania (FAO),,1967,1430
+Oceania (FAO),,1968,1432
+Oceania (FAO),,1969,1450
+Oceania (FAO),,1970,1440
+Oceania (FAO),,1971,1467.5
+Oceania (FAO),,1972,1462.5
+Oceania (FAO),,1973,1430
+Oceania (FAO),,1974,1460
+Oceania (FAO),,1975,1480
+Oceania (FAO),,1976,1482.5
+Oceania (FAO),,1977,1485
+Oceania (FAO),,1978,1510
+Oceania (FAO),,1979,1505
+Oceania (FAO),,1980,1537.5
+Oceania (FAO),,1981,1525
+Oceania (FAO),,1982,1562.5
+Oceania (FAO),,1983,1557.5
+Oceania (FAO),,1984,1550
+Oceania (FAO),,1985,1552.5
+Oceania (FAO),,1986,1565
+Oceania (FAO),,1987,1570
+Oceania (FAO),,1988,1920
+Oceania (FAO),,1989,1925
+Oceania (FAO),,1990,24122.5
+Oceania (FAO),,1991,24730.32
+Oceania (FAO),,1992,25635.28
+Oceania (FAO),,1993,26740.24
+Oceania (FAO),,1994,2495.2
+Oceania (FAO),,1995,6656.79
+Oceania (FAO),,1996,2560.09
+Oceania (FAO),,1997,5022.68
+Oceania (FAO),,1998,2570.49
+Oceania (FAO),,1999,2574.87
+Oceania (FAO),,2000,2584.61
+Oceania (FAO),,2001,2594.33
+Oceania (FAO),,2002,2594.08
+Oceania (FAO),,2003,2559.3
+Oceania (FAO),,2004,2455.64
+Oceania (FAO),,2005,2693.68
+Oceania (FAO),,2006,2247.39
+Oceania (FAO),,2007,2054.95
+Oceania (FAO),,2008,2186.62
+Oceania (FAO),,2009,2368.96
+Oceania (FAO),,2010,1961.27
+Oceania (FAO),,2011,1901.22
+Oceania (FAO),,2012,1985.55
+Oceania (FAO),,2013,1990.13
+Oceania (FAO),,2014,2008
+Oceania (FAO),,2015,2009.61
+Oceania (FAO),,2016,1998
+Oceania (FAO),,2017,2003
+Oceania (FAO),,2018,2083
+Oceania (FAO),,2019,2083
+Oceania (FAO),,2020,2083
+Oceania (FAO),,2021,2083
+Oceania (FAO),,2022,2083
+Oceania (FAO),,2023,2083
+Oceania (FAO),,2024,2083
+Pakistan,PAK,1961,500
+Pakistan,PAK,1962,530
+Pakistan,PAK,1963,530
+Pakistan,PAK,1964,530
+Pakistan,PAK,1965,530
+Pakistan,PAK,1966,560
+Pakistan,PAK,1967,560
+Pakistan,PAK,1968,610
+Pakistan,PAK,1969,650
+Pakistan,PAK,1970,680
+Pakistan,PAK,1971,700
+Pakistan,PAK,1972,750
+Pakistan,PAK,1973,900
+Pakistan,PAK,1974,1100
+Pakistan,PAK,1975,1200
+Pakistan,PAK,1976,1500
+Pakistan,PAK,1977,1700
+Pakistan,PAK,1978,1900
+Pakistan,PAK,1979,2200
+Pakistan,PAK,1980,2600
+Pakistan,PAK,1981,3000
+Pakistan,PAK,1982,2006
+Pakistan,PAK,1983,2124
+Pakistan,PAK,1984,2242
+Pakistan,PAK,1985,2419
+Pakistan,PAK,1986,2550
+Pakistan,PAK,1987,2600
+Pakistan,PAK,1988,4500
+Pakistan,PAK,1989,4800
+Pakistan,PAK,1990,5100
+Pakistan,PAK,1991,5550
+Pakistan,PAK,1992,6000
+Pakistan,PAK,1993,6200
+Pakistan,PAK,1994,6300
+Pakistan,PAK,1995,6450
+Pakistan,PAK,1996,6600
+Pakistan,PAK,1997,6700
+Pakistan,PAK,1998,6900
+Pakistan,PAK,1999,7050
+Pakistan,PAK,2000,7200
+Pakistan,PAK,2001,7200
+Pakistan,PAK,2002,7200
+Pakistan,PAK,2003,7200
+Pakistan,PAK,2004,7200
+Pakistan,PAK,2005,7200
+Pakistan,PAK,2006,7200
+Pakistan,PAK,2007,7200
+Pakistan,PAK,2008,7200
+Pakistan,PAK,2009,7200
+Pakistan,PAK,2010,8000
+Pakistan,PAK,2011,8000
+Pakistan,PAK,2012,9000
+Pakistan,PAK,2013,12000
+Pakistan,PAK,2014,14488
+Pakistan,PAK,2015,15000
+Pakistan,PAK,2016,15000
+Pakistan,PAK,2017,15000
+Pakistan,PAK,2018,17000
+Pakistan,PAK,2019,19000
+Pakistan,PAK,2020,22000
+Pakistan,PAK,2021,22000
+Pakistan,PAK,2022,22000
+Pakistan,PAK,2023,22000
+Pakistan,PAK,2024,22000
+Papua New Guinea,PNG,1961,20
+Papua New Guinea,PNG,1962,30
+Papua New Guinea,PNG,1963,25
+Papua New Guinea,PNG,1964,25
+Papua New Guinea,PNG,1965,25
+Papua New Guinea,PNG,1966,25
+Papua New Guinea,PNG,1967,25
+Papua New Guinea,PNG,1968,12
+Papua New Guinea,PNG,1969,15
+Papua New Guinea,PNG,1970,15
+Papua New Guinea,PNG,1971,25
+Papua New Guinea,PNG,1972,15
+Papua New Guinea,PNG,1973,10
+Papua New Guinea,PNG,1974,5
+Papua New Guinea,PNG,1975,10
+Papua New Guinea,PNG,1976,10
+Papua New Guinea,PNG,1977,10
+Papua New Guinea,PNG,1978,30
+Papua New Guinea,PNG,1979,20
+Papua New Guinea,PNG,1980,30
+Papua New Guinea,PNG,1981,15
+Papua New Guinea,PNG,1982,30
+Papua New Guinea,PNG,1983,30
+Papua New Guinea,PNG,1984,30
+Papua New Guinea,PNG,1985,30
+Papua New Guinea,PNG,1986,30
+Papua New Guinea,PNG,1987,35
+Papua New Guinea,PNG,1988,35
+Papua New Guinea,PNG,1989,40
+Papua New Guinea,PNG,1990,40
+Papua New Guinea,PNG,1991,45
+Papua New Guinea,PNG,1992,50
+Papua New Guinea,PNG,1993,55
+Papua New Guinea,PNG,1994,60
+Papua New Guinea,PNG,1995,50
+Papua New Guinea,PNG,1996,75
+Papua New Guinea,PNG,1997,80
+Papua New Guinea,PNG,1998,85
+Papua New Guinea,PNG,1999,90
+Papua New Guinea,PNG,2000,100
+Papua New Guinea,PNG,2001,110
+Papua New Guinea,PNG,2002,110
+Papua New Guinea,PNG,2003,110
+Papua New Guinea,PNG,2004,110
+Papua New Guinea,PNG,2005,110
+Papua New Guinea,PNG,2006,110
+Papua New Guinea,PNG,2007,110
+Papua New Guinea,PNG,2008,110
+Papua New Guinea,PNG,2009,110
+Papua New Guinea,PNG,2010,100
+Papua New Guinea,PNG,2011,100
+Papua New Guinea,PNG,2012,100
+Papua New Guinea,PNG,2013,100
+Papua New Guinea,PNG,2014,113.29
+Papua New Guinea,PNG,2015,110
+Papua New Guinea,PNG,2016,110
+Papua New Guinea,PNG,2017,115
+Papua New Guinea,PNG,2018,115
+Papua New Guinea,PNG,2019,115
+Papua New Guinea,PNG,2020,115
+Papua New Guinea,PNG,2021,115
+Papua New Guinea,PNG,2022,115
+Papua New Guinea,PNG,2023,115
+Papua New Guinea,PNG,2024,115
+Paraguay,PRY,1961,432
+Paraguay,PRY,1962,510
+Paraguay,PRY,1963,523
+Paraguay,PRY,1964,536
+Paraguay,PRY,1965,548
+Paraguay,PRY,1966,586
+Paraguay,PRY,1967,606
+Paraguay,PRY,1968,554
+Paraguay,PRY,1969,487
+Paraguay,PRY,1970,451
+Paraguay,PRY,1971,448
+Paraguay,PRY,1972,481
+Paraguay,PRY,1973,509
+Paraguay,PRY,1974,545
+Paraguay,PRY,1975,579
+Paraguay,PRY,1976,587
+Paraguay,PRY,1977,597
+Paraguay,PRY,1978,627
+Paraguay,PRY,1979,653
+Paraguay,PRY,1980,667
+Paraguay,PRY,1981,685
+Paraguay,PRY,1982,700
+Paraguay,PRY,1983,720
+Paraguay,PRY,1984,720
+Paraguay,PRY,1985,720
+Paraguay,PRY,1986,730
+Paraguay,PRY,1987,740
+Paraguay,PRY,1988,740
+Paraguay,PRY,1989,750
+Paraguay,PRY,1990,718
+Paraguay,PRY,1991,755
+Paraguay,PRY,1992,758.32
+Paraguay,PRY,1993,760
+Paraguay,PRY,1994,766.71
+Paraguay,PRY,1995,772.28
+Paraguay,PRY,1996,780
+Paraguay,PRY,1997,781.74
+Paraguay,PRY,1998,785.76
+Paraguay,PRY,1999,789.88
+Paraguay,PRY,2000,793.01
+Paraguay,PRY,2001,800
+Paraguay,PRY,2002,808.02
+Paraguay,PRY,2003,820
+Paraguay,PRY,2004,810
+Paraguay,PRY,2005,820
+Paraguay,PRY,2006,860
+Paraguay,PRY,2007,877.57
+Paraguay,PRY,2008,900
+Paraguay,PRY,2009,921.15
+Paraguay,PRY,2010,950
+Paraguay,PRY,2011,950
+Paraguay,PRY,2012,970
+Paraguay,PRY,2013,970
+Paraguay,PRY,2014,983.24
+Paraguay,PRY,2015,1010.02
+Paraguay,PRY,2016,970
+Paraguay,PRY,2017,990
+Paraguay,PRY,2018,1010
+Paraguay,PRY,2019,1010
+Paraguay,PRY,2020,1010
+Paraguay,PRY,2021,1010
+Paraguay,PRY,2022,1010
+Paraguay,PRY,2023,1010
+Paraguay,PRY,2024,1010
+Philippines,PHL,1961,9000
+Philippines,PHL,1962,9500
+Philippines,PHL,1963,9779
+Philippines,PHL,1964,9893
+Philippines,PHL,1965,9121
+Philippines,PHL,1966,8094
+Philippines,PHL,1967,9267
+Philippines,PHL,1968,7651
+Philippines,PHL,1969,7591
+Philippines,PHL,1970,7748
+Philippines,PHL,1971,7908
+Philippines,PHL,1972,8699
+Philippines,PHL,1973,9723
+Philippines,PHL,1974,10919
+Philippines,PHL,1975,39552
+Philippines,PHL,1976,39651
+Philippines,PHL,1977,69126
+Philippines,PHL,1978,58276
+Philippines,PHL,1979,58491
+Philippines,PHL,1980,64375
+Philippines,PHL,1981,47274
+Philippines,PHL,1982,48480
+Philippines,PHL,1983,53566
+Philippines,PHL,1984,56969
+Philippines,PHL,1985,52145
+Philippines,PHL,1986,51473
+Philippines,PHL,1987,53500
+Philippines,PHL,1988,60600
+Philippines,PHL,1989,70800
+Philippines,PHL,1990,43400
+Philippines,PHL,1991,44800
+Philippines,PHL,1992,47300
+Philippines,PHL,1993,53000
+Philippines,PHL,1994,51400
+Philippines,PHL,1995,52400
+Philippines,PHL,1996,53900
+Philippines,PHL,1997,54400
+Philippines,PHL,1998,56500
+Philippines,PHL,1999,56000
+Philippines,PHL,2000,53465
+Philippines,PHL,2001,53913
+Philippines,PHL,2002,53633
+Philippines,PHL,2003,54044
+Philippines,PHL,2004,56593
+Philippines,PHL,2005,53232
+Philippines,PHL,2006,50027
+Philippines,PHL,2007,46990
+Philippines,PHL,2008,42559
+Philippines,PHL,2009,39617
+Philippines,PHL,2010,36676
+Philippines,PHL,2011,37678
+Philippines,PHL,2012,39474
+Philippines,PHL,2013,41071
+Philippines,PHL,2014,41510
+Philippines,PHL,2015,42404
+Philippines,PHL,2016,44160
+Philippines,PHL,2017,45432
+Philippines,PHL,2018,46611.41
+Philippines,PHL,2019,49569.16
+Philippines,PHL,2020,50483.83
+Philippines,PHL,2021,50450
+Philippines,PHL,2022,55635.05
+Philippines,PHL,2023,54518.96
+Philippines,PHL,2024,52881.15
+Polynesia (FAO),,1961,20
+Polynesia (FAO),,1962,22.5
+Polynesia (FAO),,1963,25
+Polynesia (FAO),,1964,27.5
+Polynesia (FAO),,1965,30
+Polynesia (FAO),,1966,32.5
+Polynesia (FAO),,1967,35
+Polynesia (FAO),,1968,40
+Polynesia (FAO),,1969,45
+Polynesia (FAO),,1970,50
+Polynesia (FAO),,1971,52.5
+Polynesia (FAO),,1972,57.5
+Polynesia (FAO),,1973,60
+Polynesia (FAO),,1974,65
+Polynesia (FAO),,1975,70
+Polynesia (FAO),,1976,72.5
+Polynesia (FAO),,1977,75
+Polynesia (FAO),,1978,80
+Polynesia (FAO),,1979,85
+Polynesia (FAO),,1980,87.5
+Polynesia (FAO),,1981,90
+Polynesia (FAO),,1982,92.5
+Polynesia (FAO),,1983,87.5
+Polynesia (FAO),,1984,80
+Polynesia (FAO),,1985,82.5
+Polynesia (FAO),,1986,85
+Polynesia (FAO),,1987,85
+Polynesia (FAO),,1988,85
+Polynesia (FAO),,1989,85
+Polynesia (FAO),,1990,82.5
+Polynesia (FAO),,1991,85.32
+Polynesia (FAO),,1992,85.28
+Polynesia (FAO),,1993,85.24
+Polynesia (FAO),,1994,85.2
+Polynesia (FAO),,1995,84.94
+Polynesia (FAO),,1996,85.09
+Polynesia (FAO),,1997,85.49
+Polynesia (FAO),,1998,85.49
+Polynesia (FAO),,1999,84.87
+Polynesia (FAO),,2000,84.61
+Polynesia (FAO),,2001,84.33
+Polynesia (FAO),,2002,84.08
+Polynesia (FAO),,2003,82.97
+Polynesia (FAO),,2004,82.97
+Polynesia (FAO),,2005,83.68
+Polynesia (FAO),,2006,83.5
+Polynesia (FAO),,2007,83.45
+Polynesia (FAO),,2008,83.13
+Polynesia (FAO),,2009,82.97
+Polynesia (FAO),,2010,88
+Polynesia (FAO),,2011,88
+Polynesia (FAO),,2012,88
+Polynesia (FAO),,2013,88
+Polynesia (FAO),,2014,88
+Polynesia (FAO),,2015,88.31
+Polynesia (FAO),,2016,88
+Polynesia (FAO),,2017,88
+Polynesia (FAO),,2018,88
+Polynesia (FAO),,2019,88
+Polynesia (FAO),,2020,88
+Polynesia (FAO),,2021,88
+Polynesia (FAO),,2022,88
+Polynesia (FAO),,2023,88
+Polynesia (FAO),,2024,88
+Portugal,PRT,1992,0
+Portugal,PRT,1993,0
+Portugal,PRT,1994,0
+Portugal,PRT,1995,0
+Portugal,PRT,1996,0
+Portugal,PRT,1997,0
+Portugal,PRT,1998,0
+Portugal,PRT,1999,300
+Portugal,PRT,2000,150
+Portugal,PRT,2001,800
+Portugal,PRT,2002,350
+Portugal,PRT,2003,450
+Portugal,PRT,2004,461.23
+Portugal,PRT,2005,522.33
+Portugal,PRT,2006,522.89
+Portugal,PRT,2007,544.97
+Portugal,PRT,2008,564.44
+Portugal,PRT,2009,642
+Portugal,PRT,2010,653
+Portugal,PRT,2011,582
+Portugal,PRT,2012,556
+Portugal,PRT,2013,562
+Portugal,PRT,2014,560
+Portugal,PRT,2015,560
+Portugal,PRT,2016,560
+Portugal,PRT,2017,580
+Romania,ROU,1961,11520
+Romania,ROU,1962,11400
+Romania,ROU,1963,10020
+Romania,ROU,1964,10920
+Romania,ROU,1965,11580
+Romania,ROU,1966,13560
+Romania,ROU,1967,15000
+Romania,ROU,1968,19260
+Romania,ROU,1969,18660
+Romania,ROU,1970,20280
+Romania,ROU,1971,18720
+Romania,ROU,1972,25560
+Romania,ROU,1973,24480
+Romania,ROU,1974,25980
+Romania,ROU,1975,26340
+Romania,ROU,1976,28980
+Romania,ROU,1977,30300
+Romania,ROU,1978,21480
+Romania,ROU,1979,19110
+Romania,ROU,1980,17100
+Romania,ROU,1981,21000
+Romania,ROU,1982,20900
+Romania,ROU,1983,18700
+Romania,ROU,1984,21600
+Romania,ROU,1985,22120
+Romania,ROU,1986,20940
+Romania,ROU,1987,21250
+Romania,ROU,1988,27600
+Romania,ROU,1989,23300
+Romania,ROU,1990,25950
+Romania,ROU,1991,15900
+Romania,ROU,1992,16950
+Romania,ROU,1993,15850
+Romania,ROU,1994,15800
+Romania,ROU,1995,15200
+Romania,ROU,1996,16200
+Romania,ROU,1997,15900
+Romania,ROU,1998,18750
+Romania,ROU,1999,17250
+Romania,ROU,2000,22700
+Romania,ROU,2001,23850
+Romania,ROU,2002,33050
+Romania,ROU,2003,30650
+Romania,ROU,2004,33950
+Romania,ROU,2005,10150
+Romania,ROU,2006,14800
+Romania,ROU,2007,14832
+Romania,ROU,2008,11253
+Romania,ROU,2009,13278
+Romania,ROU,2010,12425
+Romania,ROU,2011,12097
+Romania,ROU,2012,8137
+Romania,ROU,2013,11451
+Romania,ROU,2014,9396
+Romania,ROU,2015,8609
+Romania,ROU,2016,6021
+Romania,ROU,2017,5771
+Russia,RUS,1992,27800
+Russia,RUS,1993,26200
+Russia,RUS,1994,24300
+Russia,RUS,1995,21500
+Russia,RUS,1996,19500
+Russia,RUS,1997,13400
+Russia,RUS,1998,6600
+Russia,RUS,1999,10650
+Russia,RUS,2000,8300
+Russia,RUS,2001,10800
+Russia,RUS,2002,10000
+Russia,RUS,2003,12000
+Russia,RUS,2004,13500
+Russia,RUS,2005,15500
+Russia,RUS,2006,17800
+Russia,RUS,2007,20800
+Russia,RUS,2008,16507
+Russia,RUS,2009,15684
+Russia,RUS,2010,13400
+Russia,RUS,2011,21700
+Russia,RUS,2012,31500
+Russia,RUS,2013,32960
+Russia,RUS,2014,35560
+Russia,RUS,2015,31120
+Russia,RUS,2016,30697
+Russia,RUS,2017,35088
+Russia,RUS,2018,32718
+Russia,RUS,2019,23795
+Russia,RUS,2020,26365
+Russia,RUS,2021,20484
+Russia,RUS,2022,25548
+Russia,RUS,2023,25855
+Russia,RUS,2024,23970
+Seychelles,SYC,1961,6.3
+Seychelles,SYC,1962,7.2
+Seychelles,SYC,1963,8.1
+Seychelles,SYC,1964,6
+Seychelles,SYC,1965,9.9
+Seychelles,SYC,1966,10.8
+Seychelles,SYC,1967,11.7
+Seychelles,SYC,1968,12.6
+Seychelles,SYC,1969,12.6
+Seychelles,SYC,1970,13.5
+Seychelles,SYC,1971,13.5
+Seychelles,SYC,1972,14.4
+Seychelles,SYC,1973,14.4
+Seychelles,SYC,1974,12
+Seychelles,SYC,1975,12
+Seychelles,SYC,1976,10.8
+Seychelles,SYC,1977,8.76
+Seychelles,SYC,1978,6
+Seychelles,SYC,1979,9
+Seychelles,SYC,1980,9
+Seychelles,SYC,1981,9.36
+Seychelles,SYC,1982,9.72
+Seychelles,SYC,1983,12
+Seychelles,SYC,1984,12
+Seychelles,SYC,1985,12
+Seychelles,SYC,1986,12
+Seychelles,SYC,1987,12
+Seychelles,SYC,1988,12
+Seychelles,SYC,1989,12
+Seychelles,SYC,1990,12
+Seychelles,SYC,1991,12
+Seychelles,SYC,1992,12
+Seychelles,SYC,1993,12
+Seychelles,SYC,1994,12
+Seychelles,SYC,1995,12
+Seychelles,SYC,1996,12
+Seychelles,SYC,1997,12
+Seychelles,SYC,1998,12
+Seychelles,SYC,1999,12
+Seychelles,SYC,2000,12
+Seychelles,SYC,2001,12
+Seychelles,SYC,2002,12
+Seychelles,SYC,2003,12
+Seychelles,SYC,2004,12
+Seychelles,SYC,2005,12
+Seychelles,SYC,2006,12
+Seychelles,SYC,2007,12
+Seychelles,SYC,2008,12
+Seychelles,SYC,2009,12
+Seychelles,SYC,2010,12
+Seychelles,SYC,2011,12
+Seychelles,SYC,2012,12
+Seychelles,SYC,2013,12
+Seychelles,SYC,2014,11.98
+Seychelles,SYC,2015,12
+Seychelles,SYC,2016,12
+Seychelles,SYC,2017,14
+Seychelles,SYC,2018,14
+Seychelles,SYC,2019,14
+Seychelles,SYC,2020,14
+Seychelles,SYC,2021,14
+Seychelles,SYC,2022,14
+Seychelles,SYC,2023,14
+Seychelles,SYC,2024,14
+Sierra Leone,SLE,1961,8.16
+Sierra Leone,SLE,1962,8.32
+Sierra Leone,SLE,1963,8.48
+Sierra Leone,SLE,1964,8.64
+Sierra Leone,SLE,1965,8.8
+Sierra Leone,SLE,1966,8.2
+Sierra Leone,SLE,1967,8.4
+Sierra Leone,SLE,1968,8.6
+Sierra Leone,SLE,1969,8.8
+Sierra Leone,SLE,1970,9
+Sierra Leone,SLE,1971,9.2
+Sierra Leone,SLE,1972,9.6
+Sierra Leone,SLE,1973,10
+Sierra Leone,SLE,1974,10.4
+Sierra Leone,SLE,1975,10.8
+Sierra Leone,SLE,1976,11.2
+Sierra Leone,SLE,1977,12
+Sierra Leone,SLE,1978,10
+Sierra Leone,SLE,1979,10
+Sierra Leone,SLE,1980,10
+Sierra Leone,SLE,1981,10
+Sierra Leone,SLE,1982,10
+Sierra Leone,SLE,1983,10
+Sierra Leone,SLE,1984,10
+Sierra Leone,SLE,1985,10
+Sierra Leone,SLE,1986,10
+Sierra Leone,SLE,1987,10
+Sierra Leone,SLE,1988,10
+Sierra Leone,SLE,1989,10
+Sierra Leone,SLE,1990,10
+Sierra Leone,SLE,1991,10
+Sierra Leone,SLE,1992,10
+Sierra Leone,SLE,1993,10
+Sierra Leone,SLE,1994,10
+Sierra Leone,SLE,1995,10
+Sierra Leone,SLE,1996,10
+Sierra Leone,SLE,1997,10
+Sierra Leone,SLE,1998,10
+Sierra Leone,SLE,1999,10
+Sierra Leone,SLE,2000,10
+Sierra Leone,SLE,2001,10
+Sierra Leone,SLE,2002,10
+Sierra Leone,SLE,2003,10
+Sierra Leone,SLE,2004,10
+Sierra Leone,SLE,2005,10
+Sierra Leone,SLE,2006,10
+Sierra Leone,SLE,2007,10
+Sierra Leone,SLE,2008,10
+Sierra Leone,SLE,2009,10
+Sierra Leone,SLE,2010,10
+Sierra Leone,SLE,2011,10
+Sierra Leone,SLE,2012,10
+Sierra Leone,SLE,2013,10
+Sierra Leone,SLE,2014,9.99
+Sierra Leone,SLE,2015,10
+Sierra Leone,SLE,2016,10
+Sierra Leone,SLE,2017,10
+Sierra Leone,SLE,2018,10
+Sierra Leone,SLE,2019,10
+Sierra Leone,SLE,2020,10
+Sierra Leone,SLE,2021,10
+Sierra Leone,SLE,2022,10
+Sierra Leone,SLE,2023,10
+Sierra Leone,SLE,2024,10
+Singapore,SGP,1961,625
+Singapore,SGP,1962,625
+Singapore,SGP,1963,625
+Singapore,SGP,1964,625
+Singapore,SGP,1965,650
+Singapore,SGP,1966,650
+Singapore,SGP,1967,650
+Singapore,SGP,1968,650
+Singapore,SGP,1969,650
+Singapore,SGP,1970,700
+Singapore,SGP,1971,700
+Singapore,SGP,1972,690
+Singapore,SGP,1973,870
+Singapore,SGP,1974,840
+Singapore,SGP,1975,1050
+Singapore,SGP,1976,1055
+Singapore,SGP,1977,1210
+Singapore,SGP,1978,1440
+Singapore,SGP,1979,1220
+Singapore,SGP,1980,1350
+Singapore,SGP,1981,992
+Singapore,SGP,1982,882
+Singapore,SGP,1983,906
+Singapore,SGP,1984,848
+Singapore,SGP,1985,712
+Singapore,SGP,1986,765
+Singapore,SGP,1987,596
+Singapore,SGP,1988,388
+Singapore,SGP,1989,607
+Singapore,SGP,1990,709
+Singapore,SGP,1991,1287
+Singapore,SGP,1992,630
+Singapore,SGP,1993,656
+Singapore,SGP,1994,800
+Singapore,SGP,1995,1000
+Singapore,SGP,1996,1200
+Singapore,SGP,1997,1200
+Singapore,SGP,1998,1200
+Singapore,SGP,1999,1200
+Singapore,SGP,2000,1200
+Singapore,SGP,2001,1200
+Singapore,SGP,2002,1200
+Singapore,SGP,2003,1200
+Singapore,SGP,2004,1200
+Singapore,SGP,2005,1200
+Singapore,SGP,2006,1200
+Singapore,SGP,2007,1200
+Singapore,SGP,2008,1200
+Singapore,SGP,2009,1200
+Singapore,SGP,2010,1200
+Singapore,SGP,2011,1200
+Singapore,SGP,2012,1200
+Singapore,SGP,2013,1200
+Singapore,SGP,2014,1200
+Singapore,SGP,2015,1200
+Singapore,SGP,2016,1200
+Singapore,SGP,2017,1200
+Singapore,SGP,2018,1200
+Singapore,SGP,2019,1200
+Singapore,SGP,2020,1200
+Singapore,SGP,2021,1200
+Singapore,SGP,2022,1200
+Singapore,SGP,2023,1200
+Singapore,SGP,2024,1200
+Slovakia,SVK,1993,1500
+Slovakia,SVK,1994,7886.35
+Slovakia,SVK,1995,7276.12
+Slovakia,SVK,1996,6543.53
+Slovakia,SVK,1997,1600
+Slovakia,SVK,1998,1700
+Slovakia,SVK,1999,4099.23
+Slovakia,SVK,2000,1800
+Slovakia,SVK,2001,3286.89
+Slovakia,SVK,2002,1943
+Slovakia,SVK,2003,3117
+Slovakia,SVK,2004,4331
+Slovakia,SVK,2005,4500
+Slovakia,SVK,2006,5800
+Slovakia,SVK,2007,4456.93
+Slovakia,SVK,2008,4308.74
+Slovakia,SVK,2009,4225.98
+Slovakia,SVK,2010,4109.22
+Slovakia,SVK,2011,4200
+Small Island Developing States (FAO),,1961,1011.3
+Small Island Developing States (FAO),,1962,1031.7
+Small Island Developing States (FAO),,1963,1037.1
+Small Island Developing States (FAO),,1964,1044.5
+Small Island Developing States (FAO),,1965,1082.9
+Small Island Developing States (FAO),,1966,1094.3
+Small Island Developing States (FAO),,1967,1104.7
+Small Island Developing States (FAO),,1968,1105.6
+Small Island Developing States (FAO),,1969,1121.6
+Small Island Developing States (FAO),,1970,1185.5
+Small Island Developing States (FAO),,1971,1206
+Small Island Developing States (FAO),,1972,1199.9
+Small Island Developing States (FAO),,1973,1385.4
+Small Island Developing States (FAO),,1974,1362
+Small Island Developing States (FAO),,1975,1592
+Small Island Developing States (FAO),,1976,1608.3
+Small Island Developing States (FAO),,1977,1773.76
+Small Island Developing States (FAO),,1978,2031
+Small Island Developing States (FAO),,1979,1814
+Small Island Developing States (FAO),,1980,1966.5
+Small Island Developing States (FAO),,1981,1606.36
+Small Island Developing States (FAO),,1982,1524.22
+Small Island Developing States (FAO),,1983,1560.5
+Small Island Developing States (FAO),,1984,1495
+Small Island Developing States (FAO),,1985,1361.5
+Small Island Developing States (FAO),,1986,1417
+Small Island Developing States (FAO),,1987,1278
+Small Island Developing States (FAO),,1988,1070
+Small Island Developing States (FAO),,1989,1294
+Small Island Developing States (FAO),,1990,1468.5
+Small Island Developing States (FAO),,1991,1920.91
+Small Island Developing States (FAO),,1992,1277.28
+Small Island Developing States (FAO),,1993,1313.65
+Small Island Developing States (FAO),,1994,1469.6
+Small Island Developing States (FAO),,1995,1666.35
+Small Island Developing States (FAO),,1996,1898.54
+Small Island Developing States (FAO),,1997,1909.35
+Small Island Developing States (FAO),,1998,1922.45
+Small Island Developing States (FAO),,1999,1934.32
+Small Island Developing States (FAO),,2000,1946.61
+Small Island Developing States (FAO),,2001,1981.33
+Small Island Developing States (FAO),,2002,1981.08
+Small Island Developing States (FAO),,2003,2004.97
+Small Island Developing States (FAO),,2004,2004.97
+Small Island Developing States (FAO),,2005,2030.68
+Small Island Developing States (FAO),,2006,2005.5
+Small Island Developing States (FAO),,2007,2005.45
+Small Island Developing States (FAO),,2008,2005.13
+Small Island Developing States (FAO),,2009,2004.97
+Small Island Developing States (FAO),,2010,2032.23
+Small Island Developing States (FAO),,2011,2070
+Small Island Developing States (FAO),,2012,2072
+Small Island Developing States (FAO),,2013,2075
+Small Island Developing States (FAO),,2014,2088.26
+Small Island Developing States (FAO),,2015,2092
+Small Island Developing States (FAO),,2016,2085
+Small Island Developing States (FAO),,2017,2087
+Small Island Developing States (FAO),,2018,1967
+Small Island Developing States (FAO),,2019,1967
+Small Island Developing States (FAO),,2020,1967
+Small Island Developing States (FAO),,2021,1967
+Small Island Developing States (FAO),,2022,1967
+Small Island Developing States (FAO),,2023,1967
+Small Island Developing States (FAO),,2024,1967
+South America,OWID_SAM,1961,3732
+South America,OWID_SAM,1962,3870
+South America,OWID_SAM,1963,3913
+South America,OWID_SAM,1964,3956
+South America,OWID_SAM,1965,4028
+South America,OWID_SAM,1966,4106
+South America,OWID_SAM,1967,4146
+South America,OWID_SAM,1968,4149
+South America,OWID_SAM,1969,4127
+South America,OWID_SAM,1970,4141
+South America,OWID_SAM,1971,4168
+South America,OWID_SAM,1972,4231
+South America,OWID_SAM,1973,4299
+South America,OWID_SAM,1974,4450
+South America,OWID_SAM,1975,4334
+South America,OWID_SAM,1976,4302
+South America,OWID_SAM,1977,6525
+South America,OWID_SAM,1978,6636
+South America,OWID_SAM,1979,8996
+South America,OWID_SAM,1980,10667
+South America,OWID_SAM,1981,12685
+South America,OWID_SAM,1982,14700
+South America,OWID_SAM,1983,16720
+South America,OWID_SAM,1984,18720
+South America,OWID_SAM,1985,20720
+South America,OWID_SAM,1986,22130
+South America,OWID_SAM,1987,21940
+South America,OWID_SAM,1988,24240
+South America,OWID_SAM,1989,23750
+South America,OWID_SAM,1990,26618
+South America,OWID_SAM,1991,5455
+South America,OWID_SAM,1992,4758.32
+South America,OWID_SAM,1993,5060
+South America,OWID_SAM,1994,4966.71
+South America,OWID_SAM,1995,6572.2803
+South America,OWID_SAM,1996,7080
+South America,OWID_SAM,1997,8381.74
+South America,OWID_SAM,1998,8685.76
+South America,OWID_SAM,1999,9289.88
+South America,OWID_SAM,2000,12493.01
+South America,OWID_SAM,2001,13400
+South America,OWID_SAM,2002,13308.02
+South America,OWID_SAM,2003,13720
+South America,OWID_SAM,2004,14810
+South America,OWID_SAM,2005,16620
+South America,OWID_SAM,2006,17560
+South America,OWID_SAM,2007,18477.57
+South America,OWID_SAM,2008,22100
+South America,OWID_SAM,2009,26821.15
+South America,OWID_SAM,2010,32250
+South America,OWID_SAM,2011,36050
+South America,OWID_SAM,2012,39370
+South America,OWID_SAM,2013,47070
+South America,OWID_SAM,2014,53883.24
+South America,OWID_SAM,2015,52610.02
+South America,OWID_SAM,2016,37570
+South America,OWID_SAM,2017,41890
+South America,OWID_SAM,2018,41110
+South America,OWID_SAM,2019,43510
+South America,OWID_SAM,2020,40510
+South America,OWID_SAM,2021,37710
+South America,OWID_SAM,2022,31910
+South America,OWID_SAM,2023,33710
+South America,OWID_SAM,2024,35810
+South America (FAO),,1961,3732
+South America (FAO),,1962,3870
+South America (FAO),,1963,3913
+South America (FAO),,1964,3956
+South America (FAO),,1965,4028
+South America (FAO),,1966,4106
+South America (FAO),,1967,4146
+South America (FAO),,1968,4149
+South America (FAO),,1969,4127
+South America (FAO),,1970,4141
+South America (FAO),,1971,4168
+South America (FAO),,1972,4231
+South America (FAO),,1973,4299
+South America (FAO),,1974,4450
+South America (FAO),,1975,4334
+South America (FAO),,1976,4302
+South America (FAO),,1977,6525
+South America (FAO),,1978,6636
+South America (FAO),,1979,8996
+South America (FAO),,1980,10667
+South America (FAO),,1981,12685
+South America (FAO),,1982,14700
+South America (FAO),,1983,16720
+South America (FAO),,1984,18720
+South America (FAO),,1985,20720
+South America (FAO),,1986,22130
+South America (FAO),,1987,21940
+South America (FAO),,1988,24240
+South America (FAO),,1989,23750
+South America (FAO),,1990,26618
+South America (FAO),,1991,5455
+South America (FAO),,1992,4758.32
+South America (FAO),,1993,5060
+South America (FAO),,1994,4966.71
+South America (FAO),,1995,6572.28
+South America (FAO),,1996,7080
+South America (FAO),,1997,8381.74
+South America (FAO),,1998,8685.76
+South America (FAO),,1999,9289.88
+South America (FAO),,2000,12493.01
+South America (FAO),,2001,13400
+South America (FAO),,2002,13308.02
+South America (FAO),,2003,13720
+South America (FAO),,2004,14810
+South America (FAO),,2005,16620
+South America (FAO),,2006,17560
+South America (FAO),,2007,18477.57
+South America (FAO),,2008,22100
+South America (FAO),,2009,26821.15
+South America (FAO),,2010,32250
+South America (FAO),,2011,36050
+South America (FAO),,2012,39370
+South America (FAO),,2013,47070
+South America (FAO),,2014,53883.24
+South America (FAO),,2015,52610.02
+South America (FAO),,2016,37570
+South America (FAO),,2017,41890
+South America (FAO),,2018,41110
+South America (FAO),,2019,43510
+South America (FAO),,2020,40510
+South America (FAO),,2021,37710
+South America (FAO),,2022,31910
+South America (FAO),,2023,33710
+South America (FAO),,2024,35810
+South Korea,KOR,1961,660
+South Korea,KOR,1962,500
+South Korea,KOR,1963,757
+South Korea,KOR,1964,597
+South Korea,KOR,1965,773
+South Korea,KOR,1966,812
+South Korea,KOR,1967,913
+South Korea,KOR,1968,827
+South Korea,KOR,1969,1204
+South Korea,KOR,1970,800
+South Korea,KOR,1971,1000
+South Korea,KOR,1972,1200
+South Korea,KOR,1973,1100
+South Korea,KOR,1974,2400
+South Korea,KOR,1975,2400
+South Korea,KOR,1976,2816
+South Korea,KOR,1977,3150
+South Korea,KOR,1978,1864
+South Korea,KOR,1979,1646
+South Korea,KOR,1980,1452
+South Korea,KOR,1981,1939
+South Korea,KOR,1982,1520
+South Korea,KOR,1983,1540
+South Korea,KOR,1984,1610
+South Korea,KOR,1985,1680
+South Korea,KOR,1986,1700
+South Korea,KOR,1987,1715
+South Korea,KOR,1988,1715
+South Korea,KOR,1989,2000
+South Korea,KOR,1990,3200
+South Korea,KOR,1991,4000
+South Korea,KOR,1992,3800
+South Korea,KOR,1993,4600
+South Korea,KOR,1994,4600
+South Korea,KOR,1995,6200
+South Korea,KOR,1996,8120
+South Korea,KOR,1997,9008
+South Korea,KOR,1998,9500
+South Korea,KOR,1999,20156
+South Korea,KOR,2000,21328
+South Korea,KOR,2001,23500
+South Korea,KOR,2002,25000
+South Korea,KOR,2003,28000
+South Korea,KOR,2004,26000
+South Korea,KOR,2005,28000
+South Korea,KOR,2006,29000
+South Korea,KOR,2007,30000
+South Korea,KOR,2008,31000
+South Korea,KOR,2009,31500
+South Korea,KOR,2010,30290.38
+South Korea,KOR,2011,31158.67
+South Korea,KOR,2012,29272.87
+South Korea,KOR,2013,29386.16
+South Korea,KOR,2014,32279.4
+South Korea,KOR,2015,32563.63
+South Korea,KOR,2016,32000
+South Korea,KOR,2017,32000
+South Korea,KOR,2018,32000
+South Korea,KOR,2019,32000
+South Korea,KOR,2020,32000
+South Korea,KOR,2021,32000
+South Korea,KOR,2022,32000
+South Korea,KOR,2023,32000
+South Korea,KOR,2024,32000
+South-eastern Asia (FAO),,1961,298044
+South-eastern Asia (FAO),,1962,299959
+South-eastern Asia (FAO),,1963,305973
+South-eastern Asia (FAO),,1964,307233.22
+South-eastern Asia (FAO),,1965,311644.1
+South-eastern Asia (FAO),,1966,315541.72
+South-eastern Asia (FAO),,1967,316848
+South-eastern Asia (FAO),,1968,325997
+South-eastern Asia (FAO),,1969,327369
+South-eastern Asia (FAO),,1970,333435.12
+South-eastern Asia (FAO),,1971,340023.6
+South-eastern Asia (FAO),,1972,342017.6
+South-eastern Asia (FAO),,1973,342093.6
+South-eastern Asia (FAO),,1974,344099.6
+South-eastern Asia (FAO),,1975,379066.6
+South-eastern Asia (FAO),,1976,380221.6
+South-eastern Asia (FAO),,1977,420853.8
+South-eastern Asia (FAO),,1978,415573.4
+South-eastern Asia (FAO),,1979,397788.4
+South-eastern Asia (FAO),,1980,426641.6
+South-eastern Asia (FAO),,1981,409397.8
+South-eastern Asia (FAO),,1982,406708
+South-eastern Asia (FAO),,1983,439750
+South-eastern Asia (FAO),,1984,450617.8
+South-eastern Asia (FAO),,1985,448644
+South-eastern Asia (FAO),,1986,495512.8
+South-eastern Asia (FAO),,1987,501006
+South-eastern Asia (FAO),,1988,444326.2
+South-eastern Asia (FAO),,1989,459831.2
+South-eastern Asia (FAO),,1990,457506.8
+South-eastern Asia (FAO),,1991,479099
+South-eastern Asia (FAO),,1992,494415.3
+South-eastern Asia (FAO),,1993,492397.53
+South-eastern Asia (FAO),,1994,496999.25
+South-eastern Asia (FAO),,1995,488794.94
+South-eastern Asia (FAO),,1996,507361.9
+South-eastern Asia (FAO),,1997,517679.16
+South-eastern Asia (FAO),,1998,496820.8
+South-eastern Asia (FAO),,1999,481360.3
+South-eastern Asia (FAO),,2000,511909.8
+South-eastern Asia (FAO),,2001,534402
+South-eastern Asia (FAO),,2002,553771
+South-eastern Asia (FAO),,2003,574678.5
+South-eastern Asia (FAO),,2004,568164
+South-eastern Asia (FAO),,2005,594466
+South-eastern Asia (FAO),,2006,606037.25
+South-eastern Asia (FAO),,2007,639175.75
+South-eastern Asia (FAO),,2008,650439.6
+South-eastern Asia (FAO),,2009,708791.4
+South-eastern Asia (FAO),,2010,736001.56
+South-eastern Asia (FAO),,2011,753053.5
+South-eastern Asia (FAO),,2012,775969.94
+South-eastern Asia (FAO),,2013,794700.7
+South-eastern Asia (FAO),,2014,832300.1
+South-eastern Asia (FAO),,2015,857864.6
+South-eastern Asia (FAO),,2016,862479
+South-eastern Asia (FAO),,2017,875337
+South-eastern Asia (FAO),,2018,845785.44
+South-eastern Asia (FAO),,2019,815806.2
+South-eastern Asia (FAO),,2020,841809.94
+South-eastern Asia (FAO),,2021,862914.9
+South-eastern Asia (FAO),,2022,882298.75
+South-eastern Asia (FAO),,2023,732315.7
+South-eastern Asia (FAO),,2024,771692.1
+Southern Africa (FAO),,1990,80
+Southern Africa (FAO),,1991,140
+Southern Africa (FAO),,1992,290
+Southern Africa (FAO),,1993,320
+Southern Africa (FAO),,1994,490
+Southern Africa (FAO),,1995,450
+Southern Africa (FAO),,1996,820
+Southern Africa (FAO),,1997,980
+Southern Africa (FAO),,1998,1100
+Southern Africa (FAO),,1999,700
+Southern Africa (FAO),,2000,670
+Southern Africa (FAO),,2001,690
+Southern Africa (FAO),,2002,720
+Southern Africa (FAO),,2003,740
+Southern Africa (FAO),,2004,800
+Southern Africa (FAO),,2005,840
+Southern Africa (FAO),,2006,880
+Southern Africa (FAO),,2007,920
+Southern Africa (FAO),,2008,960
+Southern Africa (FAO),,2009,1000
+Southern Africa (FAO),,2010,1000
+Southern Africa (FAO),,2011,1000
+Southern Africa (FAO),,2012,1000
+Southern Africa (FAO),,2013,1000
+Southern Africa (FAO),,2014,1000
+Southern Africa (FAO),,2015,1000
+Southern Africa (FAO),,2016,1000
+Southern Africa (FAO),,2017,1100
+Southern Africa (FAO),,2018,1080
+Southern Africa (FAO),,2019,1080
+Southern Africa (FAO),,2020,1080
+Southern Africa (FAO),,2021,1300
+Southern Africa (FAO),,2022,1300
+Southern Africa (FAO),,2023,1300
+Southern Africa (FAO),,2024,1300
+Southern Asia (FAO),,1961,12944.31
+Southern Asia (FAO),,1962,16469.38
+Southern Asia (FAO),,1963,17601.06
+Southern Asia (FAO),,1964,18304.18
+Southern Asia (FAO),,1965,19405.68
+Southern Asia (FAO),,1966,21137.22
+Southern Asia (FAO),,1967,21952.31
+Southern Asia (FAO),,1968,22980.22
+Southern Asia (FAO),,1969,23692.55
+Southern Asia (FAO),,1970,24123.87
+Southern Asia (FAO),,1971,24139.07
+Southern Asia (FAO),,1972,23795.76
+Southern Asia (FAO),,1973,23645.76
+Southern Asia (FAO),,1974,23539.6
+Southern Asia (FAO),,1975,23426.4
+Southern Asia (FAO),,1976,23526.4
+Southern Asia (FAO),,1977,23717.6
+Southern Asia (FAO),,1978,34305
+Southern Asia (FAO),,1979,36982.4
+Southern Asia (FAO),,1980,29868.6
+Southern Asia (FAO),,1981,31904
+Southern Asia (FAO),,1982,32637.6
+Southern Asia (FAO),,1983,34597
+Southern Asia (FAO),,1984,29286
+Southern Asia (FAO),,1985,26397.4
+Southern Asia (FAO),,1986,26752.8
+Southern Asia (FAO),,1987,27162.8
+Southern Asia (FAO),,1988,29357.2
+Southern Asia (FAO),,1989,25207.2
+Southern Asia (FAO),,1990,30665.6
+Southern Asia (FAO),,1991,30854.6
+Southern Asia (FAO),,1992,31570
+Southern Asia (FAO),,1993,32619.4
+Southern Asia (FAO),,1994,41055.4
+Southern Asia (FAO),,1995,44320.4
+Southern Asia (FAO),,1996,47599.2
+Southern Asia (FAO),,1997,50903.6
+Southern Asia (FAO),,1998,54108
+Southern Asia (FAO),,1999,57268.27
+Southern Asia (FAO),,2000,61509.2
+Southern Asia (FAO),,2001,65666
+Southern Asia (FAO),,2002,70224.63
+Southern Asia (FAO),,2003,75272.8
+Southern Asia (FAO),,2004,75202.8
+Southern Asia (FAO),,2005,86902.8
+Southern Asia (FAO),,2006,84102.8
+Southern Asia (FAO),,2007,83452.8
+Southern Asia (FAO),,2008,87452.8
+Southern Asia (FAO),,2009,73952.8
+Southern Asia (FAO),,2010,89337.04
+Southern Asia (FAO),,2011,93999.92
+Southern Asia (FAO),,2012,112007.62
+Southern Asia (FAO),,2013,118005.22
+Southern Asia (FAO),,2014,152716.4
+Southern Asia (FAO),,2015,164464.94
+Southern Asia (FAO),,2016,177015
+Southern Asia (FAO),,2017,217624
+Southern Asia (FAO),,2018,227541
+Southern Asia (FAO),,2019,256181
+Southern Asia (FAO),,2020,262713
+Southern Asia (FAO),,2021,307182
+Southern Asia (FAO),,2022,346016
+Southern Asia (FAO),,2023,348805
+Southern Asia (FAO),,2024,352545
+Southern Europe (FAO),,1961,8970
+Southern Europe (FAO),,1962,9048
+Southern Europe (FAO),,1963,8034
+Southern Europe (FAO),,1964,6786
+Southern Europe (FAO),,1965,6785
+Southern Europe (FAO),,1966,4524
+Southern Europe (FAO),,1967,4758
+Southern Europe (FAO),,1968,4680
+Southern Europe (FAO),,1969,4602
+Southern Europe (FAO),,1970,4290
+Southern Europe (FAO),,1971,3900
+Southern Europe (FAO),,1972,4212
+Southern Europe (FAO),,1973,4524
+Southern Europe (FAO),,1974,5382
+Southern Europe (FAO),,1975,4992
+Southern Europe (FAO),,1976,5616
+Southern Europe (FAO),,1977,5070
+Southern Europe (FAO),,1978,4680
+Southern Europe (FAO),,1979,2340
+Southern Europe (FAO),,1980,2418
+Southern Europe (FAO),,1981,2184
+Southern Europe (FAO),,1982,1716
+Southern Europe (FAO),,1983,1638
+Southern Europe (FAO),,1984,1560
+Southern Europe (FAO),,1985,1404
+Southern Europe (FAO),,1986,1326
+Southern Europe (FAO),,1987,1170
+Southern Europe (FAO),,1988,1190
+Southern Europe (FAO),,1989,1326
+Southern Europe (FAO),,1990,1092
+Southern Europe (FAO),,1991,1482
+Southern Europe (FAO),,1992,1794
+Southern Europe (FAO),,1993,1326
+Southern Europe (FAO),,1994,1560
+Southern Europe (FAO),,1995,1638
+Southern Europe (FAO),,1996,1482
+Southern Europe (FAO),,1997,2142
+Southern Europe (FAO),,1998,1947
+Southern Europe (FAO),,1999,2460
+Southern Europe (FAO),,2000,4313
+Southern Europe (FAO),,2001,4425
+Southern Europe (FAO),,2002,4047
+Southern Europe (FAO),,2003,5098
+Southern Europe (FAO),,2004,4081.23
+Southern Europe (FAO),,2005,2982.33
+Southern Europe (FAO),,2006,2902.89
+Southern Europe (FAO),,2007,2734.97
+Southern Europe (FAO),,2008,2944.44
+Southern Europe (FAO),,2009,3016
+Southern Europe (FAO),,2010,2395
+Southern Europe (FAO),,2011,2291
+Southern Europe (FAO),,2012,2106
+Southern Europe (FAO),,2013,1792
+Southern Europe (FAO),,2014,1679.84
+Southern Europe (FAO),,2015,1742.37
+Southern Europe (FAO),,2016,1719
+Southern Europe (FAO),,2017,1790
+Southern Europe (FAO),,2018,200
+Southern Europe (FAO),,2019,200
+Southern Europe (FAO),,2020,200
+Southern Europe (FAO),,2021,200
+Southern Europe (FAO),,2022,200
+Southern Europe (FAO),,2023,200
+Southern Europe (FAO),,2024,200
+Spain,ESP,1961,8970
+Spain,ESP,1962,9048
+Spain,ESP,1963,8034
+Spain,ESP,1964,6786
+Spain,ESP,1965,6785
+Spain,ESP,1966,4524
+Spain,ESP,1967,4758
+Spain,ESP,1968,4680
+Spain,ESP,1969,4602
+Spain,ESP,1970,4290
+Spain,ESP,1971,3900
+Spain,ESP,1972,4212
+Spain,ESP,1973,4524
+Spain,ESP,1974,5382
+Spain,ESP,1975,4992
+Spain,ESP,1976,5616
+Spain,ESP,1977,5070
+Spain,ESP,1978,4680
+Spain,ESP,1979,2340
+Spain,ESP,1980,2418
+Spain,ESP,1981,2184
+Spain,ESP,1982,1716
+Spain,ESP,1983,1638
+Spain,ESP,1984,1560
+Spain,ESP,1985,1404
+Spain,ESP,1986,1326
+Spain,ESP,1987,1170
+Spain,ESP,1988,1190
+Spain,ESP,1989,1326
+Spain,ESP,1990,1092
+Spain,ESP,1991,1482
+Spain,ESP,1992,1794
+Spain,ESP,1993,1326
+Spain,ESP,1994,1560
+Spain,ESP,1995,1638
+Spain,ESP,1996,1482
+Spain,ESP,1997,2142
+Spain,ESP,1998,1947
+Spain,ESP,1999,2160
+Spain,ESP,2000,3673
+Spain,ESP,2001,3075
+Spain,ESP,2002,3047
+Spain,ESP,2003,4048
+Spain,ESP,2004,3120
+Spain,ESP,2005,2010
+Spain,ESP,2006,2030
+Spain,ESP,2007,1890
+Spain,ESP,2008,1890
+Spain,ESP,2009,1890
+Spain,ESP,2010,1251
+Spain,ESP,2011,1224
+Spain,ESP,2012,1071
+Spain,ESP,2013,819
+Spain,ESP,2014,738.84
+Spain,ESP,2015,808.92
+Spain,ESP,2016,819
+Spain,ESP,2017,860
+Sri Lanka,LKA,1961,44.31
+Sri Lanka,LKA,1962,39.38
+Sri Lanka,LKA,1963,71.06
+Sri Lanka,LKA,1964,74.18
+Sri Lanka,LKA,1965,75.68
+Sri Lanka,LKA,1966,77.22
+Sri Lanka,LKA,1967,92.31
+Sri Lanka,LKA,1968,70.22
+Sri Lanka,LKA,1969,42.55
+Sri Lanka,LKA,1970,43.87
+Sri Lanka,LKA,1971,39.07
+Sri Lanka,LKA,1972,45.76
+Sri Lanka,LKA,1973,45.76
+Sri Lanka,LKA,1974,39.6
+Sri Lanka,LKA,1975,26.4
+Sri Lanka,LKA,1976,26.4
+Sri Lanka,LKA,1977,17.6
+Sri Lanka,LKA,1978,22
+Sri Lanka,LKA,1979,26.4
+Sri Lanka,LKA,1980,39.6
+Sri Lanka,LKA,1981,44
+Sri Lanka,LKA,1982,39.6
+Sri Lanka,LKA,1983,44
+Sri Lanka,LKA,1984,44
+Sri Lanka,LKA,1985,48.4
+Sri Lanka,LKA,1986,52.8
+Sri Lanka,LKA,1987,52.8
+Sri Lanka,LKA,1988,57.2
+Sri Lanka,LKA,1989,57.2
+Sri Lanka,LKA,1990,61.6
+Sri Lanka,LKA,1991,61.6
+Sri Lanka,LKA,1992,66
+Sri Lanka,LKA,1993,70.4
+Sri Lanka,LKA,1994,70.4
+Sri Lanka,LKA,1995,70.4
+Sri Lanka,LKA,1996,79.2
+Sri Lanka,LKA,1997,83.6
+Sri Lanka,LKA,1998,88
+Sri Lanka,LKA,1999,92.4
+Sri Lanka,LKA,2000,79.2
+Sri Lanka,LKA,2001,66
+Sri Lanka,LKA,2002,61.6
+Sri Lanka,LKA,2003,52.8
+Sri Lanka,LKA,2004,52.8
+Sri Lanka,LKA,2005,52.8
+Sri Lanka,LKA,2006,52.8
+Sri Lanka,LKA,2007,52.8
+Sri Lanka,LKA,2008,52.8
+Sri Lanka,LKA,2009,52.8
+Sri Lanka,LKA,2010,52.8
+Sri Lanka,LKA,2011,52.8
+Sri Lanka,LKA,2012,52.8
+Sri Lanka,LKA,2013,52.8
+Sri Lanka,LKA,2014,45
+Sri Lanka,LKA,2015,45
+Sri Lanka,LKA,2016,45
+Sri Lanka,LKA,2017,45
+Sri Lanka,LKA,2018,45
+Sri Lanka,LKA,2019,45
+Sri Lanka,LKA,2020,45
+Sri Lanka,LKA,2021,45
+Sri Lanka,LKA,2022,45
+Sri Lanka,LKA,2023,45
+Sri Lanka,LKA,2024,45
+Taiwan,TWN,1961,11732
+Taiwan,TWN,1962,11873
+Taiwan,TWN,1963,12156
+Taiwan,TWN,1964,13240
+Taiwan,TWN,1965,22023
+Taiwan,TWN,1966,22368
+Taiwan,TWN,1967,22062
+Taiwan,TWN,1968,23849
+Taiwan,TWN,1969,25414
+Taiwan,TWN,1970,27811
+Taiwan,TWN,1971,27306
+Taiwan,TWN,1972,29690
+Taiwan,TWN,1973,30930
+Taiwan,TWN,1974,26221
+Taiwan,TWN,1975,28725
+Taiwan,TWN,1976,28731
+Taiwan,TWN,1977,28155
+Taiwan,TWN,1978,31060
+Taiwan,TWN,1979,31469
+Taiwan,TWN,1980,28531
+Taiwan,TWN,1981,27620
+Taiwan,TWN,1982,27220
+Taiwan,TWN,1983,28140
+Taiwan,TWN,1984,27630
+Taiwan,TWN,1985,26300
+Taiwan,TWN,1986,24900
+Taiwan,TWN,1987,26140
+Taiwan,TWN,1988,23446
+Taiwan,TWN,1989,22846
+Taiwan,TWN,1990,24500
+Taiwan,TWN,1991,22850
+Taiwan,TWN,1992,22720
+Taiwan,TWN,1993,26410
+Taiwan,TWN,1994,27410
+Taiwan,TWN,1995,30040
+Taiwan,TWN,1996,31250
+Taiwan,TWN,1997,30840
+Taiwan,TWN,1998,30170
+Taiwan,TWN,1999,28170
+Taiwan,TWN,2000,27750
+Taiwan,TWN,2001,27900
+Taiwan,TWN,2002,27400
+Taiwan,TWN,2003,27700
+Taiwan,TWN,2004,24200
+Taiwan,TWN,2005,28300
+Taiwan,TWN,2006,27050
+Taiwan,TWN,2007,29425
+Taiwan,TWN,2008,28065
+Taiwan,TWN,2009,25660
+Taiwan,TWN,2010,28060
+Taiwan,TWN,2011,27260
+Taiwan,TWN,2012,27071
+Taiwan,TWN,2013,26053
+Taiwan,TWN,2014,25170
+Taiwan,TWN,2015,25338
+Taiwan,TWN,2016,25980
+Taiwan,TWN,2017,25573
+Taiwan,TWN,2018,27255
+Taiwan,TWN,2019,25361
+Taiwan,TWN,2020,25210
+Taiwan,TWN,2021,24100
+Taiwan,TWN,2022,24100
+Taiwan,TWN,2023,23800
+Taiwan,TWN,2024,23900
+Tanzania,TZA,1961,1470
+Tanzania,TZA,1962,1501.5
+Tanzania,TZA,1963,1533
+Tanzania,TZA,1964,1564.5
+Tanzania,TZA,1965,1592.5
+Tanzania,TZA,1966,1624
+Tanzania,TZA,1967,2079
+Tanzania,TZA,1968,1991.5
+Tanzania,TZA,1969,2068.5
+Tanzania,TZA,1970,2128
+Tanzania,TZA,1971,2100
+Tanzania,TZA,1972,1995
+Tanzania,TZA,1973,1890
+Tanzania,TZA,1974,1785
+Tanzania,TZA,1975,1680
+Tanzania,TZA,1976,1575
+Tanzania,TZA,1977,1470
+Tanzania,TZA,1978,1365
+Tanzania,TZA,1979,1260
+Tanzania,TZA,1980,1155
+Tanzania,TZA,1981,1050
+Tanzania,TZA,1982,945
+Tanzania,TZA,1983,840
+Tanzania,TZA,1984,812
+Tanzania,TZA,1985,861
+Tanzania,TZA,1986,910
+Tanzania,TZA,1987,945
+Tanzania,TZA,1988,1050
+Tanzania,TZA,1989,1155
+Tanzania,TZA,1990,1260
+Tanzania,TZA,1991,1365
+Tanzania,TZA,1992,1470
+Tanzania,TZA,1993,1505
+Tanzania,TZA,1994,1470
+Tanzania,TZA,1995,1505
+Tanzania,TZA,1996,1435
+Tanzania,TZA,1997,1470
+Tanzania,TZA,1998,1505
+Tanzania,TZA,1999,1575
+Tanzania,TZA,2000,1610
+Tanzania,TZA,2001,2110.5
+Tanzania,TZA,2002,1645
+Tanzania,TZA,2003,1585.5
+Tanzania,TZA,2004,1645
+Tanzania,TZA,2005,1645
+Tanzania,TZA,2006,1680
+Tanzania,TZA,2007,1960
+Tanzania,TZA,2008,1750
+Tanzania,TZA,2009,1750
+Tanzania,TZA,2010,1750
+Tanzania,TZA,2011,1750
+Tanzania,TZA,2012,1750
+Tanzania,TZA,2013,1750
+Tanzania,TZA,2014,1760
+Tanzania,TZA,2015,1815
+Tanzania,TZA,2016,1750
+Tanzania,TZA,2017,1840
+Tanzania,TZA,2018,1850
+Tanzania,TZA,2019,1850
+Tanzania,TZA,2020,1850
+Tanzania,TZA,2021,1850
+Tanzania,TZA,2022,1850
+Tanzania,TZA,2023,1850
+Tanzania,TZA,2024,1850
+Thailand,THA,1961,250000
+Thailand,THA,1962,250000
+Thailand,THA,1963,255000
+Thailand,THA,1964,255000
+Thailand,THA,1965,260000
+Thailand,THA,1966,265000
+Thailand,THA,1967,265000
+Thailand,THA,1968,270000
+Thailand,THA,1969,270000
+Thailand,THA,1970,275000
+Thailand,THA,1971,280000
+Thailand,THA,1972,280000
+Thailand,THA,1973,280000
+Thailand,THA,1974,285000
+Thailand,THA,1975,285000
+Thailand,THA,1976,285000
+Thailand,THA,1977,290000
+Thailand,THA,1978,282000
+Thailand,THA,1979,260000
+Thailand,THA,1980,280000
+Thailand,THA,1981,276000
+Thailand,THA,1982,265000
+Thailand,THA,1983,286000
+Thailand,THA,1984,292000
+Thailand,THA,1985,299000
+Thailand,THA,1986,307000
+Thailand,THA,1987,305000
+Thailand,THA,1988,245000
+Thailand,THA,1989,257000
+Thailand,THA,1990,276000
+Thailand,THA,1991,295000
+Thailand,THA,1992,298000
+Thailand,THA,1993,294000
+Thailand,THA,1994,279170.53
+Thailand,THA,1995,260000
+Thailand,THA,1996,280000
+Thailand,THA,1997,281916.9
+Thailand,THA,1998,280000
+Thailand,THA,1999,285214.2
+Thailand,THA,2000,292700
+Thailand,THA,2001,297500
+Thailand,THA,2002,304000
+Thailand,THA,2003,304947.72
+Thailand,THA,2004,305000
+Thailand,THA,2005,310000
+Thailand,THA,2006,324624.28
+Thailand,THA,2007,343595.72
+Thailand,THA,2008,360244.62
+Thailand,THA,2009,379118.38
+Thailand,THA,2010,395000
+Thailand,THA,2011,395000
+Thailand,THA,2012,395000
+Thailand,THA,2013,395000
+Thailand,THA,2014,397085.4
+Thailand,THA,2015,410000
+Thailand,THA,2016,395000
+Thailand,THA,2017,390000
+Thailand,THA,2018,400000
+Thailand,THA,2019,400000
+Thailand,THA,2020,400000
+Thailand,THA,2021,400000
+Thailand,THA,2022,400000
+Thailand,THA,2023,400000
+Thailand,THA,2024,400000
+Turkmenistan,TKM,1992,200
+Turkmenistan,TKM,1993,200
+Turkmenistan,TKM,1994,200
+Turkmenistan,TKM,1995,200
+Turkmenistan,TKM,1996,137
+Turkmenistan,TKM,1997,137
+Turkmenistan,TKM,1998,143
+Turkmenistan,TKM,1999,175
+Turkmenistan,TKM,2000,195
+Turkmenistan,TKM,2001,230
+Turkmenistan,TKM,2002,230
+Turkmenistan,TKM,2003,260
+Turkmenistan,TKM,2004,260
+Turkmenistan,TKM,2005,330
+Turkmenistan,TKM,2006,265
+Turkmenistan,TKM,2007,360
+Turkmenistan,TKM,2008,360
+Turkmenistan,TKM,2009,580
+Turkmenistan,TKM,2010,518.84
+Turkmenistan,TKM,2011,520
+Turkmenistan,TKM,2012,520
+Turkmenistan,TKM,2013,520
+Turkmenistan,TKM,2014,522
+Turkmenistan,TKM,2015,524
+Turkmenistan,TKM,2016,534
+Turkmenistan,TKM,2017,537
+Turkmenistan,TKM,2018,539
+Turkmenistan,TKM,2019,539
+Turkmenistan,TKM,2020,539
+Turkmenistan,TKM,2021,539
+Turkmenistan,TKM,2022,539
+Turkmenistan,TKM,2023,539
+Turkmenistan,TKM,2024,539
+USSR,OWID_USS,1961,39000
+USSR,OWID_USS,1962,39000
+USSR,OWID_USS,1963,39000
+USSR,OWID_USS,1964,39000
+USSR,OWID_USS,1965,39000
+USSR,OWID_USS,1966,39000
+USSR,OWID_USS,1967,26000
+USSR,OWID_USS,1968,32500
+USSR,OWID_USS,1969,71500
+USSR,OWID_USS,1970,39000
+USSR,OWID_USS,1971,45500
+USSR,OWID_USS,1972,45500
+USSR,OWID_USS,1973,70330
+USSR,OWID_USS,1974,62335
+USSR,OWID_USS,1975,51090
+USSR,OWID_USS,1976,65000
+USSR,OWID_USS,1977,65000
+USSR,OWID_USS,1978,65000
+USSR,OWID_USS,1979,66700
+USSR,OWID_USS,1980,70900
+USSR,OWID_USS,1981,76800
+USSR,OWID_USS,1982,64000
+USSR,OWID_USS,1983,71800
+USSR,OWID_USS,1984,65000
+USSR,OWID_USS,1985,81600
+USSR,OWID_USS,1986,84500
+USSR,OWID_USS,1987,91000
+USSR,OWID_USS,1988,66000
+USSR,OWID_USS,1989,65000
+USSR,OWID_USS,1990,60750
+USSR,OWID_USS,1991,57300
+Ukraine,UKR,1992,18799
+Ukraine,UKR,1993,13853
+Ukraine,UKR,1994,7908
+Ukraine,UKR,1995,8716
+Ukraine,UKR,1996,8421
+Ukraine,UKR,1997,7418
+Ukraine,UKR,1998,7245
+Ukraine,UKR,1999,10539
+Ukraine,UKR,2000,8721
+Ukraine,UKR,2001,7479
+Ukraine,UKR,2002,9774
+Ukraine,UKR,2003,8800
+Ukraine,UKR,2004,6300
+Ukraine,UKR,2005,8200
+Ukraine,UKR,2006,10100
+Ukraine,UKR,2007,7600
+Ukraine,UKR,2008,13300
+Ukraine,UKR,2009,54400
+Ukraine,UKR,2010,43900
+Ukraine,UKR,2011,25600
+Ukraine,UKR,2012,17200
+Ukraine,UKR,2013,17600
+Ukraine,UKR,2014,17600
+Ukraine,UKR,2015,15100
+Ukraine,UKR,2016,27180
+Ukraine,UKR,2017,14000
+Ukraine,UKR,2018,15000
+Ukraine,UKR,2019,15000
+Ukraine,UKR,2020,14500
+Ukraine,UKR,2021,12600
+Ukraine,UKR,2022,10730
+Ukraine,UKR,2023,10241
+Ukraine,UKR,2024,10500
+United Kingdom,GBR,1961,4000
+United Kingdom,GBR,1962,3500
+United Kingdom,GBR,1963,3500
+United Kingdom,GBR,1964,3200
+United Kingdom,GBR,1965,3000
+United Kingdom,GBR,1966,3000
+United Kingdom,GBR,1967,3000
+United Kingdom,GBR,1968,3000
+United Kingdom,GBR,1969,3000
+United Kingdom,GBR,1970,3000
+United Kingdom,GBR,1971,3000
+United Kingdom,GBR,1972,3000
+United Kingdom,GBR,1973,3000
+United Kingdom,GBR,1974,3000
+United Kingdom,GBR,1975,3136
+United Kingdom,GBR,1976,3471
+United Kingdom,GBR,1977,3370
+United Kingdom,GBR,1978,3658
+United Kingdom,GBR,1979,3705
+United Kingdom,GBR,1980,3635
+United Kingdom,GBR,1981,3697
+United Kingdom,GBR,1982,4048
+United Kingdom,GBR,1983,4098
+United Kingdom,GBR,1984,3886
+United Kingdom,GBR,1985,4066
+United Kingdom,GBR,1986,4399
+United Kingdom,GBR,1987,4500
+United Kingdom,GBR,1988,4480
+United Kingdom,GBR,1989,5976
+United Kingdom,GBR,1990,5972
+United Kingdom,GBR,1991,5461
+United Kingdom,GBR,1992,5919
+United Kingdom,GBR,1993,6752
+United Kingdom,GBR,1994,6784
+United Kingdom,GBR,1995,8000
+United Kingdom,GBR,1996,9000
+United Kingdom,GBR,1997,9000
+United Kingdom,GBR,1998,16052
+United Kingdom,GBR,1999,15263
+United Kingdom,GBR,2000,15300
+United Kingdom,GBR,2001,17189
+United Kingdom,GBR,2002,17935
+United Kingdom,GBR,2003,18110
+United Kingdom,GBR,2004,16325
+United Kingdom,GBR,2005,16000
+United Kingdom,GBR,2006,16648
+United Kingdom,GBR,2007,13926
+United Kingdom,GBR,2008,13378
+United Kingdom,GBR,2009,13000
+United Kingdom,GBR,2010,13000
+United Kingdom,GBR,2011,16000
+United Kingdom,GBR,2012,15000
+United Kingdom,GBR,2013,14000
+United Kingdom,GBR,2014,15000
+United Kingdom,GBR,2015,14000
+United Kingdom,GBR,2016,14000
+United Kingdom,GBR,2017,14000
+United Kingdom,GBR,2018,14000
+United Kingdom,GBR,2019,14000
+United Kingdom,GBR,2020,11000
+United Kingdom,GBR,2021,11000
+United Kingdom,GBR,2022,8000
+United Kingdom,GBR,2023,8000
+United Kingdom,GBR,2024,8000
+Upper-middle-income countries,OWID_UMC,1961,661126.3
+Upper-middle-income countries,OWID_UMC,1962,663609.4
+Upper-middle-income countries,OWID_UMC,1963,675663.06
+Upper-middle-income countries,OWID_UMC,1964,684723.2
+Upper-middle-income countries,OWID_UMC,1965,698024.7
+Upper-middle-income countries,OWID_UMC,1966,709777.25
+Upper-middle-income countries,OWID_UMC,1967,718805.3
+Upper-middle-income countries,OWID_UMC,1968,740370.25
+Upper-middle-income countries,OWID_UMC,1969,788960.56
+Upper-middle-income countries,OWID_UMC,1970,773032.9
+Upper-middle-income countries,OWID_UMC,1971,806615.06
+Upper-middle-income countries,OWID_UMC,1972,819675.75
+Upper-middle-income countries,OWID_UMC,1973,856697.75
+Upper-middle-income countries,OWID_UMC,1974,857443.6
+Upper-middle-income countries,OWID_UMC,1975,905102.4
+Upper-middle-income countries,OWID_UMC,1976,940679.4
+Upper-middle-income countries,OWID_UMC,1977,996268.6
+Upper-middle-income countries,OWID_UMC,1978,1029434
+Upper-middle-income countries,OWID_UMC,1979,1026613.4
+Upper-middle-income countries,OWID_UMC,1980,1093081.6
+Upper-middle-income countries,OWID_UMC,1981,1102003
+Upper-middle-income countries,OWID_UMC,1982,1120319.6
+Upper-middle-income countries,OWID_UMC,1983,1207030
+Upper-middle-income countries,OWID_UMC,1984,1408333
+Upper-middle-income countries,OWID_UMC,1985,1639013.4
+Upper-middle-income countries,OWID_UMC,1986,1728855.8
+Upper-middle-income countries,OWID_UMC,1987,1815592.8
+Upper-middle-income countries,OWID_UMC,1988,1944397.2
+Upper-middle-income countries,OWID_UMC,1989,2009207.2
+Upper-middle-income countries,OWID_UMC,1990,2155126.5
+Upper-middle-income countries,OWID_UMC,1991,2408416.5
+Upper-middle-income countries,OWID_UMC,1992,2582824.5
+Upper-middle-income countries,OWID_UMC,1993,2866265.2
+Upper-middle-income countries,OWID_UMC,1994,3462059.5
+Upper-middle-income countries,OWID_UMC,1995,3849248
+Upper-middle-income countries,OWID_UMC,1996,4534148
+Upper-middle-income countries,OWID_UMC,1997,3370234.5
+Upper-middle-income countries,OWID_UMC,1998,3533117.5
+Upper-middle-income countries,OWID_UMC,1999,3692550.5
+Upper-middle-income countries,OWID_UMC,2000,3795889.2
+Upper-middle-income countries,OWID_UMC,2001,3859849.8
+Upper-middle-income countries,OWID_UMC,2002,3918180
+Upper-middle-income countries,OWID_UMC,2003,4081895
+Upper-middle-income countries,OWID_UMC,2004,4127773.8
+Upper-middle-income countries,OWID_UMC,2005,4255474
+Upper-middle-income countries,OWID_UMC,2006,4247314
+Upper-middle-income countries,OWID_UMC,2007,4432837
+Upper-middle-income countries,OWID_UMC,2008,4709303.5
+Upper-middle-income countries,OWID_UMC,2009,4869102.5
+Upper-middle-income countries,OWID_UMC,2010,4917239
+Upper-middle-income countries,OWID_UMC,2011,4988616
+Upper-middle-income countries,OWID_UMC,2012,5080336
+Upper-middle-income countries,OWID_UMC,2013,5125288
+Upper-middle-income countries,OWID_UMC,2014,5195539.5
+Upper-middle-income countries,OWID_UMC,2015,5444549.5
+Upper-middle-income countries,OWID_UMC,2016,5614744
+Upper-middle-income countries,OWID_UMC,2017,5272670.5
+Upper-middle-income countries,OWID_UMC,2018,5324458
+Upper-middle-income countries,OWID_UMC,2019,5493203
+Upper-middle-income countries,OWID_UMC,2020,5730565
+Upper-middle-income countries,OWID_UMC,2021,5662696
+Upper-middle-income countries,OWID_UMC,2022,5739044
+Upper-middle-income countries,OWID_UMC,2023,5735437.5
+Upper-middle-income countries,OWID_UMC,2024,5812167
+Uzbekistan,UZB,1992,1220
+Uzbekistan,UZB,1993,220
+Uzbekistan,UZB,1994,1000
+Uzbekistan,UZB,1995,790
+Uzbekistan,UZB,1996,670
+Uzbekistan,UZB,1997,700
+Uzbekistan,UZB,1998,750
+Uzbekistan,UZB,1999,800
+Uzbekistan,UZB,2000,800
+Uzbekistan,UZB,2001,770
+Uzbekistan,UZB,2002,890
+Uzbekistan,UZB,2003,1060
+Uzbekistan,UZB,2004,1180
+Uzbekistan,UZB,2005,1400
+Uzbekistan,UZB,2006,1370
+Uzbekistan,UZB,2007,1420
+Uzbekistan,UZB,2008,1530
+Uzbekistan,UZB,2009,1750
+Uzbekistan,UZB,2010,2000
+Uzbekistan,UZB,2011,3150
+Uzbekistan,UZB,2012,1750
+Uzbekistan,UZB,2013,3780
+Uzbekistan,UZB,2014,1274
+Uzbekistan,UZB,2015,1340
+Uzbekistan,UZB,2016,1680
+Uzbekistan,UZB,2017,2183
+Uzbekistan,UZB,2018,2152
+Uzbekistan,UZB,2019,3039
+Uzbekistan,UZB,2020,2455
+Uzbekistan,UZB,2021,2500
+Uzbekistan,UZB,2022,2565
+Uzbekistan,UZB,2023,2840
+Uzbekistan,UZB,2024,3512
+Western Africa (FAO),,1961,64.16
+Western Africa (FAO),,1962,68.32
+Western Africa (FAO),,1963,72.48
+Western Africa (FAO),,1964,80.64
+Western Africa (FAO),,1965,88.8
+Western Africa (FAO),,1966,96.2
+Western Africa (FAO),,1967,104.4
+Western Africa (FAO),,1968,112.6
+Western Africa (FAO),,1969,120.8
+Western Africa (FAO),,1970,125
+Western Africa (FAO),,1971,129.2
+Western Africa (FAO),,1972,133.6
+Western Africa (FAO),,1973,138
+Western Africa (FAO),,1974,146.4
+Western Africa (FAO),,1975,154.8
+Western Africa (FAO),,1976,163.2
+Western Africa (FAO),,1977,172
+Western Africa (FAO),,1978,178
+Western Africa (FAO),,1979,182
+Western Africa (FAO),,1980,186
+Western Africa (FAO),,1981,190
+Western Africa (FAO),,1982,196
+Western Africa (FAO),,1983,204
+Western Africa (FAO),,1984,204
+Western Africa (FAO),,1985,204
+Western Africa (FAO),,1986,208
+Western Africa (FAO),,1987,210
+Western Africa (FAO),,1988,210
+Western Africa (FAO),,1989,210
+Western Africa (FAO),,1990,194
+Western Africa (FAO),,1991,208
+Western Africa (FAO),,1992,210
+Western Africa (FAO),,1993,210
+Western Africa (FAO),,1994,210
+Western Africa (FAO),,1995,210
+Western Africa (FAO),,1996,210
+Western Africa (FAO),,1997,210
+Western Africa (FAO),,1998,210
+Western Africa (FAO),,1999,210
+Western Africa (FAO),,2000,210
+Western Africa (FAO),,2001,210
+Western Africa (FAO),,2002,210
+Western Africa (FAO),,2003,210
+Western Africa (FAO),,2004,210
+Western Africa (FAO),,2005,210
+Western Africa (FAO),,2006,198
+Western Africa (FAO),,2007,230
+Western Africa (FAO),,2008,240
+Western Africa (FAO),,2009,240
+Western Africa (FAO),,2010,250
+Western Africa (FAO),,2011,256
+Western Africa (FAO),,2012,256
+Western Africa (FAO),,2013,256
+Western Africa (FAO),,2014,249.98
+Western Africa (FAO),,2015,250
+Western Africa (FAO),,2016,250
+Western Africa (FAO),,2017,252
+Western Africa (FAO),,2018,252
+Western Africa (FAO),,2019,252
+Western Africa (FAO),,2020,252
+Western Africa (FAO),,2021,252
+Western Africa (FAO),,2022,252
+Western Africa (FAO),,2023,252
+Western Africa (FAO),,2024,252
+Western Asia (FAO),,1992,785
+Western Asia (FAO),,1993,619
+Western Asia (FAO),,1994,553
+Western Asia (FAO),,1995,580
+Western Asia (FAO),,1996,414
+Western Asia (FAO),,1997,377
+Western Asia (FAO),,1998,443
+Western Asia (FAO),,1999,519
+Western Asia (FAO),,2000,564
+Western Asia (FAO),,2001,602.3
+Western Asia (FAO),,2002,618.5
+Western Asia (FAO),,2003,749.5
+Western Asia (FAO),,2004,826
+Western Asia (FAO),,2005,759
+Western Asia (FAO),,2006,577
+Western Asia (FAO),,2007,752
+Western Asia (FAO),,2008,742
+Western Asia (FAO),,2009,800
+Western Asia (FAO),,2010,934
+Western Asia (FAO),,2011,923.36
+Western Asia (FAO),,2012,931.42
+Western Asia (FAO),,2013,946.46
+Western Asia (FAO),,2014,1015.86
+Western Asia (FAO),,2015,1064.27
+Western Asia (FAO),,2016,1060
+Western Asia (FAO),,2017,1061
+Western Asia (FAO),,2018,641
+Western Asia (FAO),,2019,641
+Western Asia (FAO),,2020,641
+Western Asia (FAO),,2021,641
+Western Asia (FAO),,2022,641
+Western Asia (FAO),,2023,641
+Western Asia (FAO),,2024,641
+World,OWID_WRL,1961,725645.75
+World,OWID_WRL,1962,732113.9
+World,OWID_WRL,1963,743635.6
+World,OWID_WRL,1964,754122.06
+World,OWID_WRL,1965,779426
+World,OWID_WRL,1966,794388.44
+World,OWID_WRL,1967,804966.44
+World,OWID_WRL,1968,834054.94
+World,OWID_WRL,1969,885561.44
+World,OWID_WRL,1970,874325.5
+World,OWID_WRL,1971,906359.9
+World,OWID_WRL,1972,928032.9
+World,OWID_WRL,1973,966157.75
+World,OWID_WRL,1974,963786.6
+World,OWID_WRL,1975,1015417.8
+World,OWID_WRL,1976,1055025.5
+World,OWID_WRL,1977,1112885.1
+World,OWID_WRL,1978,1150808.4
+World,OWID_WRL,1979,1145657.8
+World,OWID_WRL,1980,1199336.8
+World,OWID_WRL,1981,1214565.1
+World,OWID_WRL,1982,1234123.9
+World,OWID_WRL,1983,1321845.5
+World,OWID_WRL,1984,1520443.8
+World,OWID_WRL,1985,1749019.9
+World,OWID_WRL,1986,1836552.6
+World,OWID_WRL,1987,1925187.8
+World,OWID_WRL,1988,2059612.4
+World,OWID_WRL,1989,2115797.5
+World,OWID_WRL,1990,2292779
+World,OWID_WRL,1991,2535752.5
+World,OWID_WRL,1992,2742805
+World,OWID_WRL,1993,3030639.5
+World,OWID_WRL,1994,3616245.2
+World,OWID_WRL,1995,4013983
+World,OWID_WRL,1996,4701523
+World,OWID_WRL,1997,3534734
+World,OWID_WRL,1998,3704543
+World,OWID_WRL,1999,3881602
+World,OWID_WRL,2000,3989291.5
+World,OWID_WRL,2001,4067902.8
+World,OWID_WRL,2002,4140701.5
+World,OWID_WRL,2003,4317769.5
+World,OWID_WRL,2004,4364273.5
+World,OWID_WRL,2005,4490762.5
+World,OWID_WRL,2006,4492522
+World,OWID_WRL,2007,4683562
+World,OWID_WRL,2008,4959376
+World,OWID_WRL,2009,5110301.5
+World,OWID_WRL,2010,5175546.5
+World,OWID_WRL,2011,5267667.5
+World,OWID_WRL,2012,5375563
+World,OWID_WRL,2013,5435914.5
+World,OWID_WRL,2014,5541154.5
+World,OWID_WRL,2015,5798793
+World,OWID_WRL,2016,5982273
+World,OWID_WRL,2017,5687520.5
+World,OWID_WRL,2018,5686942
+World,OWID_WRL,2019,5880238
+World,OWID_WRL,2020,6127445
+World,OWID_WRL,2021,6099017
+World,OWID_WRL,2022,6218311.5
+World,OWID_WRL,2023,6221346.5
+World,OWID_WRL,2024,6300923

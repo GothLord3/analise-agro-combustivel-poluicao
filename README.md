@@ -21,7 +21,7 @@ Em meio a data de 10/11/26, essa pesquisa se encontra tendo em seu foco, as segu
 - Consumo médio de combustiveis fósseis *(sendo eles: carvão, gás e petróleo)* em *terawatts por hora* **(twh)**.
 - Emissão média de *CO₂* na atmosfera *(sendo dividido em: emissão por fontes de combustivel fóssil, e emissão por desmatamento / alteração de solo)* em toneladas **(t)**.
 
-Sendo todas organizadas e agregados no formato '**país/ano**', no período de **1961** á **2023**.
+Sendo todas organizadas e agregados no formato '**país/ano**', no período de **1965** á **2023**.
 
 ---
 ### Replicação dos resultados:

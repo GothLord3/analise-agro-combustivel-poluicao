@@ -1,7 +1,7 @@
-# Analise da correlação entre agronegócio, combustivel fóssil e poluicao
+# Análise da correlação entre agronegócio, combustivel fóssil e poluição
 Análise correlacional entre agronegócio, energia de combustível fóssil e poluição, por meio de um modelo preditivo
 
-Essa pesquisa, tem como objetivo, a criação de um modelo preditivo de analise supervisionada, que seja capaz de investigar a correlação entre:
+Essa pesquisa, tem como objetivo, a criação de um modelo preditivo de análise supervisionada, que seja capaz de investigar a correlação entre:
 
 - Produção e consumo das culturas agrícolas.
  - Produção, consumo, importação e exportação de combustíveis fósseis.
@@ -10,23 +10,23 @@ Essa pesquisa, tem como objetivo, a criação de um modelo preditivo de analise 
 Referente a matéria de '*Programação para Ciência de Dados I*', ministrada por '*Ronaldo Rodrigues Martins*', perante o curso '*Ciência de Dados para o Agronegócio*' da 'Faculdade de Tecnologia (FATEC) de Catanduva'.
 
  ---
-### Atual Estado da análise:
+### Atual estado da análise:
 
 Em meio a data de 10/11/26, essa pesquisa se encontra tendo em seu foco, as seguintes fontes:
 
 - Produção da *cultura agricola milho* em *toneladas* **(t)**.
-- Produçaõ da *cultura agricola trigo* em *toneladas* **(t)**.
+- Produção da *cultura agricola trigo* em *toneladas* **(t)**.
 - Produção da *cultura agricola arroz* em *toneladas* **(t)**.
 - Oferta de consumo média em *quilocalorias por pessoa diariamente* **(kcal/pessoa/dia)**.
-- Consumo médio de combustiveis fósseis *(sendo eles: carvão, gás e petróleo)* em *terawatts por hora* **(twh)**.
-- Emissão média de *CO₂* na atmosfera *(sendo dividido em: emissão por fontes de combustivel fóssil, e emissão por desmatamento / alteração de solo)* em toneladas **(t)**.
+- Consumo médio de combustíveis fósseis *(sendo eles: carvão, gás e petróleo)* em *terawatts por hora* **(twh)**.
+- Emissão média de *CO₂* na atmosfera *(sendo dividido em: emissão por fontes de combustível fóssil, e emissão por desmatamento / alteração de solo)* em toneladas **(t)**.
 
 Sendo todas organizadas e agregados no formato '**país/ano**', no período de **1965** á **2023**.
 
 ---
 ### Replicação dos resultados:
 
-Para a replicação dos resultados obtidos por meio desta analise, efetue os seguintes passos:
+Para a replicação dos resultados obtidos por meio desta análise, efetue os seguintes passos:
 
 ---
 
@@ -48,7 +48,7 @@ Em Windows:
 Linux/Mac OS:
 ``` python3 caminho/setup.py ```
 
-Ele irá criar o ambiente .venv, e instalar os requirementos e dependências em [requirements.txt](requirements.txt).
+Ele irá criar o ambiente .venv, e instalar os requerimentos e dependências em [requirements.txt](requirements.txt).
 Depois, basta escolher o .venv como interpretador de Python no VSCode.
 Agora você pode executar o [main.ipynb](main.ipynb) livremente.
 

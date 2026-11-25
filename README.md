@@ -1,68 +1,91 @@
-# Análise da correlação entre agronegócio, combustivel fóssil e poluição
-Análise correlacional entre agronegócio, energia de combustível fóssil e poluição, por meio de um modelo preditivo
+# Análise da correlação entre agronegócio, combustíveis fósseis e poluição
 
-Essa pesquisa, tem como objetivo, a criação de um modelo preditivo de análise supervisionada, que seja capaz de investigar a correlação entre:
+Essa pesquisa reúne dados de produção agrícola, consumo de energia fóssil e emissões de CO₂ do Our World in Data. Na etapa supervisionada, comparamos quatro classificadores para responder:
 
-- Produção e consumo das culturas agrícolas.
- - Produção, consumo, importação e exportação de combustíveis fósseis.
- - Produção de CO₂ provenientes de alteração do solo, e combustíveis fósseis.
+**A partir dos indicadores de um país e do crescimento agrícola mais recente, é possível prever se a produção conjunta de milho, trigo e arroz crescerá mais de 5% no ano seguinte?**
 
-Referente a matéria de '*Programação para Ciência de Dados I*', ministrada por '*Ronaldo Rodrigues Martins*', perante o curso '*Ciência de Dados para o Agronegócio*' da 'Faculdade de Tecnologia (FATEC) de Catanduva'.
+Trabalho de Programação para Ciência de Dados I, ministrada por Ronaldo Rodrigues Martins, no curso Ciência de Dados para o Agronegócio da FATEC de Catanduva.
 
- ---
-### Atual estado da análise:
+**Integrantes:** Clara D. Gongazaga, Gabriel G. Lima, Matheus e Rodrigo S. Bertolini.
 
-Em meio a data de 10/11/26, essa pesquisa se encontra tendo em seu foco, as seguintes fontes:
+**Turma:** CDA - Ciência de Dados, 1º ano (curso anual).
 
-- Produção da *cultura agricola milho* em *toneladas* **(t)**.
-- Produção da *cultura agricola trigo* em *toneladas* **(t)**.
-- Produção da *cultura agricola arroz* em *toneladas* **(t)**.
-- Oferta de consumo média em *quilocalorias por pessoa diariamente* **(kcal/pessoa/dia)**.
-- Consumo médio de combustíveis fósseis *(sendo eles: carvão, gás e petróleo)* em *terawatts por hora* **(twh)**.
-- Emissão média de *CO₂* na atmosfera *(sendo dividido em: emissão por fontes de combustível fóssil, e emissão por desmatamento / alteração de solo)* em toneladas **(t)**.
-
-Sendo todas organizadas e agregados no formato '**país/ano**', no período de **1965** á **2023**.
-
----
-### Replicação dos resultados:
-
-Para a replicação dos resultados obtidos por meio desta análise, efetue os seguintes passos:
+**Entrega final:** 25/11/2026.
 
 ---
 
-### Para o ambiente colab:
+### O que foi analisado
 
-Abra o arquivo .ipynb principal ([main.ipynb](main.ipynb)) no [Google Colab](https://colab.research.google.com/).
-Salve a pasta [Datasets/](Datasets/) em "/content/" dentro da sua instância do Google Colab.
-Agora você pode prosseguir com as instruções presentes no notebook.
+- Produção de milho, trigo e arroz, em toneladas.
+- Oferta de energia alimentar, em kcal/pessoa/dia.
+- Consumo total de carvão, petróleo e gás, em TWh.
+- Emissões de CO₂ de combustíveis fósseis e mudança no uso da terra, em toneladas.
+
+Os dados são integrados por país/território e ano, no período de **1965 a 2023**. A soma das três culturas representa somente esse recorte do agro. Energia e emissões são totais nacionais de vários setores.
+
+O alvo tem duas classes: **1 = crescimento > 5%** e **0 = crescimento ≤ 5%**, incluindo estabilidade e queda. Usamos sete atributos: os seis indicadores do ano de referência e o crescimento agrícola do ano anterior para o de referência. Os valores do ano seguinte servem apenas para obter a classe real.
+
+### Notebook
+
+A pesquisa está documentada em [main.ipynb](main.ipynb), com os dados, gráficos, implementação dos classificadores e discussão dos resultados. O roteiro de estudo do grupo fica separado em `ROTEIRO_APRESENTACAO.txt`.
+
+### Resultados desta execução
+
+A base final contém **3.382 exemplos de 91 países/territórios**. Os anos-alvo até 2013 ficaram no treino (2.596 exemplos), e de 2014 a 2023 no teste (786 exemplos). A normalização foi ajustada somente no treino.
+
+| Classificador | Acurácia no teste | Precisão da classe 1 | Recall da classe 1 |
+|---|---:|---:|---:|
+| Árvore de Decisão | 66,79% | 62,50% | 22,65% |
+| Random Forest | 63,36% | 49,79% | 41,81% |
+| KNN | 58,40% | 43,33% | 45,30% |
+| Naive Bayes | 40,84% | 36,95% | 87,80% |
+
+A referência que sempre prevê a classe mais comum do treino obteve **63,49%** de acurácia. A Árvore de Decisão foi a melhor dos quatro por acurácia e permitiu visualizar regras simples, mas deixou de identificar muitos crescimentos superiores a 5%. O notebook discute esse limite, os erros dos demais modelos e o sobreajuste observado na Random Forest. Os resultados não demonstram causalidade nem garantem previsão de safras futuras.
+
+As tabelas completas e as matrizes de confusão ficam em [Resultados/](Resultados/).
 
 ---
 
-### Para rodar localmente:
+### Para rodar localmente
 
-Execute o arquivo [setup.py](setup.py) diretamente no seu terminal ou em uma IDE
+Com Python 3.12 disponível, execute o [setup.py](setup.py):
 
-Em Windows:
-``` python caminho/setup.py ```
+```powershell
+python setup.py
+```
 
-Linux/Mac OS:
-``` python3 caminho/setup.py ```
+O script cria o ambiente `.venv` na pasta do projeto e instala as dependências de [requirements.txt](requirements.txt). No VS Code, abra a pasta do projeto, escolha o Python de `.venv` como kernel e execute o notebook de cima para baixo.
 
-Ele irá criar o ambiente .venv, e instalar os requerimentos e dependências em [requirements.txt](requirements.txt).
-Depois, basta escolher o .venv como interpretador de Python no VSCode.
-Agora você pode executar o [main.ipynb](main.ipynb) livremente.
+Para abrir pelo JupyterLab no Windows:
 
----
-### Inventário
+```powershell
+.\.venv\Scripts\python.exe -m jupyterlab main.ipynb
+```
 
-Atualemnte, a pasta [Datasets/](Datasets/) contém 239 datasets, baixados diretamente do [Our World in Data](https://ourworldindata.org/). 
-<!-- Para uma visão mais detalhada de todos esses datasets, utilize o resumo presente em [resumo-datasets.md](resumo-datasets.md). -->
+No Linux ou macOS:
 
----
-### Dados utilizados
+```bash
+python3 setup.py
+.venv/bin/python -m jupyterlab main.ipynb
+```
 
-Todos os datasets utilizados para essa análise, foram adquiridos de 3 principais char no [Our World in Data](https://ourworldindata.org/), sendo eles:
+As versões usadas estão fixadas em `requirements.txt` e registradas em [Resultados/versoes.csv](Resultados/versoes.csv). O notebook não precisa de chave de API nem de arquivo `.env`.
 
-- [Agricultural Production](https://ourworldindata.org/agricultural-production) - Hannah Ritchie, Pablo Rosado e Max Roser (Our World in Data, 2023).
-- [Fossil fuels](https://ourworldindata.org/grapher/fossil-fuels) - Hannah Ritchie, Pablo Rosado e Max Roser (Our World in Data, 2023 - dados de: Energy Institute, EIA, Etemad & Luciani, e Smil).
-- [CO₂ emissions](https://ourworldindata.org/co2-emissions) - Hannah Ritchie e Max Roser (Our World in Data, 2020).
+### Para o ambiente Colab
+
+Abra `main.ipynb` no [Google Colab](https://colab.research.google.com/), coloque a pasta `Datasets` em `/content/Datasets` e execute de cima para baixo. Se necessário, use a célula comentada de instalação ou instale as versões de `requirements.txt`. As versões do ambiente podem influenciar os resultados.
+
+### Arquivos de dados
+
+O acervo contém **239 CSVs originais**, baixados pelo grupo. Somente os seis arquivos especificados no notebook entram nesta análise. O [resumo dos datasets](resumo-datasets.md) identifica essa seleção.
+
+A execução recria os arquivos de `Datasets/Tratados` no recorte de 1965 a 2023, incluindo `base_classificacao.csv`, e os resultados em `Resultados`. Os CSVs originais são preservados.
+
+### Fontes e metodologia
+
+- [Agricultural Production](https://ourworldindata.org/agricultural-production), Our World in Data.
+- [Fossil fuels](https://ourworldindata.org/grapher/fossil-fuels), Our World in Data.
+- [CO₂ emissions](https://ourworldindata.org/co2-emissions), Our World in Data.
+- Materiais das Unidades 2 a 4 de Princípios de Ciência de Dados, professor Ronaldo Rodrigues Martins: correlação, árvores, KNN, Naive Bayes, ensembles e avaliação de classificadores. As aulas usadas estão identificadas no notebook.
+
+Foram utilizados os arquivos já presentes no repositório. As páginas das fontes podem disponibilizar versões atualizadas dos dados.

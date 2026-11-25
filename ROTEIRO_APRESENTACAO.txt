@@ -1,0 +1,86 @@
+ROTEIRO DE APRESENTAÇÃO - P4
+
+1. CLARA - CONTEXTO E OBJETIVO (CERCA DE 2 MINUTOS)
+
+Apresentar as três bases do Our World in Data e o recorte de milho, trigo e arroz.
+A pergunta é se os indicadores de um país permitem classificar crescimento superior
+a 5% no ano seguinte. A classe 1 representa crescimento > 5%; a classe 0 inclui
+crescimento de até 5%, estabilidade e queda.
+
+A produção é medida em toneladas, o consumo fóssil em TWh e a oferta alimentar em
+kcal/pessoa/dia. Energia e CO₂ são totais nacionais; não são exclusivos da agricultura.
+
+2. GABRIEL - DADOS E PREPARAÇÃO (CERCA DE 2 MINUTOS)
+
+Mostrar as estatísticas e as ausências. O painel tem 12.735 registros; a seleção de
+dados completos resulta em 3.382 exemplos de 91 países e territórios. Ausência não
+foi preenchida com zero, pois não conhecer a produção não significa que ela foi nula.
+
+Na matriz de correlação, consumo fóssil e CO₂ têm correlação próxima de 0,97.
+Isso não demonstra causalidade: países maiores e tendências históricas influenciam os totais.
+
+Explicar a diferença entre ano de referência e ano-alvo. Para a referência 2010,
+usamos os indicadores de 2010 e o crescimento de 2009 para 2010. A produção de
+2011 serve somente para definir a resposta. Ela não entra nos atributos do modelo.
+
+Treino: anos-alvo até 2013, com 2.596 exemplos. Teste: 2014 a 2023, com 786 exemplos.
+O MinMaxScaler aprende os limites apenas no treino; no teste usamos transform.
+
+3. MATHEUS - MODELOS E AVALIAÇÃO (CERCA DE 2 MINUTOS)
+
+KNN: votação dos três exemplos mais próximos, após normalizar os atributos.
+Árvore: regras que separam as classes, usando entropia e profundidade máxima 3.
+Naive Bayes: combina probabilidades; assume independência dos atributos dentro da classe.
+Random Forest: reúne 100 árvores, com amostras de treino obtidas com reposição.
+
+fit recebe atributos e classes do treino. predict recebe apenas atributos do teste.
+
+Na matriz, as linhas são as classes previstas e as colunas são as classes reais.
+A classe positiva aparece primeiro. O código transpõe a matriz do scikit-learn
+para seguir a orientação utilizada pelo professor.
+
+VP: previu > 5% e ocorreu > 5%. VN: previu ≤ 5% e ocorreu ≤ 5%.
+FP: previu > 5%, mas não ocorreu. FN: ocorreu > 5%, mas o modelo não identificou.
+
+4. RODRIGO - RESULTADOS E CONCLUSÃO (CERCA DE 2 MINUTOS)
+
+A árvore obteve a maior acurácia: 66,79%, contra 63,49% da referência.
+A referência sempre prevê a classe mais frequente no treino, que é a classe 0.
+
+A árvore acertou 525 de 786 observações. Identificou 65 dos 287 crescimentos > 5%:
+recall de 22,65%. Foram 65 VP, 460 VN, 39 FP e 222 FN.
+Precisão = 65 / (65 + 39) = 62,50%.
+Recall = 65 / (65 + 222) = 22,65%.
+
+A Random Forest obteve 100% no treino e 63,36% no teste, sinal de sobreajuste.
+O KNN obteve 58,40% de acurácia. O Naive Bayes teve recall de 87,80%, mas gerou
+430 falsos positivos: detectar mais crescimentos também trouxe muitos erros.
+
+A árvore foi escolhida pela acurácia e pela possibilidade de interpretar regras.
+O recall baixo limita sua utilidade. A conclusão é de ganho restrito no período,
+sem afirmar que o modelo esteja pronto para prever safras reais.
+
+Melhorias: acrescentar clima e área plantada, avaliar outros períodos e comparar
+modelos com e sem energia e CO₂ para estudar a contribuição dessas variáveis.
+
+PONTOS DO CÓDIGO QUE PODEM SER QUESTIONADOS
+
+- Code + Year: identificam país e ano; impedem misturar locais ou períodos na junção.
+- outer: preserva registros das fontes para que as ausências sejam identificadas.
+- min_count=3: só soma a produção quando milho, trigo e arroz estão registrados.
+- O ano da tabela anterior recebe +1 para se juntar à referência seguinte.
+  O da tabela futura recebe -1 para se juntar à referência anterior.
+- Bases de produção zero não permitem calcular crescimento percentual.
+- O alvo compara a produção seguinte com 1,05 vezes a atual. Exatamente 5% é classe 0.
+- ATRIBUTOS não contém a produção seguinte, seu crescimento ou a classe.
+- A divisão temporal foi usada porque a resposta pertence ao futuro; não se deve
+  treinar com anos posteriores para avaliar previsões de anos anteriores.
+- MinMaxScaler evita que toneladas dominem as distâncias só por terem números maiores.
+- random_state=42 fixa os componentes aleatórios para permitir repetir o experimento.
+- zero_division=0 evita divisão por zero caso um modelo não faça previsões positivas.
+- Na árvore, os limites estão normalizados. samples conta exemplos; value mostra
+  as quantidades das classes [0, 1]; entropy mede a mistura entre as classes.
+- A massa das três culturas não representa produtividade por hectare, renda nem todo o agro.
+- O teste também foi usado para comparar modelos. Outro período seria necessário
+  para confirmar se a vantagem da árvore se mantém.
+

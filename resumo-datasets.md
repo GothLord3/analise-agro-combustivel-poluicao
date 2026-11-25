@@ -1,6 +1,6 @@
 # Dados utilizados na análise
 
-O acervo original do grupo contém 239 CSVs do Our World in Data. A pesquisa usa as seis séries abaixo, integradas por `Code` e `Year`, entre 1965 e 2023.
+O acervo original contém 239 CSVs do Our World in Data. A pesquisa usa as seis séries abaixo, integradas por `Code` e `Year`, entre 1965 e 2023.
 
 | Indicador | Arquivo em `Datasets/Our World in Data` | Unidade |
 |---|---|---|
@@ -17,7 +17,7 @@ Os arquivos tratados são recriados pela execução de `main.ipynb`:
 
 - `agricultura.csv`: culturas, soma das três produções e oferta alimentar.
 - `combustiveis.csv`: consumo de energia fóssil por país/ano.
-- `co2.csv`: emissões por país/ano.
+- `co2.csv`: emissões de CO₂ por país/ano.
 - `painel_pais_ano.csv`: integração das seis séries, ainda com ausências.
 - `base_classificacao.csv`: exemplos completos, atributos, valores para auditar o alvo e identificação de treino/teste.
 

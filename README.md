@@ -1,16 +1,14 @@
 # Análise da correlação entre agronegócio, combustíveis fósseis e poluição
 
-Essa pesquisa reúne dados de produção agrícola, consumo de energia fóssil e emissões de CO₂ do Our World in Data. Na etapa supervisionada, comparamos quatro classificadores para responder:
-
-**A partir dos indicadores de um país e do crescimento agrícola mais recente, é possível prever se a produção conjunta de milho, trigo e arroz crescerá mais de 5% no ano seguinte?**
-
 Trabalho de Programação para Ciência de Dados I, ministrada por Ronaldo Rodrigues Martins, no curso Ciência de Dados para o Agronegócio da FATEC de Catanduva.
 
-**Integrantes:** Clara D. Gongazaga, Gabriel G. Lima, Matheus e Rodrigo S. Bertolini.
+**Integrantes:** Clara D. Gonzaga, Gabriel G. Lima, Mateus e Rodrigo S. Bertolini.
 
 **Turma:** CDA - Ciência de Dados, 1º ano (curso anual).
 
-**Entrega final:** 25/11/2026.
+Essa pesquisa reúne dados de produção agrícola, consumo de energia fóssil e emissões de CO₂ do Our World in Data. Na etapa supervisionada, comparamos quatro classificadores para responder:
+
+**A partir dos indicadores de um país e do crescimento agrícola mais recente, é possível prever se a produção conjunta de milho, trigo e arroz crescerá mais de 5% no ano seguinte?**
 
 ---
 

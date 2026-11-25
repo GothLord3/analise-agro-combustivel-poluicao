@@ -4,7 +4,7 @@ Trabalho de Programação para Ciência de Dados I, ministrada por Ronaldo Rodri
 
 **Integrantes:** Clara D. Gonzaga, Gabriel G. Lima, Mateus e Rodrigo S. Bertolini.
 
-**Turma:** CDA - Ciência de Dados, 1º ano (curso anual).
+**Turma:** CDA - Ciência de Dados, 1º ano.
 
 Essa pesquisa reúne dados de produção agrícola, consumo de energia fóssil e emissões de CO₂ do Our World in Data. Na etapa supervisionada, comparamos quatro classificadores para responder:
 
@@ -25,7 +25,7 @@ O alvo tem duas classes: **1 = crescimento > 5%** e **0 = crescimento ≤ 5%**, 
 
 ### Notebook
 
-A pesquisa está documentada em [main.ipynb](main.ipynb), com os dados, gráficos, implementação dos classificadores e discussão dos resultados. O roteiro de estudo do grupo fica separado em `ROTEIRO_APRESENTACAO.txt`.
+A pesquisa está documentada em [main.ipynb](main.ipynb), com os dados, gráficos, implementação dos classificadores e discussão dos resultados.
 
 ### Resultados desta execução
 

@@ -2,7 +2,7 @@
 
 Trabalho de Programação para Ciência de Dados I, ministrada por Ronaldo Rodrigues Martins, no curso Ciência de Dados para o Agronegócio da FATEC de Catanduva.
 
-**Integrantes:** Clara D. Gonzaga, Gabriel G. Lima, Mateus e Rodrigo S. Bertolini.
+**Integrantes:** Clara D. Gonzaga, Gabriel G. Lima, e Rodrigo S. Bertolini.
 
 **Turma:** CDA - Ciência de Dados, 1º ano.
 

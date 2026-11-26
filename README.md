@@ -84,6 +84,6 @@ A execução recria os arquivos de `Datasets/Tratados` no recorte de 1965 a 2023
 - [Agricultural Production](https://ourworldindata.org/agricultural-production), Our World in Data.
 - [Fossil fuels](https://ourworldindata.org/grapher/fossil-fuels), Our World in Data.
 - [CO₂ emissions](https://ourworldindata.org/co2-emissions), Our World in Data.
-- Materiais das Unidades 2 a 4 de Princípios de Ciência de Dados, professor Ronaldo Rodrigues Martins: correlação, árvores, KNN, Naive Bayes, ensembles e avaliação de classificadores. As aulas usadas estão identificadas no notebook.
+- Materiais de Ciência de Dados, professor Ronaldo Rodrigues Martins: correlação, árvores, KNN, Naive Bayes, ensembles e avaliação de classificadores.
 
 Foram utilizados os arquivos já presentes no repositório. As páginas das fontes podem disponibilizar versões atualizadas dos dados.
